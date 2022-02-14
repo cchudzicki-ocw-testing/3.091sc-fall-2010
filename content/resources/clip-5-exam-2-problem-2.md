@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Self-Assessment: Structure of the Atom'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 5: Exam 2, Problem 2'
 uid: 60bdf861-cae0-002e-ffda-1319f1b25d82

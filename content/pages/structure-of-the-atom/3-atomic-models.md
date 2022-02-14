@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Structure of the Atom
+parent_type: CourseSection
 parent_uid: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
 title: '3. Atomic Models: Rutherford & Bohr'
+type: CourseSection
 uid: 313524b4-840e-e388-74ee-c0ea90001bd5
 ---
 

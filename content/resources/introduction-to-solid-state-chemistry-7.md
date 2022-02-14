@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 6. Particle-Wave Duality
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6: Particle-Wave Duality'
 uid: ab87da6b-edb3-e4ca-7b86-233dcd6c1afb

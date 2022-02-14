@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Self-Assessment: Reactions and Kinetics'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Exam 3, Problem 4'
 uid: 4ea6fbe8-744b-c3f7-b875-eab45ea267a5

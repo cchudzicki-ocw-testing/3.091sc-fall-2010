@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Self-Assessment: Organic Materials'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Final Exam, Problem 13'
 uid: 4396c098-dfa2-e3ea-c796-ee37f8b5a5b7

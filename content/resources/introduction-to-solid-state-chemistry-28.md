@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 27. Introduction to Organic Chemistry
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 27: Introduction to Organic Chemistry'
 uid: f9d62365-f3d7-63b3-3b06-3e4c09e3ba67

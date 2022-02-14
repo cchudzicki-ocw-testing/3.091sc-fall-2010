@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: '4. Matter/Energy Interactions: Atomic Spectra'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Matter/Energy Interactions: Atomic Spectra'
 uid: f254169d-92e6-97f2-e384-0a380b91fe87

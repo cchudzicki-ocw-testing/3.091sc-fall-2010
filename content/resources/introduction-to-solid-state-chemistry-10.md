@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 9. Drawing Lewis Structures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9: Drawing Lewis Structures'
 uid: 30847fde-fe8e-e9c3-128d-b79fb919bf8a

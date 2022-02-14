@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Self-Assessment: Structure of the Atom'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 3: Exam 1, Problem 4'
 uid: ae39aafd-b9a7-f76b-2653-40100e74d538

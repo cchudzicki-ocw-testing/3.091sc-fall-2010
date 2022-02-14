@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: '30. Biochemistry: Amino Acids'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 30: Biochemistry: Amino Acids'
 uid: 310027d0-b3b8-15d5-60c1-3bff223dc3e3

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: '35. Binary Phase Diagrams: Limited Solubility'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 35: Binary Phase Diagrams: Limited Solubility'
 uid: d4f40ce0-a5c1-00f2-682f-4587caf61a44

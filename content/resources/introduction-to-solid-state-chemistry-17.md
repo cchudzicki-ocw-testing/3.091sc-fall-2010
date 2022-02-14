@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 16. Crystallographic Notation & X-Rays
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 16: Crystallographic Notation & X-Rays'
 uid: a80dccab-94eb-7825-a50f-c7cb8418deb7

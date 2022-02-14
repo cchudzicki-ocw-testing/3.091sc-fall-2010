@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Meet the TAs
+parent_type: CourseSection
 resourcetype: Image
 title: spatocco.jpg
+type: OCWImage
 uid: bc1cf0f9-04fd-a3c6-05a0-04abff67fe8e
 ---

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 17. X-Ray Emission & Absorption
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 17: X-Ray Emission & Absorption'
 uid: 30ce22d7-9805-5469-063f-e4fb34294755

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 1. Introduction to Solid State Chemistry
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: Introduction to Solid State Chemistry'
 uid: 49b6c099-4f7e-6b34-d2bb-2159ca5a55a5

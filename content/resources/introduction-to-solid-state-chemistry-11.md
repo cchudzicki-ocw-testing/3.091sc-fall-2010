@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 10. Hybridized & Molecular Orbitals; Paramagnetism
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10: Hybridized & Molecular Orbitals, Paramagnetism'
 uid: 10eaa84f-35a3-ea02-782b-3bb1bde25e6b

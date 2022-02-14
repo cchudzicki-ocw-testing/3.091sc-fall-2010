@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 22: Engineering Glass Properties, Introduction to Kinetics'
 uid: 8cbf6e3d-a932-2176-e0ff-bb59925bf1f1

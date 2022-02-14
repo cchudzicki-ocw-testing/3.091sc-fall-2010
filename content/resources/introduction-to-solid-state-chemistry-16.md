@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 15. Introduction to Crystallography
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 15: Introduction to Crystallography'
 uid: a24fc2d0-0f27-8c1b-5eec-5a2c03a310c9

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 19. Point & Line Defects
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 19: Point & Line Defects'
 uid: 9bdbf86f-6b31-e91e-cbac-3e79af1fe6da

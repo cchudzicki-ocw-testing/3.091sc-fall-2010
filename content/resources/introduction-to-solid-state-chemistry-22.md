@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 21. Introduction to Glasses
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Introduction to Glasses'
 uid: e0a7a8df-c6a2-f948-da19-3e293e7484d9

@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Electronic Materials
+parent_type: CourseSection
 parent_uid: 391990ee-f653-5d34-974e-42391c0cb5b5
 title: 'Self-Assessment: Electronic Materials'
+type: CourseSection
 uid: 3452e351-524d-2e8f-7020-05d4103e2aaf
 ---
 

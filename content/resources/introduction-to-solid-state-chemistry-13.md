@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 12. Intermolecular Forces
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 12: Intermolecular Forces'
 uid: ff05bcee-ffe9-3f9a-3a51-e7644e9c5b49

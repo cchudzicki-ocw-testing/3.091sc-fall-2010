@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Meet the TAs
+parent_type: CourseSection
 resourcetype: Image
 title: barriga.jpg
+type: OCWImage
 uid: 1eb4d74a-f4fb-afbc-f947-e1c526289c2c
 ---

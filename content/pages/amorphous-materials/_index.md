@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Amorphous Materials
+type: CourseSection
 uid: 79828d9f-9980-e3bc-b791-bd1403164706
 ---
 

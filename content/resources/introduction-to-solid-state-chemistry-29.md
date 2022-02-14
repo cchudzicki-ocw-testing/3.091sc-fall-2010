@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: '28. Polymers: Structure & Composition'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 28: Polymers: Structure & Composition'
 uid: 149234f4-6028-2f62-4f73-d3f07b4c2671

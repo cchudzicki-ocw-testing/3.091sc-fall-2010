@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 11. The Shapes of Molecules
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 11: The Shapes of Molecules'
 uid: 5417be68-5b45-59eb-969e-d1d0716692d1

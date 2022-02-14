@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: '34. Binary Phase Diagrams: Complete Solubility'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 34: Binary Phase Diagrams: Complete Solubility'
 uid: 82a9f000-8cd5-6855-2985-fd725b32aa71

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 5. Electron Shell Model & Quantum Numbers
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Electron Shell Model & Quantum Numbers'
 uid: 0e158bd4-4996-482f-208f-be8c6c378e17

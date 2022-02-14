@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Crystalline Materials
+type: CourseSection
 uid: b66bb6b5-1948-c461-fd27-7f44614156ed
 ---
 

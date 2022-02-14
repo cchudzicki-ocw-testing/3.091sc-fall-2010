@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Meet the TAs
+parent_type: CourseSection
 resourcetype: Image
 title: newhouse.jpg
+type: OCWImage
 uid: 964d2760-acde-7d60-33fa-28212751d1b0
 ---

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: '32. Biochemistry: Lipids, Nucleic Acids & DNA'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 32: Biochemistry: Lipids, Nucleic Acids & DNA'
 uid: 73fa28f0-896c-d065-c788-67c2b2f59763

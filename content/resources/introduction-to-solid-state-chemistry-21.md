@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 20. Line, Interface & Bulk Defects
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 20: Line, Interface & Bulk Defects'
 uid: 58945ffe-c977-057a-e7ed-7c2f7e5f01bb

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 7. The Aufbau Principle; Photoelectron Spectroscopy
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: The Aufbau Principle; Photoelectron Spectroscopy'
 uid: 45753d8f-95b9-403d-21c2-12b99d91c693

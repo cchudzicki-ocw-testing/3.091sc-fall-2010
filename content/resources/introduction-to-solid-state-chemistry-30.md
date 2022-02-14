@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: '29. Polymers: Synthesis, Properties & Applications'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 29: Polymers: Synthesis, Properties & Applications'
 uid: 85777a6d-4c12-3499-b3de-75874fb57714

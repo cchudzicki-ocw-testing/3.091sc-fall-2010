@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 18. X-Ray Diffraction Techniques
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 18: X-Ray Diffraction Techniques'
 uid: 4bda56df-2148-b4bb-2023-94e37eb86a16
