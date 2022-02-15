@@ -8,6 +8,5 @@ parent_title: 'Self-Assessment: Reactions and Kinetics'
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10Final_Exam_B_Prob_11_300k.srt
-type: OCWFile
 uid: 545178df-735e-dd86-5076-0d840f42f8d1
 ---

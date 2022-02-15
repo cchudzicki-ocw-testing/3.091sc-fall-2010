@@ -8,6 +8,5 @@ parent_title: 16. Crystallographic Notation & X-Rays
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw16_sol.pdf
-type: OCWFile
 uid: 0e1ee253-9dce-f492-0c7e-17c8a4a1a1d5
 ---

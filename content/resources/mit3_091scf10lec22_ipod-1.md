@@ -8,6 +8,5 @@ parent_title: 22. Engineering Glass Properties; Introduction to Kinetics
 parent_type: CourseSection
 resourcetype: Document
 title: MIT OpenCourseWare
-type: OCWFile
 uid: 17a781cd-2e1a-0676-a096-f0a8c6345319
 ---

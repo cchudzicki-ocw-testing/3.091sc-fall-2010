@@ -8,6 +8,5 @@ parent_title: '31. Biochemistry: Protein Structure'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw31_sol.pdf
-type: OCWFile
 uid: 8a56038a-36c8-74fe-d18d-b01f081bdf2d
 ---

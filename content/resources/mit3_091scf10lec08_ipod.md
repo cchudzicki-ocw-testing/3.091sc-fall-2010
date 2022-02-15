@@ -8,6 +8,5 @@ parent_title: 8. Ionic Crystals; Born-Haber Cycle
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10lec08_iPOD.srt
-type: OCWFile
 uid: dcfb94d5-886f-2a2c-9b33-2b56bc7c74c2
 ---

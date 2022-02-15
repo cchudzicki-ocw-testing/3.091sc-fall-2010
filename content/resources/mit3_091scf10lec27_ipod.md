@@ -8,6 +8,5 @@ parent_title: 27. Introduction to Organic Chemistry
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10lec27_iPOD.srt
-type: OCWFile
 uid: ae776fee-c4e9-0769-1b79-b1ff7e3f8598
 ---

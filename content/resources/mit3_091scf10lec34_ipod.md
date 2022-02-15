@@ -8,6 +8,5 @@ parent_title: '34. Binary Phase Diagrams: Complete Solubility'
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10lec34_iPOD.srt
-type: OCWFile
 uid: 8931a96e-1661-f1ad-4bdf-28dc0c33d10f
 ---

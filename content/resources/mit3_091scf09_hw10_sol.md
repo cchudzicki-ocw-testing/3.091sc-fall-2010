@@ -8,6 +8,5 @@ parent_title: 10. Hybridized & Molecular Orbitals; Paramagnetism
 parent_type: CourseSection
 resourcetype: Document
 title: 'Session #10:  Homework Solutions '
-type: OCWFile
 uid: 38507f45-160f-b3ec-ebbf-8b290948873a
 ---

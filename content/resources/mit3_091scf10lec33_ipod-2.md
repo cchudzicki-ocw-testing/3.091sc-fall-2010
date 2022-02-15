@@ -8,6 +8,5 @@ parent_title: 33. Unary Phase Diagrams
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10lec33_iPOD.srt
-type: OCWFile
 uid: b67a2560-c205-537b-9202-e00ea2a433c3
 ---

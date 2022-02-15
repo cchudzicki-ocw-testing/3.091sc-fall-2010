@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Reactions and Kinetics
-type: CourseSection
 uid: 885d39b1-395a-748c-e5bf-46da89d7dc8d
 ---
 

@@ -8,6 +8,5 @@ parent_title: 26. Acids & Bases
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_lec26.pdf
-type: OCWFile
 uid: 640eaa67-87f3-e093-a7a0-feb777896e17
 ---

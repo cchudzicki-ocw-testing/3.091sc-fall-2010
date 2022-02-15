@@ -5,7 +5,6 @@ parent_title: Reactions and Kinetics
 parent_type: CourseSection
 parent_uid: 885d39b1-395a-748c-e5bf-46da89d7dc8d
 title: 24. Diffusion
-type: CourseSection
 uid: 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7
 ---
 

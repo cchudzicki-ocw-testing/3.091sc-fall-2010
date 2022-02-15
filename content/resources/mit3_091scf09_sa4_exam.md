@@ -8,6 +8,5 @@ parent_title: 'Self-Assessment: Crystalline Materials'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_sa4_exam.pdf
-type: OCWFile
 uid: 72f92a63-63c7-a034-3ecc-b2871cf06776
 ---

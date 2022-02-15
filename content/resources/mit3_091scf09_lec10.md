@@ -9,6 +9,5 @@ parent_title: 10. Hybridized & Molecular Orbitals; Paramagnetism
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #10, Orbitals, Bonds, Paramagnetism'
-type: OCWFile
 uid: 8fab69bd-9a8f-6e8d-a2e4-90e8816cfdb5
 ---

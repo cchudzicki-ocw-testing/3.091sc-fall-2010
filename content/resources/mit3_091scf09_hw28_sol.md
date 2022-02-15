@@ -8,6 +8,5 @@ parent_title: '28. Polymers: Structure & Composition'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw28_sol.pdf
-type: OCWFile
 uid: 63768218-aa4a-7a99-eb1c-3e8375012a66
 ---

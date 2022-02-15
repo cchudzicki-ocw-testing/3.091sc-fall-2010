@@ -8,6 +8,5 @@ parent_title: 24. Diffusion
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10lec24_iPOD.srt
-type: OCWFile
 uid: 0133f89d-29c1-b271-78d9-ac7195702768
 ---

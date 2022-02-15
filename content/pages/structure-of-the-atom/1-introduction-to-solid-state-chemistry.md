@@ -5,7 +5,6 @@ parent_title: Structure of the Atom
 parent_type: CourseSection
 parent_uid: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
 title: 1. Introduction to Solid State Chemistry
-type: CourseSection
 uid: 8a1709eb-16be-69bb-41cc-325703c25a95
 ---
 

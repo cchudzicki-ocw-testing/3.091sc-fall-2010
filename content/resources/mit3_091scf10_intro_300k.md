@@ -8,6 +8,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF10_intro_300k
-type: OCWFile
 uid: 4487f67e-709a-da9b-f06f-ba43fef61f69
 ---

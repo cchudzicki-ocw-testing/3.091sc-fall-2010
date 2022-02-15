@@ -8,6 +8,5 @@ parent_title: 'Self-Assessment: Bonding and Molecules'
 parent_type: CourseSection
 resourcetype: Document
 title: 'Self-Assessment: Bonding and Molecules, Supplemental Problem Solutions'
-type: OCWFile
 uid: 736e0dcd-cfaa-e833-4109-794ae0d655da
 ---

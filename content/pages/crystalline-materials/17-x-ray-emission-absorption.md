@@ -5,7 +5,6 @@ parent_title: Crystalline Materials
 parent_type: CourseSection
 parent_uid: b66bb6b5-1948-c461-fd27-7f44614156ed
 title: 17. X-Ray Emission & Absorption
-type: CourseSection
 uid: e504c6fa-63f4-b438-cb24-0e0ef9bc60eb
 ---
 

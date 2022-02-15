@@ -8,6 +8,5 @@ parent_title: '29. Polymers: Synthesis, Properties & Applications'
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10lec29_iPOD.srt
-type: OCWFile
 uid: f95150f9-d843-59cc-3334-677f3148f2e3
 ---

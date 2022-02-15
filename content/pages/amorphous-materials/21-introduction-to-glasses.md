@@ -5,7 +5,6 @@ parent_title: Amorphous Materials
 parent_type: CourseSection
 parent_uid: 79828d9f-9980-e3bc-b791-bd1403164706
 title: 21. Introduction to Glasses
-type: CourseSection
 uid: 1d01a4a6-fa92-2854-cead-1f61b1189649
 ---
 

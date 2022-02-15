@@ -8,6 +8,5 @@ parent_title: 9. Drawing Lewis Structures
 parent_type: CourseSection
 resourcetype: Document
 title: MIT OpenCourseWare
-type: OCWFile
 uid: 7cff369e-e6f3-1429-4d00-c55a8d087970
 ---

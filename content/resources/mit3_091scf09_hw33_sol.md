@@ -8,6 +8,5 @@ parent_title: 33. Unary Phase Diagrams
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw33_sol.pdf
-type: OCWFile
 uid: 69eb408f-6f54-b395-8b37-7efd56f7d409
 ---

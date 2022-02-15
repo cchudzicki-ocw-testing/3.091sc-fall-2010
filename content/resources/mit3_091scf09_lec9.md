@@ -8,6 +8,5 @@ parent_title: 9. Drawing Lewis Structures
 parent_type: CourseSection
 resourcetype: Document
 title: ' Lecture #9, Lewis Structures, Bonds, Orbitals'
-type: OCWFile
 uid: a4e0cd55-113c-d2bc-fe4c-9b4de3719739
 ---

@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Bonding and Molecules
-type: CourseSection
 uid: 6ea956c8-cef5-f99e-6904-09f06d8d5317
 ---
 

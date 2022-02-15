@@ -5,7 +5,6 @@ parent_title: Electronic Materials
 parent_type: CourseSection
 parent_uid: 391990ee-f653-5d34-974e-42391c0cb5b5
 title: 13. Band Theory of Solids
-type: CourseSection
 uid: c567f1c9-3666-523f-ed70-cea0765d0080
 ---
 

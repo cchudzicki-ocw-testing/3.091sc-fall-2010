@@ -8,6 +8,5 @@ parent_title: Final Exam
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_final_sol.pdf
-type: OCWFile
 uid: 1d3b0608-b335-7cae-e543-d49694703434
 ---

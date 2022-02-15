@@ -8,6 +8,5 @@ parent_title: 19. Point & Line Defects
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw19_sol.pdf
-type: OCWFile
 uid: 27300842-939b-23e3-41a6-7f365b09088c
 ---

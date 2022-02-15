@@ -9,6 +9,5 @@ parent_title: 1. Introduction to Solid State Chemistry
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw1_sol.pdf
-type: OCWFile
 uid: 3ff7c3d3-20c4-f287-00a6-1ea4adfbbe6f
 ---

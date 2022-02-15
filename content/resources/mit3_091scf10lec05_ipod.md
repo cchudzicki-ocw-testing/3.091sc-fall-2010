@@ -8,6 +8,5 @@ parent_title: 5. Electron Shell Model & Quantum Numbers
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10lec05_iPOD.srt
-type: OCWFile
 uid: ad29f502-4014-e378-3768-0613622d1201
 ---

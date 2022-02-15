@@ -5,7 +5,6 @@ parent_title: Crystalline Materials
 parent_type: CourseSection
 parent_uid: b66bb6b5-1948-c461-fd27-7f44614156ed
 title: 19. Point & Line Defects
-type: CourseSection
 uid: 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4
 ---
 

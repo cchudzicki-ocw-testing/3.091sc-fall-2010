@@ -8,6 +8,5 @@ parent_title: '4. Matter/Energy Interactions: Atomic Spectra'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw4.pdf
-type: OCWFile
 uid: d321f747-b6a6-2505-ee02-6061b028f727
 ---

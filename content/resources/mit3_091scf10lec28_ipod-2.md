@@ -8,6 +8,5 @@ parent_title: '28. Polymers: Structure & Composition'
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10lec28_iPOD.srt
-type: OCWFile
 uid: 1ed7012b-8e58-5190-a3a6-c6e609b076f8
 ---

@@ -8,6 +8,5 @@ parent_title: 23. Reaction Rates
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw23_sol.pdf
-type: OCWFile
 uid: 90e30430-59bc-8309-0c33-bbb6fc1fd077
 ---

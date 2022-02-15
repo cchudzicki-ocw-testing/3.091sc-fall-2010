@@ -8,6 +8,5 @@ parent_title: 17. X-Ray Emission & Absorption
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw17_sol.pdf
-type: OCWFile
 uid: a895fc22-cf61-8412-f11c-cb662e862fe5
 ---

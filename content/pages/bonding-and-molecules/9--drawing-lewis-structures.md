@@ -5,7 +5,6 @@ parent_title: Bonding and Molecules
 parent_type: CourseSection
 parent_uid: 6ea956c8-cef5-f99e-6904-09f06d8d5317
 title: 9. Drawing Lewis Structures
-type: CourseSection
 uid: 80b4e5be-5325-9c74-0eb6-068392cf19cb
 ---
 

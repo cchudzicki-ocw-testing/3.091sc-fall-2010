@@ -8,6 +8,5 @@ parent_title: 2. The Periodic Table
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw2.pdf
-type: OCWFile
 uid: 8adb6ae0-68b9-2a12-4d57-c7ef9a4c06a4
 ---

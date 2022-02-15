@@ -5,7 +5,6 @@ parent_title: Crystalline Materials
 parent_type: CourseSection
 parent_uid: b66bb6b5-1948-c461-fd27-7f44614156ed
 title: 20. Line, Interface & Bulk Defects
-type: CourseSection
 uid: 5c00821f-505a-eeee-270d-29caeda060dc
 ---
 

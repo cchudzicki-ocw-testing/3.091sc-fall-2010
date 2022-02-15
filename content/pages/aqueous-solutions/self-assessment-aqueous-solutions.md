@@ -5,7 +5,6 @@ parent_title: Aqueous Solutions
 parent_type: CourseSection
 parent_uid: 6ec96be4-5df9-d10d-17f2-85df51807e05
 title: 'Self-Assessment: Aqueous Solutions'
-type: CourseSection
 uid: 72916be9-a577-7e44-0a46-72d4318cea26
 ---
 

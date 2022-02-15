@@ -5,7 +5,6 @@ parent_title: Organic Materials
 parent_type: CourseSection
 parent_uid: 0ab5962f-08b0-e5dd-2488-7c3659767245
 title: '30. Biochemistry: Amino Acids'
-type: CourseSection
 uid: 1391526c-977f-6e58-b0c0-b163bcae3d50
 ---
 

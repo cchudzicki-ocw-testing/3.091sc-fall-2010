@@ -9,6 +9,5 @@ parent_title: 7. The Aufbau Principle; Photoelectron Spectroscopy
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #7, Aufbau Principle, Spectroscopy'
-type: OCWFile
 uid: 332bdd0c-0b87-d708-6a02-54a4cab648d4
 ---

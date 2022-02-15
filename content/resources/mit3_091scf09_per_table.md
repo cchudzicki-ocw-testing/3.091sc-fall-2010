@@ -9,6 +9,5 @@ parent_title: Reference Materials and Suggested Textbooks
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_per_table.pdf
-type: OCWFile
 uid: 1cc82bd7-8ea3-2301-16a6-db5c2b67e84a
 ---

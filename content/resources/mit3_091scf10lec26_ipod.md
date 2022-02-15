@@ -8,6 +8,5 @@ parent_title: 26. Acids & Bases
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10lec26_iPOD.srt
-type: OCWFile
 uid: 01e3c644-9fe3-ace2-1807-219c33300f7f
 ---

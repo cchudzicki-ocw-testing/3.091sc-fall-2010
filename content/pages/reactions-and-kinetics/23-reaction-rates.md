@@ -5,7 +5,6 @@ parent_title: Reactions and Kinetics
 parent_type: CourseSection
 parent_uid: 885d39b1-395a-748c-e5bf-46da89d7dc8d
 title: 23. Reaction Rates
-type: CourseSection
 uid: 568956d9-4b5b-b4e9-70b5-553efd337767
 ---
 

@@ -5,7 +5,6 @@ parent_title: Bonding and Molecules
 parent_type: CourseSection
 parent_uid: 6ea956c8-cef5-f99e-6904-09f06d8d5317
 title: 12. Intermolecular Forces
-type: CourseSection
 uid: 009937ee-55a4-84c8-160b-5248e1f70793
 ---
 

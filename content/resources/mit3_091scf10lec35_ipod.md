@@ -8,6 +8,5 @@ parent_title: '35. Binary Phase Diagrams: Limited Solubility'
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10lec35_iPOD.srt
-type: OCWFile
 uid: 82f34f29-30f1-fda5-0c25-ab10ccb8a40b
 ---

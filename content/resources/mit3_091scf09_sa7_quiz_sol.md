@@ -8,6 +8,5 @@ parent_title: 'Self-Assessment: Aqueous Solutions'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_sa7_quiz_sol.pdf
-type: OCWFile
 uid: 0c06a485-31e1-f6a5-e666-0dfa7018dfe8
 ---

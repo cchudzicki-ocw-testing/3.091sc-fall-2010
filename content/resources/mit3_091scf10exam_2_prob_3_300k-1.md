@@ -8,6 +8,5 @@ parent_title: 'Self-Assessment: Electronic Materials'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF10Exam_2_Prob_3_300k.pdf
-type: OCWFile
 uid: 77215fb2-ac89-d562-db29-47572f1812ce
 ---

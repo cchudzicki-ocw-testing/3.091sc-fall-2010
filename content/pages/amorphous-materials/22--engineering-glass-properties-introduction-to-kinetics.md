@@ -5,7 +5,6 @@ parent_title: Amorphous Materials
 parent_type: CourseSection
 parent_uid: 79828d9f-9980-e3bc-b791-bd1403164706
 title: 22. Engineering Glass Properties; Introduction to Kinetics
-type: CourseSection
 uid: 593608f5-1309-0383-9a58-fb9a2fb6843a
 ---
 

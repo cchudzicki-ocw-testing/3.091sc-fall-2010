@@ -8,6 +8,5 @@ parent_title: 'Self-Assessment: Reactions and Kinetics'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_sa6_supp_sol.pdf
-type: OCWFile
 uid: 496e3792-fbf9-90c3-3b32-0cc474ad81dc
 ---

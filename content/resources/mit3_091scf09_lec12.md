@@ -8,6 +8,5 @@ parent_title: 12. Intermolecular Forces
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #12, Secondary Bonding / Intermolecular Forces'
-type: OCWFile
 uid: 2b2776b5-a909-a9d2-4085-937d42feed1a
 ---

@@ -8,6 +8,5 @@ parent_title: 22. Engineering Glass Properties; Introduction to Kinetics
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10lec22_iPOD.srt
-type: OCWFile
 uid: 94adaa9e-70cb-2acc-58e6-161bb3588887
 ---

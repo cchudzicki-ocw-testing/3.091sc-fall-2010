@@ -8,6 +8,5 @@ parent_title: 'Self-Assessment: Amorphous Materials'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF10Exam_3_Prob_2_300k.pdf
-type: OCWFile
 uid: b3db3df4-b5d1-bc76-d404-0e20332dba62
 ---

@@ -8,6 +8,5 @@ parent_title: 'Self-Assessment: Solid Solutions'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_sa9_exam.pdf
-type: OCWFile
 uid: 317291b7-5151-0ee0-805a-5e44c33c542b
 ---

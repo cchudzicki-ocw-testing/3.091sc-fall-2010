@@ -8,6 +8,5 @@ parent_title: 'Self-Assessment: Organic Materials'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF10Final_Exam_B_Prob_13_300k.pdf
-type: OCWFile
 uid: b57ceef9-c1b4-a503-5dd4-b7dc85d88d21
 ---

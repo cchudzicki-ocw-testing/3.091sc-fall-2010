@@ -5,7 +5,6 @@ parent_title: Crystalline Materials
 parent_type: CourseSection
 parent_uid: b66bb6b5-1948-c461-fd27-7f44614156ed
 title: 16. Crystallographic Notation & X-Rays
-type: CourseSection
 uid: e22836d9-83d9-ad9c-8310-e4357bb64a92
 ---
 

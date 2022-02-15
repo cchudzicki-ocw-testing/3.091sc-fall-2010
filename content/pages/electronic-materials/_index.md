@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Electronic Materials
-type: CourseSection
 uid: 391990ee-f653-5d34-974e-42391c0cb5b5
 ---
 

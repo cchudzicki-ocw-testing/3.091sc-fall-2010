@@ -8,6 +8,5 @@ parent_title: 23. Reaction Rates
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10lec23_iPOD.srt
-type: OCWFile
 uid: 3d87a65f-3627-1a0b-9134-4f20654cb9bd
 ---

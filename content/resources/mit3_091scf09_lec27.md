@@ -9,6 +9,5 @@ parent_title: 27. Introduction to Organic Chemistry
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_lec27.pdf
-type: OCWFile
 uid: bfe35734-6eb4-a831-f6e8-e0ca3157a0ef
 ---

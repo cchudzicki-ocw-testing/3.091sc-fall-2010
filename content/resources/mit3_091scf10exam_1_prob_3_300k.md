@@ -8,6 +8,5 @@ parent_title: 'Self-Assessment: Bonding and Molecules'
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10Exam_1_Prob_3_300k.srt
-type: OCWFile
 uid: d54343f6-78c2-4702-ec88-3495098971c4
 ---

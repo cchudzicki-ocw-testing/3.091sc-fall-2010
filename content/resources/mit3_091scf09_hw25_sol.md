@@ -8,6 +8,5 @@ parent_title: 25. Introduction to Aqueous Solutions
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw25_sol.pdf
-type: OCWFile
 uid: 44c82dce-d274-7270-0283-1886e454783b
 ---

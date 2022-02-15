@@ -5,7 +5,6 @@ parent_title: Bonding and Molecules
 parent_type: CourseSection
 parent_uid: 6ea956c8-cef5-f99e-6904-09f06d8d5317
 title: 8. Ionic Crystals; Born-Haber Cycle
-type: CourseSection
 uid: 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79
 ---
 

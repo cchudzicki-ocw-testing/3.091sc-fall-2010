@@ -5,7 +5,6 @@ parent_title: Solid Solutions
 parent_type: CourseSection
 parent_uid: f6e01e0c-3963-e495-1396-598462ae7d02
 title: 33. Unary Phase Diagrams
-type: CourseSection
 uid: ca8d17e3-3c26-884a-7904-68ea3eee4bed
 ---
 

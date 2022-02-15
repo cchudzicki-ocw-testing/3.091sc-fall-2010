@@ -8,6 +8,5 @@ parent_title: 'Self-Assessment: Organic Materials'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_sa8_exam.pdf
-type: OCWFile
 uid: 948b4c1d-a1d9-e405-4696-976755c4e054
 ---

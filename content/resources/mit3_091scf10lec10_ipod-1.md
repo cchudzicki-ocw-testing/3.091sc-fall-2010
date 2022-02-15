@@ -8,6 +8,5 @@ parent_title: 10. Hybridized & Molecular Orbitals; Paramagnetism
 parent_type: CourseSection
 resourcetype: Document
 title: MIT OpenCourseWare
-type: OCWFile
 uid: c6df3fb4-31d2-db79-4440-8bd755d8be03
 ---

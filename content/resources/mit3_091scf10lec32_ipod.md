@@ -8,6 +8,5 @@ parent_title: '32. Biochemistry: Lipids, Nucleic Acids & DNA'
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10lec32_iPOD.srt
-type: OCWFile
 uid: b20bc5fc-c548-1783-bd39-e96aea8716c3
 ---

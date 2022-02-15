@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_aln10.pdf
-type: OCWFile
 uid: 85619733-50a2-e44d-7ee4-e8304272c56f
 ---

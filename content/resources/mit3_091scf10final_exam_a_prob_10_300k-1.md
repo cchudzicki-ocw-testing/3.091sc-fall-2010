@@ -8,6 +8,5 @@ parent_title: 'Self-Assessment: Aqueous Solutions'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF10Final_Exam_A_Prob_10_300k.pdf
-type: OCWFile
 uid: 52bad89b-99de-e975-194e-1a230f835dab
 ---

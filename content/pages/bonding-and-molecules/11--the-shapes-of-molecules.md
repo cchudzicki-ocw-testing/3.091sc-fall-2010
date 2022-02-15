@@ -5,7 +5,6 @@ parent_title: Bonding and Molecules
 parent_type: CourseSection
 parent_uid: 6ea956c8-cef5-f99e-6904-09f06d8d5317
 title: 11. The Shapes of Molecules
-type: CourseSection
 uid: 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5
 ---
 

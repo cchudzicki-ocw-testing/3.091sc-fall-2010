@@ -8,6 +8,5 @@ parent_title: '3. Atomic Models: Rutherford & Bohr'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF10lec03_iPOD
-type: OCWFile
 uid: b4d40e3b-9d67-8573-b6d1-7c1cb979cd06
 ---

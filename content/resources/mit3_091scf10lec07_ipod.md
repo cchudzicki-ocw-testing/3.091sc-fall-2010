@@ -8,6 +8,5 @@ parent_title: 7. The Aufbau Principle; Photoelectron Spectroscopy
 parent_type: CourseSection
 resourcetype: Document
 title: MIT OpenCourseWare
-type: OCWFile
 uid: 582480cb-584e-5e75-8113-c00006eea1f1
 ---

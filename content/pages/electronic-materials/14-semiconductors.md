@@ -5,7 +5,6 @@ parent_title: Electronic Materials
 parent_type: CourseSection
 parent_uid: 391990ee-f653-5d34-974e-42391c0cb5b5
 title: 14. Semiconductors
-type: CourseSection
 uid: f218eec6-2b6b-13b4-b233-61a7fc3abb81
 ---
 

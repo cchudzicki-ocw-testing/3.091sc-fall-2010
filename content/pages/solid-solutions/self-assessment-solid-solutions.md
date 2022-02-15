@@ -5,7 +5,6 @@ parent_title: Solid Solutions
 parent_type: CourseSection
 parent_uid: f6e01e0c-3963-e495-1396-598462ae7d02
 title: 'Self-Assessment: Solid Solutions'
-type: CourseSection
 uid: 72c01ef0-b872-bcb0-6ee3-bdfffcb4cd4a
 ---
 

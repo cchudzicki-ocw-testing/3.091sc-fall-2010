@@ -8,6 +8,5 @@ parent_title: 24. Diffusion
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw24_sol.pdf
-type: OCWFile
 uid: ce038d80-b7b3-1e2b-17a9-0e64acc5937d
 ---

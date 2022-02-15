@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Organic Materials
-type: CourseSection
 uid: 0ab5962f-08b0-e5dd-2488-7c3659767245
 ---
 

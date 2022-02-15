@@ -8,6 +8,5 @@ parent_title: 21. Introduction to Glasses
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw21_sol.pdf
-type: OCWFile
 uid: 22cd6cac-c77f-7466-f2e0-bd8e082452fb
 ---

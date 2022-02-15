@@ -8,6 +8,5 @@ parent_title: 22. Engineering Glass Properties; Introduction to Kinetics
 parent_type: CourseSection
 resourcetype: Document
 title: 'Session #22: Homework Solutions'
-type: OCWFile
 uid: 17a6e787-5b98-6404-8a27-71f98cea991f
 ---

@@ -8,6 +8,5 @@ parent_title: 14. Semiconductors
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_lec14.pdf
-type: OCWFile
 uid: be21c013-63b2-ff05-878c-c644c9454bdd
 ---

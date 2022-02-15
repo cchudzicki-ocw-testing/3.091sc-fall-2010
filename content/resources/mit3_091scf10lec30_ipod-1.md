@@ -8,6 +8,5 @@ parent_title: '30. Biochemistry: Amino Acids'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF10lec30_iPOD.pdf
-type: OCWFile
 uid: 6a97fadf-91fe-7b96-0396-c85da589670b
 ---

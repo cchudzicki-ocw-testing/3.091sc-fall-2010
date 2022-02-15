@@ -8,6 +8,5 @@ parent_title: 12. Intermolecular Forces
 parent_type: CourseSection
 resourcetype: Document
 title: 'Session #12: Homework Solutions'
-type: OCWFile
 uid: c30e3a0b-84e7-0c2f-68ff-8dcea496b95f
 ---

@@ -8,6 +8,5 @@ parent_title: 'Self-Assessment: Crystalline Materials'
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10Exam_3_Prob_1_300k.srt
-type: OCWFile
 uid: 9825b164-f0f8-d7ba-d2d6-be5b76b53e6e
 ---

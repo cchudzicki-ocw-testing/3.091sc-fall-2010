@@ -8,6 +8,5 @@ parent_title: 18. X-Ray Diffraction Techniques
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF10lec18_iPOD.pdf
-type: OCWFile
 uid: 437f9487-e92e-8dd0-1d79-6aa27b0fbb27
 ---

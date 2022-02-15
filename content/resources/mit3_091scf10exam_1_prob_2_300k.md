@@ -8,6 +8,5 @@ parent_title: 'Self-Assessment: Structure of the Atom'
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10Exam_1_Prob_2_300k.srt
-type: OCWFile
 uid: 09509569-5431-5fcc-0d32-a29c5383c1f6
 ---

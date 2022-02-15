@@ -5,7 +5,6 @@ parent_title: Crystalline Materials
 parent_type: CourseSection
 parent_uid: b66bb6b5-1948-c461-fd27-7f44614156ed
 title: 15. Introduction to Crystallography
-type: CourseSection
 uid: 94d7c45c-dd53-4c54-0679-000be37ea165
 ---
 

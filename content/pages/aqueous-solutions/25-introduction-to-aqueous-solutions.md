@@ -5,7 +5,6 @@ parent_title: Aqueous Solutions
 parent_type: CourseSection
 parent_uid: 6ec96be4-5df9-d10d-17f2-85df51807e05
 title: 25. Introduction to Aqueous Solutions
-type: CourseSection
 uid: 2d99a337-8fc4-7f5c-57d3-d1e5a4dc19a3
 ---
 

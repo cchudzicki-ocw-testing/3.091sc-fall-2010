@@ -8,6 +8,5 @@ parent_title: 15. Introduction to Crystallography
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw15_sol.pdf
-type: OCWFile
 uid: d10e2ab1-629f-8f1c-ebc0-c40d5fb0522d
 ---

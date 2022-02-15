@@ -8,6 +8,5 @@ parent_title: 12. Intermolecular Forces
 parent_type: CourseSection
 resourcetype: Document
 title: MIT OpenCourseWare
-type: OCWFile
 uid: 39c58824-b061-cae4-8055-e8bb983e32c8
 ---

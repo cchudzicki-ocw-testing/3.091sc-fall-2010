@@ -8,6 +8,5 @@ parent_title: 20. Line, Interface & Bulk Defects
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10lec20_iPOD.srt
-type: OCWFile
 uid: 264a3eb6-78e9-1c97-5a93-4ed88b0e706f
 ---

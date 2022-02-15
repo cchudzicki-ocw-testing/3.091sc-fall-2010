@@ -8,6 +8,5 @@ parent_title: 6. Particle-Wave Duality
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10lec06_iPOD.srt
-type: OCWFile
 uid: 7fcadb9f-9a62-11b5-1c6f-7fd3a2ab6d22
 ---

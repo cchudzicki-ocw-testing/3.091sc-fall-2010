@@ -5,7 +5,6 @@ parent_title: Crystalline Materials
 parent_type: CourseSection
 parent_uid: b66bb6b5-1948-c461-fd27-7f44614156ed
 title: 'Self-Assessment: Crystalline Materials'
-type: CourseSection
 uid: b919ff60-1e15-2f9b-3ab0-e616c5196381
 ---
 

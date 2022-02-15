@@ -8,6 +8,5 @@ parent_title: '35. Binary Phase Diagrams: Limited Solubility'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw35_sol.pdf
-type: OCWFile
 uid: c380d1c1-e09e-f8d5-6a54-9e19346d5e32
 ---

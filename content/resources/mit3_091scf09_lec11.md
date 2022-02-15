@@ -8,6 +8,5 @@ parent_title: 11. The Shapes of Molecules
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #11, Hybridized Orbitals, Shapes of Molecules'
-type: OCWFile
 uid: c53de2cd-0de3-1f49-06c4-fd352a4dfc57
 ---

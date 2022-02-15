@@ -5,7 +5,6 @@ parent_title: Bonding and Molecules
 parent_type: CourseSection
 parent_uid: 6ea956c8-cef5-f99e-6904-09f06d8d5317
 title: 10. Hybridized & Molecular Orbitals; Paramagnetism
-type: CourseSection
 uid: f3720df7-44c6-c811-bba3-3f83d3053ffd
 ---
 

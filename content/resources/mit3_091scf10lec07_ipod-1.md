@@ -8,6 +8,5 @@ parent_title: 7. The Aufbau Principle; Photoelectron Spectroscopy
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10lec07_iPOD.srt
-type: OCWFile
 uid: d7e310e0-8451-6634-6555-ca64a84a5a94
 ---

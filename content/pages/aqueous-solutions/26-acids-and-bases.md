@@ -5,7 +5,6 @@ parent_title: Aqueous Solutions
 parent_type: CourseSection
 parent_uid: 6ec96be4-5df9-d10d-17f2-85df51807e05
 title: 26. Acids & Bases
-type: CourseSection
 uid: 98ba1bf2-d4f9-d827-e295-168909119297
 ---
 

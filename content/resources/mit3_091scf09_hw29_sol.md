@@ -8,6 +8,5 @@ parent_title: '29. Polymers: Synthesis, Properties & Applications'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw29_sol.pdf
-type: OCWFile
 uid: 59a848b8-e8e0-2729-08be-3ad3bb078fc0
 ---
