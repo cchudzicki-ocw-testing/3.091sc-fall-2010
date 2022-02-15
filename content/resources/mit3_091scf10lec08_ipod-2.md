@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/80d57736927d5d8f84dd7f550b3883b4_MIT3_091SCF10lec08_iPOD.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 8. Ionic Crystals; Born-Haber Cycle
 parent_type: CourseSection
 resourcetype: Other

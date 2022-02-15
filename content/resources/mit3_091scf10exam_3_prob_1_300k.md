@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/9825b164f0f8d7bad2d6be5b76b53e6e_MIT3_091SCF10Exam_3_Prob_1_300k.srt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Self-Assessment: Crystalline Materials'
 parent_type: CourseSection
 resourcetype: Other

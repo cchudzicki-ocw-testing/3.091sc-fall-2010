@@ -4,6 +4,7 @@ description: This resource contains the information about the shapes of molecule
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/c53de2cd0de31f4906c4fd352a4dfc57_MIT3_091SCF09_lec11.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 11. The Shapes of Molecules
 parent_type: CourseSection
 resourcetype: Document

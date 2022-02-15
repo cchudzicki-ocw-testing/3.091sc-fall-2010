@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/52bad89b99dee975194e1a230f835dab_MIT3_091SCF10Final_Exam_A_Prob_10_300k.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Self-Assessment: Aqueous Solutions'
 parent_type: CourseSection
 resourcetype: Document

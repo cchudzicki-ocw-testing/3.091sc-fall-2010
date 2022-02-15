@@ -4,6 +4,7 @@ description: This resource contains homework solutions.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/17a6e7875b9864048a2771f98cea991f_MIT3_091SCF09_hw22_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 22. Engineering Glass Properties; Introduction to Kinetics
 parent_type: CourseSection
 resourcetype: Document

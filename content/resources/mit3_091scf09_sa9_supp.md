@@ -4,6 +4,7 @@ description: This resource contains supplemental exam problems for study.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/f55e0ddccb6e27c2d7492d23c5ef1f5e_MIT3_091SCF09_sa9_supp.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Self-Assessment: Solid Solutions'
 parent_type: CourseSection
 resourcetype: Document

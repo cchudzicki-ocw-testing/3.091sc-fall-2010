@@ -4,6 +4,7 @@ description: This resource contains the solutions for Session 9 homework problem
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/d9e9573085a3b159302c3aa9ce421355_MIT3_091SCF09_hw9_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 9. Drawing Lewis Structures
 parent_type: CourseSection
 resourcetype: Document

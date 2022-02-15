@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Solid Solutions
 parent_type: CourseSection
 parent_uid: f6e01e0c-3963-e495-1396-598462ae7d02

@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 title: Resource Index
 uid: 4ea8b3b8-9024-9860-0ee4-f20d41fcc23c
 ---

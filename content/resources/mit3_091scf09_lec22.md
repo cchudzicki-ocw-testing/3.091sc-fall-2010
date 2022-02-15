@@ -5,6 +5,7 @@ description: 'This resource contains information related to engineering glass pr
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/7e17c0116607aa5d9d6424936ceb41c7_MIT3_091SCF09_lec22.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 22. Engineering Glass Properties; Introduction to Kinetics
 parent_type: CourseSection
 resourcetype: Document

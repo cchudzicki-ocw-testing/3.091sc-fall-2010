@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/7e3cd9e0a0cbc7c5128bdf90ff342d4c_MIT3_091SCF10lec17_iPOD.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 17. X-Ray Emission & Absorption
 parent_type: CourseSection
 resourcetype: Document

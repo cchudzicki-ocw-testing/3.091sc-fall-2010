@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/1d1c768dcad1f53a66c0c0f3c22d2345_MIT3_091SCF10lec15_iPOD.srt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 15. Introduction to Crystallography
 parent_type: CourseSection
 resourcetype: Other

@@ -4,6 +4,7 @@ description: This resource contains one problem about calculate the molecular we
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/2dffe41cfdbf12fc94da42ec6eb8586f_MIT3_091SCF09_hw1.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 1. Introduction to Solid State Chemistry
 parent_type: CourseSection
 resourcetype: Document

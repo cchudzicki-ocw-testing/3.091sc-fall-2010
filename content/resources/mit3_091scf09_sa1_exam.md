@@ -5,6 +5,7 @@ description: This resource  contains the self assessment exams for the structure
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/95b867d09fb2028567cd47868085c0a8_MIT3_091SCF09_sa1_exam.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Self-Assessment: Structure of the Atom'
 parent_type: CourseSection
 resourcetype: Document

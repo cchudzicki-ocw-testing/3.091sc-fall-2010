@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/77215fb2ac89d562db2947572f1812ce_MIT3_091SCF10Exam_2_Prob_3_300k.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Self-Assessment: Electronic Materials'
 parent_type: CourseSection
 resourcetype: Document

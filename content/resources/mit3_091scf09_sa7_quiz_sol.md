@@ -4,6 +4,7 @@ description: 'This resource contains weekly homework quiz : solution outline.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/0c06a48531e1f6a5e6660dfa7018dfe8_MIT3_091SCF09_sa7_quiz_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Self-Assessment: Aqueous Solutions'
 parent_type: CourseSection
 resourcetype: Document

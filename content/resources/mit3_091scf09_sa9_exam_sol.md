@@ -4,6 +4,7 @@ description: 'This resource contains self assessment exam: solution key.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/2b834de7d0c98eaf252945bc4b93c0a8_MIT3_091SCF09_sa9_exam_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Self-Assessment: Solid Solutions'
 parent_type: CourseSection
 resourcetype: Document

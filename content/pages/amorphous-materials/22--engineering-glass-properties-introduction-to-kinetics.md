@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Amorphous Materials
 parent_type: CourseSection
 parent_uid: 79828d9f-9980-e3bc-b791-bd1403164706

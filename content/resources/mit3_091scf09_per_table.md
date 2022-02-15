@@ -5,6 +5,7 @@ description: This resource contains the information about the periodic table of 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/1cc82bd78ea3230116a6db5c2b67e84a_MIT3_091SCF09_per_table.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Reference Materials and Suggested Textbooks
 parent_type: CourseSection
 resourcetype: Document

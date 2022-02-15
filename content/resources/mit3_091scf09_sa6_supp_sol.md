@@ -4,6 +4,7 @@ description: 'This resource contains supplemental resource problems: solution ou
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/496e3792fbf990c33b320cc474ad81dc_MIT3_091SCF09_sa6_supp_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Self-Assessment: Reactions and Kinetics'
 parent_type: CourseSection
 resourcetype: Document

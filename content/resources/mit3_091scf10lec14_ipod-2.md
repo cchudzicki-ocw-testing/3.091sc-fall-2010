@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/c2bfc9f225c554d984f6515c1433753b_MIT3_091SCF10lec14_iPOD.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 14. Semiconductors
 parent_type: CourseSection
 resourcetype: Other

@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Reactions and Kinetics
 parent_type: CourseSection
 parent_uid: 885d39b1-395a-748c-e5bf-46da89d7dc8d

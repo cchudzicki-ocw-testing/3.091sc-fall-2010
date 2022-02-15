@@ -4,6 +4,7 @@ description: 'This resource contains self assessment exam: solution outline.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/31d982fb60737e407940d3351b0d6e8d_MIT3_091SCF09_sa6_exam_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Self-Assessment: Reactions and Kinetics'
 parent_type: CourseSection
 resourcetype: Document

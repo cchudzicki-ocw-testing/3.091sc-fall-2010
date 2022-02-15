@@ -5,6 +5,7 @@ description: 'This resource contains information related to binary phase diagram
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bc9d018a506bd7e90b7ee74067ce857a_MIT3_091SCF09_lec35.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: '35. Binary Phase Diagrams: Limited Solubility'
 parent_type: CourseSection
 resourcetype: Document

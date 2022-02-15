@@ -4,6 +4,7 @@ description: This resource contains weekly homework quiz.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/42e740a011f0b71dad5057cd09fc1ced_MIT3_091SCF09_sa9_quiz.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Self-Assessment: Solid Solutions'
 parent_type: CourseSection
 resourcetype: Document

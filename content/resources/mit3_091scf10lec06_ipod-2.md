@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/9e880da2cbff53a2acbc8e73f120679c_MIT3_091SCF10lec06_iPOD.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 6. Particle-Wave Duality
 parent_type: CourseSection
 resourcetype: Other

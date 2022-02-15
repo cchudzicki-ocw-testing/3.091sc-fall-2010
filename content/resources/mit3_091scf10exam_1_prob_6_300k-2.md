@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/4ffc14b563f55aa1858f02aa9f0ed117_MIT3_091SCF10Exam_1_Prob_6_300k.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Self-Assessment: Structure of the Atom'
 parent_type: CourseSection
 resourcetype: Other

@@ -5,6 +5,7 @@ description: This resource contains summary notes for the lectures, intended as 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/fcb2b28d4fe7732ef3004072a2527ab9_MIT3_091SCF09_summary.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
 resourcetype: Document

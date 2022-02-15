@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/c91efbe5a070597f9441d124f923a703_MIT3_091SCF10lec07_iPOD.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 7. The Aufbau Principle; Photoelectron Spectroscopy
 parent_type: CourseSection
 resourcetype: Other

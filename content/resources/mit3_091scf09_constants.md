@@ -4,6 +4,7 @@ description: 'This resource contains the information about the frequently used c
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/13fd6b1d7f4c27e1aa1bf83b92d2d6b6_MIT3_091SCF09_constants.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Reference Materials and Suggested Textbooks
 parent_type: CourseSection
 resourcetype: Document
