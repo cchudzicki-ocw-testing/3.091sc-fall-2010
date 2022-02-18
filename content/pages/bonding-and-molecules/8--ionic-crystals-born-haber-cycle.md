@@ -9,7 +9,7 @@ title: 8. Ionic Crystals; Born-Haber Cycle
 uid: 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79
 ---
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/self-assessment-structure-of-the-atom) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/9.-drawing-lewis-structures) »
+« {{< resource_link e0f0b093-6ba1-323d-d748-bdec78bb7499 "Previous" >}} | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/9.-drawing-lewis-structures) »
 
 Session Overview
 ----------------
@@ -88,9 +88,9 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #1 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln01), Sections 6, 7
+{{< resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" >}}, Sections 6, 7
 
-[Archived Lecture Notes #2 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln02), Sections 1, 2
+{{< resource_link 2aee13ce-9bb0-8867-b8d5-816eb0eefc33 "Archived Lecture Notes #2 (PDF)" >}}, Sections 1, 2
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -160,7 +160,7 @@ Lecture Video
 
 ### Resources
 
-[Lecture Slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit3_091scf09_lec8)
+{{< resource_link 935d7afb-d981-a814-d0e1-7a54f8db7e85 "Lecture Slides (PDF - 1.2MB)" >}}
 
 ### Lecture Summary
 
@@ -179,9 +179,9 @@ This lecture also introduces the **valence shell electron pair repulsion (VSEPR)
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw8)
+{{< resource_link b8fad30d-58ad-f86a-f9df-19d901817def "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw8_sol)
+{{< resource_link f8f51db5-2855-d4bf-912b-77482db72fca "Solutions (PDF)" >}}
 
 ### Textbook Problems
 
@@ -355,4 +355,4 @@ High school
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/self-assessment-structure-of-the-atom) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/9.-drawing-lewis-structures) »
+« {{< resource_link e0f0b093-6ba1-323d-d748-bdec78bb7499 "Previous" >}} | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/9.-drawing-lewis-structures) »

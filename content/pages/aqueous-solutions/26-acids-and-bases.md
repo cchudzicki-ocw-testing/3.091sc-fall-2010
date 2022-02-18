@@ -9,7 +9,7 @@ title: 26. Acids & Bases
 uid: 98ba1bf2-d4f9-d827-e295-168909119297
 ---
 
-« [Previous]({{< baseurl >}}/pages/aqueous-solutions/25-introduction-to-aqueous-solutions) | [Next]({{< baseurl >}}/pages/aqueous-solutions/self-assessment-aqueous-solutions) »
+« {{< resource_link 2d99a337-8fc4-7f5c-57d3-d1e5a4dc19a3 "Previous" >}} | {{< resource_link 72916be9-a577-7e44-0a46-72d4318cea26 "Next" >}} »
 
 Session Overview
 ----------------
@@ -68,7 +68,7 @@ pickling, wine, coal-fired power plant, acid rain, sulfur dioxide scrubber
 Before starting this session, you should be familiar with:
 
 *   the Molecules and Bonding module ([Session 7](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy) through [Session 12](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/12.-intermolecular-forces))
-*   Solutions ([Session 25]({{< baseurl >}}/pages/aqueous-solutions/25-introduction-to-aqueous-solutions))
+*   Solutions ({{< resource_link 2d99a337-8fc4-7f5c-57d3-d1e5a4dc19a3 "Session 25" >}})
 
 ### Learning Objectives
 
@@ -161,7 +161,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 2.2MB)]({{< baseurl >}}/resources/mit3_091scf09_lec26)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 640eaa67-87f3-e093-a7a0-feb777896e17 "Lecture Slides (PDF - 2.2MB)" >}}
 
 ### Lecture Summary
 
@@ -177,9 +177,9 @@ The lecture proceeds to cover:
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw26)
+{{< resource_link f079827b-6e00-6cfc-c4ff-9edb72618c14 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw26_sol)
+{{< resource_link 5d675415-0f2d-c894-a2eb-bfdce2a6fa35 "Solutions (PDF)" >}}
 
 ### Textbook Problems
 
@@ -357,4 +357,4 @@ Includes notes and sample exercises
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/aqueous-solutions/25-introduction-to-aqueous-solutions) | [Next]({{< baseurl >}}/pages/aqueous-solutions/self-assessment-aqueous-solutions) »
+« {{< resource_link 2d99a337-8fc4-7f5c-57d3-d1e5a4dc19a3 "Previous" >}} | {{< resource_link 72916be9-a577-7e44-0a46-72d4318cea26 "Next" >}} »

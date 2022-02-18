@@ -9,7 +9,7 @@ title: 19. Point & Line Defects
 uid: 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4
 ---
 
-« [Previous]({{< baseurl >}}/pages/crystalline-materials/18-x-ray-diffraction-techniques) | [Next]({{< baseurl >}}/pages/crystalline-materials/20-line-interface-and-bulk-defects) »
+« {{< resource_link 2f4aa15c-0125-9d84-17ab-ecf218034e84 "Previous" >}} | {{< resource_link 5c00821f-505a-eeee-270d-29caeda060dc "Next" >}} »
 
 Session Overview
 ----------------
@@ -68,8 +68,8 @@ aluminum alloys for soda cans, n-and p-type semiconductors, steel, hydrogen embr
 Before starting this session, you should be familiar with:
 
 *   Ionic crystal lattices ([Session 8](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle))
-*   Cubic crystal structures ([Session 15]({{< baseurl >}}/pages/crystalline-materials/15-introduction-to-crystallography))
-*   Distribution of energies as described by Maxwell-Boltzmann statistics ([Session 14]({{< baseurl >}}/pages/electronic-materials/14-semiconductors))
+*   Cubic crystal structures ({{< resource_link 94d7c45c-dd53-4c54-0679-000be37ea165 "Session 15" >}})
+*   Distribution of energies as described by Maxwell-Boltzmann statistics ({{< resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Session 14" >}})
 
 ### Looking Ahead
 
@@ -88,7 +88,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #6 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln06), Sections 1-2
+{{< resource_link 128d0c6d-4b74-6a78-66e7-5600347e12cd "Archived Lecture Notes #6 (PDF)" >}}, Sections 1-2
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -167,7 +167,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec19)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link e9d87068-09d2-3de0-3d37-a624db0b8967 "Lecture Slides (PDF - 3.0MB)" >}}
 
 ### Lecture Summary
 
@@ -176,9 +176,9 @@ Prof. Michael Demkowicz ([homepage](https://engineering.tamu.edu/materials/peopl
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw19)
+{{< resource_link 531957be-9bc8-97d8-f76e-8ddeec0db6ef "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw19_sol)
+{{< resource_link 27300842-939b-23e3-41a6-7f365b09088c "Solutions (PDF)" >}}
 
 ### Textbook Problems
 
@@ -303,4 +303,4 @@ Undergraduate
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/crystalline-materials/18-x-ray-diffraction-techniques) | [Next]({{< baseurl >}}/pages/crystalline-materials/20-line-interface-and-bulk-defects) »
+« {{< resource_link 2f4aa15c-0125-9d84-17ab-ecf218034e84 "Previous" >}} | {{< resource_link 5c00821f-505a-eeee-270d-29caeda060dc "Next" >}} »

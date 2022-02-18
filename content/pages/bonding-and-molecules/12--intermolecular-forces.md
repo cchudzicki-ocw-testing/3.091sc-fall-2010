@@ -9,7 +9,7 @@ title: 12. Intermolecular Forces
 uid: 009937ee-55a4-84c8-160b-5248e1f70793
 ---
 
-« [Previous](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/11.-the-shapes-of-molecules) | [Next]({{< baseurl >}}/pages/bonding-and-molecules/self-assessment) »
+« [Previous](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/11.-the-shapes-of-molecules) | {{< resource_link e546abb4-cde9-4dcd-5383-555e591eed18 "Next" >}} »
 
 Session Overview
 ----------------
@@ -73,7 +73,7 @@ Before starting this session, you should be familiar with prior topics in Bondin
 
 ### Looking Ahead
 
-Water has unusual properties due to its hydrogen bonds, which will be explored further in the modules covering Aqueous Solutions ([Session 25]({{< baseurl >}}/pages/aqueous-solutions/25-introduction-to-aqueous-solutions), [Session 26]({{< baseurl >}}/pages/aqueous-solutions/26-acids-and-bases)) and Biochemistry ([Session 30]({{< baseurl >}}/pages/organic-materials/30-amino-acids) onwards). Experimental data about the state of a material at varying temperature and pressure is summarized in its phase diagram, the topic of [Session 33]({{< baseurl >}}/pages/solid-solutions/33-unary-phase-diagrams) through [Session 35]({{< baseurl >}}/pages/solid-solutions/35-binary-phase-diagrams-limited-solubility).
+Water has unusual properties due to its hydrogen bonds, which will be explored further in the modules covering Aqueous Solutions ({{< resource_link 2d99a337-8fc4-7f5c-57d3-d1e5a4dc19a3 "Session 25" >}}, {{< resource_link 98ba1bf2-d4f9-d827-e295-168909119297 "Session 26" >}}) and Biochemistry ({{< resource_link 1391526c-977f-6e58-b0c0-b163bcae3d50 "Session 30" >}} onwards). Experimental data about the state of a material at varying temperature and pressure is summarized in its phase diagram, the topic of {{< resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Session 33" >}} through {{< resource_link 7a815988-3da3-035d-e473-14306ab4f684 "Session 35" >}}.
 
 ### Learning Objectives
 
@@ -86,7 +86,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #2 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln02), Section 4
+{{< resource_link 2aee13ce-9bb0-8867-b8d5-816eb0eefc33 "Archived Lecture Notes #2 (PDF)" >}}, Section 4
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -129,7 +129,7 @@ Lecture Video
 
 ### Resources
 
-[Lecture Slides (PDF - 1.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec12)
+{{< resource_link 2b2776b5-a909-a9d2-4085-937d42feed1a "Lecture Slides (PDF - 1.0MB)" >}}
 
 ### Lecture Summary
 
@@ -142,9 +142,9 @@ Substances in the aggregate may be **solid**, **liquid**, or **gas** at a given 
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw12)
+{{< resource_link ae36b04a-a6cf-e8f7-e517-8b43e8dc08c4 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw12_sol)
+{{< resource_link c30e3a0b-84e7-0c2f-68ff-8dcea496b95f "Solutions (PDF)" >}}
 
 ### Textbook Problems
 
@@ -284,4 +284,4 @@ Undergraduate (first-year)
 
 {{< tableclose >}}
 
-« [Previous](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/11.-the-shapes-of-molecules) | [Next]({{< baseurl >}}/pages/bonding-and-molecules/self-assessment) »
+« [Previous](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/11.-the-shapes-of-molecules) | {{< resource_link e546abb4-cde9-4dcd-5383-555e591eed18 "Next" >}} »

@@ -9,7 +9,7 @@ title: 6. Particle-Wave Duality
 uid: acd5af93-6551-c69a-d7d6-8b73d9226daa
 ---
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/5-electron-shell-model-quantum-numbers) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy) »
+« {{< resource_link e7d31b34-62de-b7aa-1e87-6b9a5a99c71f "Previous" >}} | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy) »
 
 Session Overview
 ----------------
@@ -67,7 +67,7 @@ ray optics, wave mechanics
 
 Before starting this session, you should be familiar with:
 
-*   [Session 5: Electron Shell Model & Quantum Numbers]({{< baseurl >}}/pages/structure-of-the-atom/5-electron-shell-model-quantum-numbers)
+*   {{< resource_link e7d31b34-62de-b7aa-1e87-6b9a5a99c71f "Session 5: Electron Shell Model & Quantum Numbers" >}}
 
 ### Looking Ahead
 
@@ -86,9 +86,9 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #1 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln01), Section 3
+{{< resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" >}}, Section 3
 
-[Archived Lecture Notes #2 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln02), Section 3
+{{< resource_link 2aee13ce-9bb0-8867-b8d5-816eb0eefc33 "Archived Lecture Notes #2 (PDF)" >}}, Section 3
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -131,7 +131,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.7MB)]({{< baseurl >}}/resources/mit3_091scf09_lec6)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 12e29e8c-f9ea-1353-0062-a0f9f9923718 "Lecture Slides (PDF - 1.7MB)" >}}
 
 ### Lecture Summary
 
@@ -150,9 +150,9 @@ In this lecture, Prof. Sadoway discusses the following topics:
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw6)
+{{< resource_link 53f7e0e0-4573-65e3-83c5-7241fb6ecfc4 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw6_sol)
+{{< resource_link 4635e54d-46ab-5853-68b0-ddd39bffcf88 "Solutions (PDF)" >}}
 
 ### Textbook Problems
 
@@ -282,4 +282,4 @@ High school
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/5-electron-shell-model-quantum-numbers) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy) »
+« {{< resource_link e7d31b34-62de-b7aa-1e87-6b9a5a99c71f "Previous" >}} | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy) »

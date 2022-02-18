@@ -9,7 +9,7 @@ title: 10. Hybridized & Molecular Orbitals; Paramagnetism
 uid: f3720df7-44c6-c811-bba3-3f83d3053ffd
 ---
 
-« [Previous]({{< baseurl >}}/pages/bonding-and-molecules/9.-drawing-lewis-structures) | [Next]({{< baseurl >}}/pages/bonding-and-molecules/11.-the-shapes-of-molecules) »
+« {{< resource_link 80b4e5be-5325-9c74-0eb6-068392cf19cb "Previous" >}} | {{< resource_link 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5 "Next" >}} »
 
 Session Overview
 ----------------
@@ -67,11 +67,11 @@ sodium vapor lamps
 
 Before starting this session, you should be familiar with:
 
-*   [Session 9: Drawing Lewis Structures]({{< baseurl >}}/pages/bonding-and-molecules/9.-drawing-lewis-structures)
+*   {{< resource_link 80b4e5be-5325-9c74-0eb6-068392cf19cb "Session 9: Drawing Lewis Structures" >}}
 
 ### Looking Ahead
 
-Prof. Sadoway discusses the shapes of molecules ([Session 11]({{< baseurl >}}/pages/bonding-and-molecules/11.-the-shapes-of-molecules)).
+Prof. Sadoway discusses the shapes of molecules ({{< resource_link 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5 "Session 11" >}}).
 
 ### Learning Objectives
 
@@ -88,7 +88,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #2 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln02), Section 3
+{{< resource_link 2aee13ce-9bb0-8867-b8d5-816eb0eefc33 "Archived Lecture Notes #2 (PDF)" >}}, Section 3
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -140,7 +140,7 @@ Lecture Video
 
 ### Resources
 
-[Lecture Slides (PDF - 2.1MB)]({{< baseurl >}}/resources/mit3_091scf09_lec10)
+{{< resource_link 8fab69bd-9a8f-6e8d-a2e4-90e8816cfdb5 "Lecture Slides (PDF - 2.1MB)" >}}
 
 ### Lecture Summary
 
@@ -157,9 +157,9 @@ Prof. Sadoway discusses the following concepts:
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw10)
+{{< resource_link 87735dcc-3094-db54-0c4d-02bd86a2a777 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw10_sol)
+{{< resource_link 38507f45-160f-b3ec-ebbf-8b290948873a "Solutions (PDF)" >}}
 
 ### Textbook Problems
 
@@ -258,4 +258,4 @@ Undergraduate (first-year)
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/bonding-and-molecules/9.-drawing-lewis-structures) | [Next]({{< baseurl >}}/pages/bonding-and-molecules/11.-the-shapes-of-molecules) »
+« {{< resource_link 80b4e5be-5325-9c74-0eb6-068392cf19cb "Previous" >}} | {{< resource_link 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5 "Next" >}} »

@@ -9,7 +9,7 @@ title: 24. Diffusion
 uid: 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7
 ---
 
-« [Previous]({{< baseurl >}}/pages/reactions-and-kinetics/23-reaction-rates) | [Next]({{< baseurl >}}/pages/reactions-and-kinetics/self-assessment-reactions-and-kinetics) »
+« {{< resource_link 568956d9-4b5b-b4e9-70b5-553efd337767 "Previous" >}} | {{< resource_link 786b7514-86a8-3635-cf6a-b88c95dc0332 "Next" >}} »
 
 Session Overview
 ----------------
@@ -67,9 +67,9 @@ doping of semiconductors, oxygen sensor for catalytic converters, outgassing, dr
 
 Before starting this session, you should be familiar with:
 
-*   Crystal lattice structures and point defects ([Session 15]({{< baseurl >}}/pages/crystalline-materials/15-introduction-to-crystallography) through [Session 20]({{< baseurl >}}/pages/crystalline-materials/20-line-interface-and-bulk-defects))
-*   Thermal excitation and the Maxwell-Boltzmann distribution ([Session 14]({{< baseurl >}}/pages/electronic-materials/14-semiconductors))
-*   Activation energy, Fick's first law ([Session 23]({{< baseurl >}}/pages/reactions-and-kinetics/23-reaction-rates))
+*   Crystal lattice structures and point defects ({{< resource_link 94d7c45c-dd53-4c54-0679-000be37ea165 "Session 15" >}} through {{< resource_link 5c00821f-505a-eeee-270d-29caeda060dc "Session 20" >}})
+*   Thermal excitation and the Maxwell-Boltzmann distribution ({{< resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Session 14" >}})
+*   Activation energy, Fick's first law ({{< resource_link 568956d9-4b5b-b4e9-70b5-553efd337767 "Session 23" >}})
 *   Basic differential equations and calculus
 
 ### Learning Objectives
@@ -85,7 +85,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #9 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln09)
+{{< resource_link e984fbef-9101-02c3-4ac5-ef86f1c939c8 "Archived Lecture Notes #9 (PDF)" >}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -146,9 +146,9 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec24)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 62a05864-c28d-130a-1b6a-d3316cb9aa6a "Lecture Slides (PDF - 3.0MB)" >}}
 
-[Transcript (PDF)]({{< baseurl >}}/resources/mit3_091scf10lec24_ipod-1)
+{{< resource_link c1720b66-9cbd-58f5-fa6a-d4da2ef73f9c "Transcript (PDF)" >}}
 
 ### Lecture Summary
 
@@ -159,9 +159,9 @@ Last lecture, Prof. Sadoway introduced the concept of **diffusion** to describe 
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw24)
+{{< resource_link 83b93733-79fb-fc6d-6ca0-ce92fbd900a2 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw24_sol)
+{{< resource_link ce038d80-b7b3-1e2b-17a9-0e64acc5937d "Solutions (PDF)" >}}
 
 For Further Study
 -----------------
@@ -253,4 +253,4 @@ Explore [lecture notes, animations, and worked examples](/courses/1-061-transpor
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/reactions-and-kinetics/23-reaction-rates) | [Next]({{< baseurl >}}/pages/reactions-and-kinetics/self-assessment-reactions-and-kinetics) »
+« {{< resource_link 568956d9-4b5b-b4e9-70b5-553efd337767 "Previous" >}} | {{< resource_link 786b7514-86a8-3635-cf6a-b88c95dc0332 "Next" >}} »

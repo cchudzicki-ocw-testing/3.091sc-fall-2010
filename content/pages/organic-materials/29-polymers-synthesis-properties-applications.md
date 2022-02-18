@@ -9,7 +9,7 @@ title: '29. Polymers: Synthesis, Properties & Applications'
 uid: ab1dea66-95b4-5d1a-3cc8-9fa06d9ba941
 ---
 
-« [Previous]({{< baseurl >}}/pages/organic-materials/28-polymers-structure-composition) | [Next]({{< baseurl >}}/pages/organic-materials/30-amino-acids) »
+« {{< resource_link f8c2db6d-2332-71ec-1747-b2c8369b532e "Previous" >}} | {{< resource_link 1391526c-977f-6e58-b0c0-b163bcae3d50 "Next" >}} »
 
 Session Overview
 ----------------
@@ -67,7 +67,7 @@ polypropylene in lithium ion batteries, soda bottles and fabrics, electrical ins
 
 Before starting this session, you should be familiar with:
 
-*   [Session 28: Polymers: Structure & Composition]({{< baseurl >}}/pages/organic-materials/28-polymers-structure-composition)
+*   {{< resource_link f8c2db6d-2332-71ec-1747-b2c8369b532e "Session 28: Polymers: Structure & Composition" >}}
 
 ### Looking Ahead
 
@@ -131,11 +131,11 @@ Polymer structure as it relates to synthesis; example of rubber vulcanization
 Lecture Video
 -------------
 
-[Lecture 29: Polymers: Synthesis, Properties & Applications]({{< baseurl >}}/resources/introduction-to-solid-state-chemistry-30)
+{{< resource_link 85777a6d-4c12-3499-b3de-75874fb57714 "Lecture 29: Polymers: Synthesis, Properties & Applications" >}}
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec29)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link c5182ae7-c9ce-e00c-291f-565be88d800b "Lecture Slides (PDF - 3.0MB)" >}}
 
 ### Lecture Summary
 
@@ -157,9 +157,9 @@ Polymers have had significant **impact on society**. The economic and performanc
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw29)
+{{< resource_link 4807b196-a1d9-578d-c209-490450ef4755 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw29_sol)
+{{< resource_link 59a848b8-e8e0-2729-08be-3ad3bb078fc0 "Solutions (PDF)" >}}
 
 ### Textbook Problems
 
@@ -283,4 +283,4 @@ Masters
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/organic-materials/28-polymers-structure-composition) | [Next]({{< baseurl >}}/pages/organic-materials/30-amino-acids) »
+« {{< resource_link f8c2db6d-2332-71ec-1747-b2c8369b532e "Previous" >}} | {{< resource_link 1391526c-977f-6e58-b0c0-b163bcae3d50 "Next" >}} »

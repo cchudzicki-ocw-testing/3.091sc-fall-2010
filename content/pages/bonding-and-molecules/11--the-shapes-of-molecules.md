@@ -9,7 +9,7 @@ title: 11. The Shapes of Molecules
 uid: 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5
 ---
 
-« [Previous]({{< baseurl >}}/pages/bonding-and-molecules/10.-hybridized-molecular-orbitals-paramagnetism) | [Next]({{< baseurl >}}/pages/bonding-and-molecules/12.-intermolecular-forces) »
+« {{< resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Previous" >}} | {{< resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Next" >}} »
 
 Session Overview
 ----------------
@@ -67,11 +67,11 @@ None
 
 Before starting this session, you should be familiar with:
 
-*   [Session 10: Hybridized & Molecular Orbitals; Paramagnetism]({{< baseurl >}}/pages/bonding-and-molecules/10.-hybridized-molecular-orbitals-paramagnetism)
+*   {{< resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Session 10: Hybridized & Molecular Orbitals; Paramagnetism" >}}
 
 ### Looking Ahead
 
-Prof. Sadoway completes the Bonding and Molecules module with a session on secondary bonding, permanent and induced dipoles, hydrogen bonding, and polarizability of molecules ([Session 12]({{< baseurl >}}/pages/bonding-and-molecules/12.-intermolecular-forces)).
+Prof. Sadoway completes the Bonding and Molecules module with a session on secondary bonding, permanent and induced dipoles, hydrogen bonding, and polarizability of molecules ({{< resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Session 12" >}}).
 
 ### Learning Objectives
 
@@ -117,7 +117,7 @@ Lecture Video
 
 ### Resources
 
-[Lecture Slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit3_091scf09_lec11)
+{{< resource_link c53de2cd-0de3-1f49-06c4-fd352a4dfc57 "Lecture Slides (PDF - 1.2MB)" >}}
 
 ### Lecture Summary
 
@@ -131,9 +131,9 @@ He re-emphasizes the underlying point of this unit: equal bond energies imply eq
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw11)
+{{< resource_link 1f11d8e7-0715-f431-af29-5713bca92f19 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw11_sol)
+{{< resource_link 2ba6c9e0-17be-9ce1-12d6-4d93789fc7e9 "Solutions (PDF)" >}}
 
 ### Textbook Problems
 
@@ -228,4 +228,4 @@ Undergraduate (first-year)
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/bonding-and-molecules/10.-hybridized-molecular-orbitals-paramagnetism) | [Next]({{< baseurl >}}/pages/bonding-and-molecules/12.-intermolecular-forces) »
+« {{< resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Previous" >}} | {{< resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Next" >}} »

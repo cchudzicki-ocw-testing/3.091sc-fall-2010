@@ -8,7 +8,7 @@ uid: 4ea8b3b8-9024-9860-0ee4-f20d41fcc23c
 
 #course\_inner\_section td {vertical-align: top;}
 
-« [Previous]({{< baseurl >}}/pages/final-exam)
+« {{< resource_link 1510a47e-e45c-9c55-4ebc-44d837db76c0 "Previous" >}}
 
 Instructor Videos
 -----------------
@@ -30,14 +30,14 @@ RESOURCES
 {{< tdopen >}}
 
 
-[Course Introduction]({{< baseurl >}}/resources/introduction-to-solid-state-chemistry-37)
+{{< resource_link 20564d5c-8ee2-671a-1ce2-41588b80127e "Course Introduction" >}}
 
-[Donald Sadoway: The Missing Link to Renewable Energy]({{< baseurl >}}/resources/introduction-to-solid-state-chemistry-1-1)
+{{< resource_link 7af9cf78-8a43-b176-458b-3a31d5c33471 "Donald Sadoway: The Missing Link to Renewable Energy" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Transcript (PDF)]({{< baseurl >}}/resources/mit3_091scf10_intro_300k)
+{{< resource_link 4487f67e-709a-da9b-f06f-ba43fef61f69 "Transcript (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,23 +74,23 @@ FOR FURTHER STUDY
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction to Solid State Chemistry]({{< baseurl >}}/pages/structure-of-the-atom/1-introduction-to-solid-state-chemistry)
+{{< resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Introduction to Solid State Chemistry" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-00-introduction-to-chemistry.html) 1, "Introduction to Chemistry."
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1: Introduction to Solid State Chemistry]({{< baseurl >}}/resources/copy_of_introduction-to-solid-state-chemistry)
+{{< resource_link 9899e9dd-6fc1-6606-e5e8-ae10f26dd5e4 "Lecture 1: Introduction to Solid State Chemistry" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Slides (PDF - 3.2MB)]({{< baseurl >}}/resources/mit3_091scf09_lec1)
+{{< resource_link debd5701-469c-e24a-ac7a-e098cae6a8b5 "Lecture Slides (PDF - 3.2MB)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw1)
+{{< resource_link 2dffe41c-fdbf-12fc-94da-42ec6eb8586f "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw1_sol)
+{{< resource_link 3ff7c3d3-20c4-f287-00a6-1ea4adfbbe6f "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal1">}}
 
@@ -147,7 +147,7 @@ Brown, T. L., H. E. Lemay, and B. E. Bursten. _Chemistry: The Central Science_. 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[The Periodic Table]({{< baseurl >}}/pages/structure-of-the-atom/2-periodic-table)
+{{< resource_link a13b8975-9fdc-1778-eea3-68cb5be8fef0 "The Periodic Table" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal5">}}
@@ -173,21 +173,21 @@ Brown, T. L., H. E. Lemay, and B. E. Bursten. _Chemistry: The Central Science_. 
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2: The Periodic Table]({{< baseurl >}}/resources/copy2_of_introduction-to-solid-state-chemistry)
+{{< resource_link 110a4870-ee42-2a29-aa61-9bb7546866b2 "Lecture 2: The Periodic Table" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Lecture Slides (PDF - 6.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec2)
+{{< resource_link a6827fe5-e4d5-79c6-1048-6c10a4d3efd1 "Lecture Slides (PDF - 6.0MB)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw2)
+{{< resource_link 8adb6ae0-68b9-2a12-4d57-c7ef9a4c06a4 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw2_sol)
+{{< resource_link aa16834c-c012-bde9-9956-fdff37e794b8 "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal6">}}
 
@@ -270,7 +270,7 @@ Lehrer, T. _The Remains of Tom Lehrer_. Los Angeles, CA: Warner Archives/Rhino, 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Atomic Models: Rutherford & Bohr]({{< baseurl >}}/pages/structure-of-the-atom/3-atomic-models)
+{{< resource_link 313524b4-840e-e388-74ee-c0ea90001bd5 "Atomic Models: Rutherford & Bohr" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal11">}}
@@ -279,7 +279,7 @@ Lehrer, T. _The Remains of Tom Lehrer_. Los Angeles, CA: Warner Archives/Rhino, 
 
 {{< /div-with-class >}}{{< div-with-class "toggle11">}}
 
-[Archived Lecture Notes #1 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln01), Sections 1-3
+{{< resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" >}}, Sections 1-3
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-05-the-atom.html) 1.5, "The Atom."
 
@@ -290,21 +290,21 @@ Lehrer, T. _The Remains of Tom Lehrer_. Los Angeles, CA: Warner Archives/Rhino, 
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 3: Atomic Models: Rutherford & Bohr]({{< baseurl >}}/resources/copy3_of_introduction-to-solid-state-chemistry)
+{{< resource_link e9b57614-a1ea-a949-7337-849daed8efb6 "Lecture 3: Atomic Models: Rutherford & Bohr" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 9.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec3)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link d675a426-16a8-d9aa-0071-a682b434e233 "Lecture Slides (PDF - 9.3MB)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw3)
+{{< resource_link 6ca5fbac-28a4-7fdd-788c-bc6941a9afa9 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw3_sol)
+{{< resource_link 29f2fc2e-9fd3-c6eb-752e-ee4f5c35ce9b "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal12">}}
 
@@ -375,7 +375,7 @@ Miller, D. P. _Discovering Water: James Watt, Henry Cavendish and the Nineteenth
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Matter/Energy Interactions: Atomic Spectra]({{< baseurl >}}/pages/structure-of-the-atom/4-matter-energy-interactions)
+{{< resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Matter/Energy Interactions: Atomic Spectra" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal16">}}
@@ -384,28 +384,28 @@ Miller, D. P. _Discovering Water: James Watt, Henry Cavendish and the Nineteenth
 
 {{< /div-with-class >}}{{< div-with-class "toggle16">}}
 
-[Archived Lecture Notes #1 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln01), Sections 3, 5
+{{< resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" >}}, Sections 3, 5
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-03-atomic-spectra-and-models-of-t.html) 6.3, "Atomic Spectra and Models of the Atom."
 
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 4: Matter/Energy Interactions: Atomic Spectra]({{< baseurl >}}/resources/copy4_of_introduction-to-solid-state-chemistry)
+{{< resource_link 128dc481-0986-5678-b22f-b7e8b27da009 "Lecture 4: Matter/Energy Interactions: Atomic Spectra" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec4)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 95c65f29-f14b-0fd9-a6ee-88e34161175b "Lecture Slides (PDF - 1.3MB)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw4)
+{{< resource_link d321f747-b6a6-2505-ee02-6061b028f727 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw4_sol)
+{{< resource_link c5d764cc-ff6b-5ecc-e5b7-06c88a12c75e "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal17">}}
 
@@ -456,7 +456,7 @@ Payne-Gaposchkin, Cecilia H. _Stars and Clusters_. Cambridge, MA: Harvard Univer
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Electron Shell Model & Quantum Numbers]({{< baseurl >}}/pages/structure-of-the-atom/5-electron-shell-model-quantum-numbers)
+{{< resource_link e7d31b34-62de-b7aa-1e87-6b9a5a99c71f "Electron Shell Model & Quantum Numbers" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal21">}}
@@ -465,7 +465,7 @@ Payne-Gaposchkin, Cecilia H. _Stars and Clusters_. Cambridge, MA: Harvard Univer
 
 {{< /div-with-class >}}{{< div-with-class "toggle21">}}
 
-[Archived Lecture Notes #1 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln01), Section 3
+{{< resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" >}}, Section 3
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-05-atomic-orbitals-and-their-ener.html) 6.5, "Atomic Orbitals and Their Energies."
 
@@ -474,21 +474,21 @@ Payne-Gaposchkin, Cecilia H. _Stars and Clusters_. Cambridge, MA: Harvard Univer
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 5: Electron Shell Model & Quantum Numbers]({{< baseurl >}}/resources/copy5_of_introduction-to-solid-state-chemistry)
+{{< resource_link 54bb9612-5d89-8741-2bc7-bfa211846fc4 "Lecture 5: Electron Shell Model & Quantum Numbers" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 2.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec5)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link cd1c7bad-1195-8205-26f2-daa467a8bb67 "Lecture Slides (PDF - 2.0MB)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw5)
+{{< resource_link c9193599-c9e6-4798-7f89-ff8ef20460ad "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw5_sol)
+{{< resource_link 4fae718b-e2ed-6d72-09a9-addf7e2d50be "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal22">}}
 
@@ -541,7 +541,7 @@ Dick, Harold G. _The Golden Age of the Great Passenger Airships, Graf Zeppelin a
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Particle-Wave Duality]({{< baseurl >}}/pages/structure-of-the-atom/6-particle-wave-duality)
+{{< resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Particle-Wave Duality" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal27">}}
@@ -550,9 +550,9 @@ Dick, Harold G. _The Golden Age of the Great Passenger Airships, Graf Zeppelin a
 
 {{< /div-with-class >}}{{< div-with-class "toggle27">}}
 
-[Archived Lecture Notes #1 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln01), Section 3
+{{< resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" >}}, Section 3
 
-[Archived Lecture Notes #2 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln02), Section 3
+{{< resource_link 2aee13ce-9bb0-8867-b8d5-816eb0eefc33 "Archived Lecture Notes #2 (PDF)" >}}, Section 3
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-04-the-relationship-between-energ.html) 6.4, "The Relationship between Energy and Mass."
 
@@ -561,17 +561,17 @@ Dick, Harold G. _The Golden Age of the Great Passenger Airships, Graf Zeppelin a
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6: Particle-Wave Duality]({{< baseurl >}}/resources/copy7_of_introduction-to-solid-state-chemistry)
+{{< resource_link a8332303-21a0-34a1-4d83-82956f9bbb43 "Lecture 6: Particle-Wave Duality" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Slides (PDF - 1.7MB)]({{< baseurl >}}/resources/mit3_091scf09_lec6)
+{{< resource_link 12e29e8c-f9ea-1353-0062-a0f9f9923718 "Lecture Slides (PDF - 1.7MB)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw6)
+{{< resource_link 53f7e0e0-4573-65e3-83c5-7241fb6ecfc4 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw6_sol)
+{{< resource_link 4635e54d-46ab-5853-68b0-ddd39bffcf88 "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal28">}}
 
@@ -635,7 +635,7 @@ Powers, Thomas. _Heisenberg's War: The Secret History of the German Bomb_. New Y
 
 {{< /div-with-class >}}{{< div-with-class "toggle32">}}
 
-[Archived Lecture Notes #1 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln01), Section 4
+{{< resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" >}}, Section 4
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-06-building-up-the-periodic-table.html) 6.6, "Building Up the Periodic Table."
 
@@ -644,12 +644,12 @@ Powers, Thomas. _Heisenberg's War: The Secret History of the German Bomb_. New Y
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7: The Aufbau Principle; Photoelectron Spectroscopy]({{< baseurl >}}/resources/lecture-7-the-aufbau-principle-photoelectron-spectroscopy)
+{{< resource_link 9cba9df3-ef38-c8a0-69c3-6642e0072dcf "Lecture 7: The Aufbau Principle; Photoelectron Spectroscopy" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit3_091scf09_lec7)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 332bdd0c-0b87-d708-6a02-54a4cab648d4 "Lecture Slides (PDF - 1.1MB)" >}}
 
 
 {{< tdclose >}}
@@ -711,23 +711,23 @@ SUPPLEMENTAL PROBLEMS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Structure of the Atom]({{< baseurl >}}/pages/structure-of-the-atom/self-assessment-structure-of-the-atom)
+{{< resource_link e0f0b093-6ba1-323d-d748-bdec78bb7499 "Structure of the Atom" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Quiz Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa1_quiz)
+{{< resource_link 7857a03b-e36c-957c-7fe0-f8aa4e9cc7f2 "Quiz Problems (PDF)" >}}
 
-[Quiz Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa1_quiz_sol)
+{{< resource_link 5e8ce137-71ac-ea37-7600-8db5127e444f "Quiz Solutions Key (PDF)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa1_exam)
+{{< resource_link 95b867d0-9fb2-0285-67cd-47868085c0a8 "Exam Problems (PDF)" >}}
 
-[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa1_exam_sol)
+{{< resource_link 69c3dfa0-03ce-edbb-e603-aae5c825b4e6 "Exam Solutions Key (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal34">}}
@@ -738,22 +738,22 @@ SUPPLEMENTAL PROBLEMS
 
 [Clip 1: Exam 1, Problem 1]({{< baseurl >}}/resources/clip-1-exam-1-problem-1-1)
 
-[Clip 2: Exam 1, Problem 2]({{< baseurl >}}/resources/clip-2-exam-1-problem-2-1)
+{{< resource_link 1b9ed3fa-aae8-9162-adce-6a9f70de988a "Clip 2: Exam 1, Problem 2" >}}
 
-[Clip 3: Exam 1, Problem 4]({{< baseurl >}}/resources/clip-3-exam-1-problem-4-1)
+{{< resource_link e2e8664b-07d0-9a06-5135-60368c310898 "Clip 3: Exam 1, Problem 4" >}}
 
-[Clip 4: Exam 1, Problem 6]({{< baseurl >}}/resources/clip-4-exam-1-problem-6-1)
+{{< resource_link c8c9bb31-bc54-69db-f4fc-a3f96efeb87c "Clip 4: Exam 1, Problem 6" >}}
 
-[Clip 5: Exam 2, Problem 2]({{< baseurl >}}/resources/clip-5-exam-2-problem-2-1)
+{{< resource_link 08800ec5-6041-f93a-7291-2caa956da930 "Clip 5: Exam 2, Problem 2" >}}
 
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Supplemental Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa1_supp)
+{{< resource_link 8b92aacf-4312-b09c-7b6e-aeab16df04c7 "Supplemental Exam Problems (PDF)" >}}
 
-[Supplemental Exam Solutions key (PDF - 1.4MB)]({{< baseurl >}}/resources/mit3_091scf09_sa1_supp_sol)
+{{< resource_link a91b2513-2c45-90b6-13bb-283b7a36931a "Supplemental Exam Solutions key (PDF - 1.4MB)" >}}
 
 
 {{< tdclose >}}
@@ -801,9 +801,9 @@ FOR FURTHER STUDY
 
 {{< /div-with-class >}}{{< div-with-class "toggle35">}}
 
-[Archived Lecture Notes #1 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln01), Sections 6, 7
+{{< resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" >}}, Sections 6, 7
 
-[Archived Lecture Notes #2 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln02), Sections 1, 2
+{{< resource_link 2aee13ce-9bb0-8867-b8d5-816eb0eefc33 "Archived Lecture Notes #2 (PDF)" >}}, Sections 1, 2
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-03-energetics-of-ion-formation.html) 7.3, "Energetics of Ion Formation."
 
@@ -818,17 +818,17 @@ FOR FURTHER STUDY
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 8: Ionic Crystals; Born-Haber Cycle]({{< baseurl >}}/resources/lecture-8-ionic-crystals-born-haber-cycle)
+{{< resource_link 75a754d4-e348-bf06-f38e-46d4167c8ac2 "Lecture 8: Ionic Crystals; Born-Haber Cycle" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit3_091scf09_lec8)
+{{< resource_link 935d7afb-d981-a814-d0e1-7a54f8db7e85 "Lecture Slides (PDF - 1.2MB)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw8)
+{{< resource_link b8fad30d-58ad-f86a-f9df-19d901817def "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw8_sol)
+{{< resource_link f8f51db5-2855-d4bf-912b-77482db72fca "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal36">}}
 
@@ -898,7 +898,7 @@ Charles, Daniel. _Master Mind: The Rise and Fall of Fritz Haber, the Nobel Laure
 
 {{< /div-with-class >}}{{< div-with-class "toggle40">}}
 
-[Archived Lecture Notes #2 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln02), Section 3
+{{< resource_link 2aee13ce-9bb0-8867-b8d5-816eb0eefc33 "Archived Lecture Notes #2 (PDF)" >}}, Section 3
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-03-energetics-of-ion-formation.html) 7.3, "Energetics of Ion Formation."
 
@@ -915,21 +915,21 @@ Charles, Daniel. _Master Mind: The Rise and Fall of Fritz Haber, the Nobel Laure
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 9: Drawing Lewis Structures]({{< baseurl >}}/resources/copy6_of_introduction-to-solid-state-chemistry)
+{{< resource_link 00f0e829-982e-c411-09c4-5275598b3d2f "Lecture 9: Drawing Lewis Structures" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 2.9MB)]({{< baseurl >}}/resources/mit3_091scf09_lec9)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link a4e0cd55-113c-d2bc-fe4c-9b4de3719739 "Lecture Slides (PDF - 2.9MB)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw9)
+{{< resource_link 2e47dc30-4e3d-a3be-1679-17cca80bc1b9 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw9_sol)
+{{< resource_link d9e95730-85a3-b159-302c-3aa9ce421355 "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal41">}}
 
@@ -989,7 +989,7 @@ Molina, Mario J. and Rowland, F. S. "[Stratospheric sink for chlorofluoromethane
 
 {{< /div-with-class >}}{{< div-with-class "toggle45">}}
 
-[Archived Lecture Notes #2 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln02), Section 3
+{{< resource_link 2aee13ce-9bb0-8867-b8d5-816eb0eefc33 "Archived Lecture Notes #2 (PDF)" >}}, Section 3
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-02-localized-bonding-and-hybrid-a.html) 9.2, "Localized Bonding and Hybrid Atomic Orbitals."
 
@@ -1000,17 +1000,17 @@ Molina, Mario J. and Rowland, F. S. "[Stratospheric sink for chlorofluoromethane
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 10: Hybridized & Molecular Orbitals, Paramagnetism]({{< baseurl >}}/resources/copy8_of_introduction-to-solid-state-chemistry)
+{{< resource_link f838acd8-52f9-7bb1-4baf-4926412d4144 "Lecture 10: Hybridized & Molecular Orbitals, Paramagnetism" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Slides (PDF - 2.1MB)]({{< baseurl >}}/resources/mit3_091scf09_lec10)
+{{< resource_link 8fab69bd-9a8f-6e8d-a2e4-90e8816cfdb5 "Lecture Slides (PDF - 2.1MB)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw10)
+{{< resource_link 87735dcc-3094-db54-0c4d-02bd86a2a777 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw10_sol)
+{{< resource_link 38507f45-160f-b3ec-ebbf-8b290948873a "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal46">}}
 
@@ -1061,17 +1061,17 @@ Molina, Mario J. and Rowland, F. S. "[Stratospheric sink for chlorofluoromethane
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 11: The Shapes of Molecules]({{< baseurl >}}/resources/copy9_of_introduction-to-solid-state-chemistry)
+{{< resource_link 5060ffce-194a-1621-97da-da0ccf39a3ad "Lecture 11: The Shapes of Molecules" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit3_091scf09_lec11)
+{{< resource_link c53de2cd-0de3-1f49-06c4-fd352a4dfc57 "Lecture Slides (PDF - 1.2MB)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw11)
+{{< resource_link 1f11d8e7-0715-f431-af29-5713bca92f19 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw11_sol)
+{{< resource_link 2ba6c9e0-17be-9ce1-12d6-4d93789fc7e9 "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal48">}}
 
@@ -1109,7 +1109,7 @@ Molina, Mario J. and Rowland, F. S. "[Stratospheric sink for chlorofluoromethane
 
 {{< /div-with-class >}}{{< div-with-class "toggle50">}}
 
-[Archived Lecture Notes #2 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln02), Section 4
+{{< resource_link 2aee13ce-9bb0-8867-b8d5-816eb0eefc33 "Archived Lecture Notes #2 (PDF)" >}}, Section 4
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s15-02-intermolecular-forces.html) 11.2, "Intermolecular Forces."
 
@@ -1118,17 +1118,17 @@ Molina, Mario J. and Rowland, F. S. "[Stratospheric sink for chlorofluoromethane
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 12: Intermolecular Forces]({{< baseurl >}}/resources/copy10_of_introduction-to-solid-state-chemistry)
+{{< resource_link 8120fd4a-fa1e-ac9c-98eb-76bdf163e43a "Lecture 12: Intermolecular Forces" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Slides (PDF)]({{< baseurl >}}/resources/mit3_091scf09_lec12)
+{{< resource_link 2b2776b5-a909-a9d2-4085-937d42feed1a "Lecture Slides (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw12)
+{{< resource_link ae36b04a-a6cf-e8f7-e517-8b43e8dc08c4 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw12_sol)
+{{< resource_link c30e3a0b-84e7-0c2f-68ff-8dcea496b95f "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal51">}}
 
@@ -1205,23 +1205,23 @@ SUPPLEMENTAL PROBLEMS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Bonding and Molecules]({{< baseurl >}}/pages/bonding-and-molecules/self-assessment)
+{{< resource_link e546abb4-cde9-4dcd-5383-555e591eed18 "Bonding and Molecules" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Quiz Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa2_quiz)
+{{< resource_link 9083bdf1-d586-8c4b-ce6c-3aca281c4baf "Quiz Problems (PDF)" >}}
 
-[Quiz Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa2_quiz_sol)
+{{< resource_link 45d1d14a-14bb-914a-92b3-d2ff4bf22da6 "Quiz Solutions Key (PDF)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_s2_exam)
+{{< resource_link 3932c171-009c-5ed8-e6ff-717130d866b9 "Exam Problems (PDF)" >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_s2_exam_sol)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 02932060-0640-2a16-2fcf-ff143547751f "Exam Solutions Key (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal55">}}
@@ -1230,24 +1230,24 @@ SUPPLEMENTAL PROBLEMS
 
 {{< /div-with-class >}}{{< div-with-class "toggle55">}}
 
-[Clip 1: Exam 1, Problem 3]({{< baseurl >}}/resources/clip-1-exam-1-problem-3-1)
+{{< resource_link c3858010-6789-bb2a-e8e2-b2fcd706f082 "Clip 1: Exam 1, Problem 3" >}}
 
-[Clip 2: Exam 1, Problem 5]({{< baseurl >}}/resources/clip-2-exam-1-problem-5-1)
+{{< resource_link cf647339-03ae-569a-0b0a-9cef04b4045f "Clip 2: Exam 1, Problem 5" >}}
 
-[Clip 3: Exam 2, Problem 4]({{< baseurl >}}/resources/clip-3-exam-2-problem-4-1)
+{{< resource_link 82efd21b-3fff-7c14-53f5-64bab0a8b580 "Clip 3: Exam 2, Problem 4" >}}
 
-[Clip 4: Exam 2, Problem 5 - Part One]({{< baseurl >}}/resources/clip-4-exam-2-problem-5-part-one-1)
+{{< resource_link 59040d80-b31f-2bca-bb54-f63602d72376 "Clip 4: Exam 2, Problem 5 - Part One" >}}
 
-[Clip 5: Exam 2, Problem 5 - Part Two]({{< baseurl >}}/resources/clip-5-exam-2-problem-5-part-two-1)
+{{< resource_link aba83146-5d34-8d75-c090-4c5de6285cd7 "Clip 5: Exam 2, Problem 5 - Part Two" >}}
 
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Supplemental Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa2_supp)
+{{< resource_link 6a797a22-b087-98eb-258c-7713a42423a9 "Supplemental Exam Problems (PDF)" >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Supplemental Exam Solutions Key (PDF - 1.4MB)]({{< baseurl >}}/resources/mit3_091scf09_sa2_supp_sol)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 736e0dcd-cfaa-e833-4109-794ae0d655da "Supplemental Exam Solutions Key (PDF - 1.4MB)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1284,7 +1284,7 @@ FOR FURTHER STUDY
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Band Theory of Solids]({{< baseurl >}}/pages/electronic-materials/13-band-theory-of-solids)
+{{< resource_link c567f1c9-3666-523f-ed70-cea0765d0080 "Band Theory of Solids" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal56">}}
@@ -1293,7 +1293,7 @@ FOR FURTHER STUDY
 
 {{< /div-with-class >}}{{< div-with-class "toggle56">}}
 
-[Archived Lecture Notes #3 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln03)
+{{< resource_link 44adf21b-920f-69e8-c809-b1ab75b62d0a "Archived Lecture Notes #3 (PDF)" >}}
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-05-correlation-between-bonding-an.html) 12.5, "Correlation Between Bonding and the Properties of Solids."
 
@@ -1308,17 +1308,17 @@ FOR FURTHER STUDY
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 13: Band Theory of Solids]({{< baseurl >}}/resources/copy11_of_introduction-to-solid-state-chemistry)
+{{< resource_link 1587fa3d-b3eb-f297-d90c-a8e2ecc6b50b "Lecture 13: Band Theory of Solids" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Slides (PDF)]({{< baseurl >}}/resources/mit3_091scf09_lec13)
+{{< resource_link 2c2dd2aa-d9b8-8123-da8d-72f5cdc9d701 "Lecture Slides (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw13)
+{{< resource_link 3d5d0ed0-a13d-0c6e-df92-6d76284e3651 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw13_sol)
+{{< resource_link fa6d1081-f73e-cc9f-d628-dadbcbd5c2df "Solutions (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -1357,7 +1357,7 @@ Heitler, Walter, and Fritz London. "[Wechselwirkung neutraler Atome und homöopo
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Semiconductors]({{< baseurl >}}/pages/electronic-materials/14-semiconductors)
+{{< resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Semiconductors" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal60">}}
@@ -1366,24 +1366,24 @@ Heitler, Walter, and Fritz London. "[Wechselwirkung neutraler Atome und homöopo
 
 {{< /div-with-class >}}{{< div-with-class "toggle60">}}
 
-[Archived Lecture Notes #3 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln03)
+{{< resource_link 44adf21b-920f-69e8-c809-b1ab75b62d0a "Archived Lecture Notes #3 (PDF)" >}}
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-06-bonding-in-metals-and-semicond.html) 12.6, "Bonding in Metals and Semiconductors."
 
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 14: Semiconductors]({{< baseurl >}}/resources/copy13_of_introduction-to-solid-state-chemistry)
+{{< resource_link f3f4ee1f-0e3c-e8d0-7379-1aac386d1886 "Lecture 14: Semiconductors" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Slides (PDF - 2.5MB)]({{< baseurl >}}/resources/mit3_091scf09_lec14)
+{{< resource_link be21c013-63b2-ff05-878c-c644c9454bdd "Lecture Slides (PDF - 2.5MB)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw14)
+{{< resource_link 4ca00f4d-1d6c-ecc3-1145-b87e525cacc7 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw14_sol)
+{{< resource_link 54baade8-1b98-48d5-da26-f24b2e8caf5e "Solutions (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -1460,31 +1460,31 @@ SUPPLEMENTAL PROBLEMS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Electronic Materials]({{< baseurl >}}/pages/electronic-materials/self-assessment-electronic-materials)
+{{< resource_link 3452e351-524d-2e8f-7020-05d4103e2aaf "Electronic Materials" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Quiz Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa3_quiz)
+{{< resource_link f2f027d1-7842-8c8e-2199-1f9dc0a30ee1 "Quiz Problems (PDF)" >}}
 
-[Quiz Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa3_quiz_sol)
+{{< resource_link 8126d136-9674-ad83-23f2-288583ed63b9 "Quiz Solutions Key (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa3_exam)
+{{< resource_link f051d2af-b769-1776-f327-b3a084e6aeee "Exam Problems (PDF)" >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa3_exam_sol)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 3bd38f24-1443-911a-f59a-114b0df26216 "Exam Solutions Key (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Clip 1: Exam 2, Problem 3]({{< baseurl >}}/resources/clip-1-exam-2-problem-3-1)
+{{< resource_link 63b75109-5edc-3b33-88ed-5785e0102f91 "Clip 1: Exam 2, Problem 3" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Supplemental Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa3_supp)
+{{< resource_link 51ae2a0a-c5c5-e529-3888-29d4d5a91ee0 "Supplemental Exam Problems (PDF)" >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Supplemental Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa3_supp_sol)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 9eb0eea0-04fb-f7e4-259b-a48790322f4d "Supplemental Exam Solutions Key (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1521,7 +1521,7 @@ FOR FURTHER STUDY
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction to Crystallography]({{< baseurl >}}/pages/crystalline-materials/15-introduction-to-crystallography)
+{{< resource_link 94d7c45c-dd53-4c54-0679-000be37ea165 "Introduction to Crystallography" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal63">}}
@@ -1530,7 +1530,7 @@ FOR FURTHER STUDY
 
 {{< /div-with-class >}}{{< div-with-class "toggle63">}}
 
-[Archived Lecture Notes #4 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln04), Sections 1-3
+{{< resource_link 307d3b60-4911-0c84-5d05-0060daad44a0 "Archived Lecture Notes #4 (PDF)" >}}, Sections 1-3
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-01-crystalline-and-amorphous-soli.html) 12.1, "Crystalline and Amorphous Solids."
 
@@ -1543,21 +1543,21 @@ FOR FURTHER STUDY
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 15: Introduction to Crystallography]({{< baseurl >}}/resources/copy12_of_introduction-to-solid-state-chemistry)
+{{< resource_link 74fac523-7e84-0ec0-5428-94a09d52adf8 "Lecture 15: Introduction to Crystallography" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Lecture Slides (PDF - 3.2MB)]({{< baseurl >}}/resources/mit3_091scf09_lec15)
+{{< resource_link e678d3bc-ff4a-bdbf-a820-7235f1341476 "Lecture Slides (PDF - 3.2MB)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw15)
+{{< resource_link e4cca0e6-0c42-8bf0-bebd-ffdb13f3742f "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw15_sol)
+{{< resource_link d10e2ab1-629f-8f1c-ebc0-c40d5fb0522d "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal64">}}
 
@@ -1630,7 +1630,7 @@ Talking Heads. "Burning Down the House." _Speaking in Tongues_. Sire Records, 19
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Crystallographic Notation & X-Rays]({{< baseurl >}}/pages/crystalline-materials/16-crystallographic-notation-x-rays)
+{{< resource_link e22836d9-83d9-ad9c-8310-e4357bb64a92 "Crystallographic Notation & X-Rays" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal69">}}
@@ -1639,9 +1639,9 @@ Talking Heads. "Burning Down the House." _Speaking in Tongues_. Sire Records, 19
 
 {{< /div-with-class >}}{{< div-with-class "toggle69">}}
 
-[Archived Lecture Notes #4 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln04), Section 4
+{{< resource_link 307d3b60-4911-0c84-5d05-0060daad44a0 "Archived Lecture Notes #4 (PDF)" >}}, Section 4
 
-[Archived Lecture Notes #5 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln05), Section 1
+{{< resource_link b61fb9c4-9126-d987-3b26-44016348e605 "Archived Lecture Notes #5 (PDF)" >}}, Section 1
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-02-the-arrangement-of-atoms-in-cr.html) 12.2, "The Arrangement of Atoms in Crystalline Solids."
 
@@ -1652,17 +1652,17 @@ Talking Heads. "Burning Down the House." _Speaking in Tongues_. Sire Records, 19
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 16: Crystallographic Notation & X-Rays]({{< baseurl >}}/resources/copy29_of_introduction-to-solid-state-chemistry)
+{{< resource_link dae69da3-560a-81ef-657d-13d36ffe8b15 "Lecture 16: Crystallographic Notation & X-Rays" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Slides (PDF)]({{< baseurl >}}/resources/mit3_091scf09_lec16)
+{{< resource_link dcdd374f-a5d1-eea5-37e0-8f2148b90cda "Lecture Slides (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw16)
+{{< resource_link 6014333d-bc9b-f654-e510-f4c0b0a4803b "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw16_sol)
+{{< resource_link 0e1ee253-9dce-f492-0c7e-17c8a4a1a1d5 "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal70">}}
 
@@ -1707,7 +1707,7 @@ Thomas, A. M. K. _The Invisible Light: 100 Years of Medical Radiology_. Cambridg
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[X-Ray Emission & Absorption]({{< baseurl >}}/pages/crystalline-materials/17-x-ray-emission-absorption)
+{{< resource_link e504c6fa-63f4-b438-cb24-0e0ef9bc60eb "X-Ray Emission & Absorption" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal74">}}
@@ -1716,7 +1716,7 @@ Thomas, A. M. K. _The Invisible Light: 100 Years of Medical Radiology_. Cambridg
 
 {{< /div-with-class >}}{{< div-with-class "toggle74">}}
 
-[Archived Lecture Notes #5 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln05), Section 2
+{{< resource_link b61fb9c4-9126-d987-3b26-44016348e605 "Archived Lecture Notes #5 (PDF)" >}}, Section 2
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-01-the-history-of-the-periodic-ta.html) 7.1, "The Role of Atomic Number in the Periodic Table." (only read until Example 1)
 
@@ -1725,17 +1725,17 @@ Thomas, A. M. K. _The Invisible Light: 100 Years of Medical Radiology_. Cambridg
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 17: X-Ray Emission & Absorption]({{< baseurl >}}/resources/copy30_of_introduction-to-solid-state-chemistry)
+{{< resource_link 332d22ec-93de-a7e2-8716-1b611d7efed4 "Lecture 17: X-Ray Emission & Absorption" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Slides (PDF - 3.5MB)]({{< baseurl >}}/resources/mit3_091scf09_lec17)
+{{< resource_link dbfd3929-46c1-a198-155f-3ffc3111c325 "Lecture Slides (PDF - 3.5MB)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw17)
+{{< resource_link 00a60a75-c749-3d94-9c8d-9a5bea14bbfd "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw17_sol)
+{{< resource_link a895fc22-cf61-8412-f11c-cb662e862fe5 "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal75">}}
 
@@ -1794,7 +1794,7 @@ Lubar, Robert S. _Dali: The Salvador Dali Museum Collection_. Boston, MA: Bullfi
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[X-Ray Diffraction Techniques]({{< baseurl >}}/pages/crystalline-materials/18-x-ray-diffraction-techniques)
+{{< resource_link 2f4aa15c-0125-9d84-17ab-ecf218034e84 "X-Ray Diffraction Techniques" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal80">}}
@@ -1803,7 +1803,7 @@ Lubar, Robert S. _Dali: The Salvador Dali Museum Collection_. Boston, MA: Bullfi
 
 {{< /div-with-class >}}{{< div-with-class "toggle80">}}
 
-[Archived Lecture Notes #5 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln05), Sections 4-6
+{{< resource_link b61fb9c4-9126-d987-3b26-44016348e605 "Archived Lecture Notes #5 (PDF)" >}}, Sections 4-6
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-03-structures-of-simple-binary-co.html) 12.3, "Structures of Simple Binary Compounds."
 
@@ -1812,21 +1812,21 @@ Lubar, Robert S. _Dali: The Salvador Dali Museum Collection_. Boston, MA: Bullfi
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 18: X-Ray Diffraction Techniques]({{< baseurl >}}/resources/copy31_of_introduction-to-solid-state-chemistry)
+{{< resource_link 9104537d-01d6-a0fe-e9b5-53e74b518fb1 "Lecture 18: X-Ray Diffraction Techniques" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 5.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec18)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link e20fd8f3-e73b-3408-320e-a1dae9dc12ec "Lecture Slides (PDF - 5.3MB)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw18)
+{{< resource_link 5329c171-e045-015d-eafc-83f199741631 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw18_sol)
+{{< resource_link ec60f891-3240-0083-b748-c3dcde9e6e67 "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal81">}}
 
@@ -1867,7 +1867,7 @@ Mozart, Wolfgang. "Rondo Alla Turca." _Piano Sonata no. 11 in A major_, K. 331.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Point & Line Defects]({{< baseurl >}}/pages/crystalline-materials/19-point-and-line-defects)
+{{< resource_link 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4 "Point & Line Defects" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal85">}}
@@ -1876,7 +1876,7 @@ Mozart, Wolfgang. "Rondo Alla Turca." _Piano Sonata no. 11 in A major_, K. 331.
 
 {{< /div-with-class >}}{{< div-with-class "toggle85">}}
 
-[Archived Lecture Notes #6 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln06), Sections 1-2
+{{< resource_link 128d0c6d-4b74-6a78-66e7-5600347e12cd "Archived Lecture Notes #6 (PDF)" >}}, Sections 1-2
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-04-defects-in-crystals.html) 12.4, "Defects in Crystals."
 
@@ -1893,21 +1893,21 @@ Mozart, Wolfgang. "Rondo Alla Turca." _Piano Sonata no. 11 in A major_, K. 331.
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 19: Point & Line Defects]({{< baseurl >}}/resources/copy32_of_introduction-to-solid-state-chemistry)
+{{< resource_link 2c52e699-868c-f83c-a4a9-d48d1a26862a "Lecture 19: Point & Line Defects" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec19)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link e9d87068-09d2-3de0-3d37-a624db0b8967 "Lecture Slides (PDF - 3.0MB)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw19)
+{{< resource_link 531957be-9bc8-97d8-f76e-8ddeec0db6ef "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw19_sol)
+{{< resource_link 27300842-939b-23e3-41a6-7f365b09088c "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal86">}}
 
@@ -1964,7 +1964,7 @@ Hull, Derek, and David J. Bacon. _Introduction to Dislocations_. Boston, MA: But
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Line, Interface & Bulk Defects]({{< baseurl >}}/pages/crystalline-materials/20-line-interface-and-bulk-defects)
+{{< resource_link 5c00821f-505a-eeee-270d-29caeda060dc "Line, Interface & Bulk Defects" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal91">}}
@@ -1973,7 +1973,7 @@ Hull, Derek, and David J. Bacon. _Introduction to Dislocations_. Boston, MA: But
 
 {{< /div-with-class >}}{{< div-with-class "toggle91">}}
 
-[Archived Lecture Notes #6 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln06), Sections 3-4
+{{< resource_link 128d0c6d-4b74-6a78-66e7-5600347e12cd "Archived Lecture Notes #6 (PDF)" >}}, Sections 3-4
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-04-defects-in-crystals.html) 12.4, "Defects in Crystals."
 
@@ -1984,17 +1984,17 @@ Hull, Derek, and David J. Bacon. _Introduction to Dislocations_. Boston, MA: But
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 20: Line, Interface & Bulk Defects]({{< baseurl >}}/resources/copy33_of_introduction-to-solid-state-chemistry)
+{{< resource_link d147cafc-58d8-580f-1c43-65cb582c2ba5 "Lecture 20: Line, Interface & Bulk Defects" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Slides (PDF)]({{< baseurl >}}/resources/mit3_091scf09_lec20)
+{{< resource_link 4d4d58bf-a11b-d182-a12e-fc5bb7e8593d "Lecture Slides (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw20)
+{{< resource_link 2454c3a8-b5ee-c1ab-4933-ea9a5737dcc4 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw20_sol)
+{{< resource_link e2be2888-f753-e0b3-dbd0-d0a70a5e2485 "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal92">}}
 
@@ -2079,21 +2079,21 @@ SUPPLEMENTAL PROBLEMS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Crystalline Materials]({{< baseurl >}}/pages/crystalline-materials/self-assessment-crystalline-materials)
+{{< resource_link b919ff60-1e15-2f9b-3ab0-e616c5196381 "Crystalline Materials" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Quiz Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa4_quiz)
+{{< resource_link 73949f66-24e4-9c91-cb72-a28840128f2b "Quiz Problems (PDF)" >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Quiz Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa4_quiz_sol)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 235c3cd1-5ce6-0caf-eb4c-dc581b6d3c6f "Quiz Solutions Key (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa4_exam)
+{{< resource_link 72f92a63-63c7-a034-3ecc-b2871cf06776 "Exam Problems (PDF)" >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam Solutions Key (PDF - 1.5MB)]({{< baseurl >}}/resources/mit3_091scf09_sa4_exam_sol)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link c5667e14-5c26-b51f-6034-09d402e8ae62 "Exam Solutions Key (PDF - 1.5MB)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal97">}}
@@ -2102,22 +2102,22 @@ SUPPLEMENTAL PROBLEMS
 
 {{< /div-with-class >}}{{< div-with-class "toggle97">}}
 
-[Clip 1: Exam 2, Problem 1]({{< baseurl >}}/resources/clip-1-exam-2-problem-1-1)
+{{< resource_link 8997e4d2-69b0-1aeb-6e44-c2340e06df5e "Clip 1: Exam 2, Problem 1" >}}
 
-[Clip 2: Exam 2, Problem 2]({{< baseurl >}}/resources/clip-2-exam-2-problem-2-1)
+{{< resource_link 1e383b6c-baf4-de36-139b-b94cd31ba160 "Clip 2: Exam 2, Problem 2" >}}
 
-[Clip 3: Exam 3, Problem 1]({{< baseurl >}}/resources/clip-3-exam-3-problem-1-1)
+{{< resource_link ef58368a-1991-03ea-0ad3-55181533f41a "Clip 3: Exam 3, Problem 1" >}}
 
-[Clip 4: Exam 3, Problem 2B]({{< baseurl >}}/resources/clip-4-exam-3-problem-2b-1)
+{{< resource_link 679aff1f-5298-4a0b-a10b-90bf866a5b63 "Clip 4: Exam 3, Problem 2B" >}}
 
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Supplemental Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa4_supp)
+{{< resource_link 4d7f5103-d7b1-2ba2-2c94-8b64c3e207d9 "Supplemental Exam Problems (PDF)" >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Supplemental Exam Solutions Key (PDF - 1.1MB)]({{< baseurl >}}/resources/mit3_091scf09_sa4_supp_sol)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 85d44e5b-d704-f614-3527-fbfc764f8088 "Supplemental Exam Solutions Key (PDF - 1.1MB)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -2154,7 +2154,7 @@ FOR FURTHER STUDY
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction to Glasses]({{< baseurl >}}/pages/amorphous-materials/21-introduction-to-glasses)
+{{< resource_link 1d01a4a6-fa92-2854-cead-1f61b1189649 "Introduction to Glasses" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal98">}}
@@ -2163,7 +2163,7 @@ FOR FURTHER STUDY
 
 {{< /div-with-class >}}{{< div-with-class "toggle98">}}
 
-[Archived Lecture Notes #7 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln07)
+{{< resource_link 89de42af-0f13-3329-6116-2dbddbeddddc "Archived Lecture Notes #7 (PDF)" >}}
 
 [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.5, "Noncrystalline Solids – Three-Dimensional Imperfections."
 
@@ -2172,17 +2172,17 @@ FOR FURTHER STUDY
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 21: Introduction to Glasses]({{< baseurl >}}/resources/copy14_of_introduction-to-solid-state-chemistry)
+{{< resource_link 32868220-83e4-02e7-cc89-3a16b1253238 "Lecture 21: Introduction to Glasses" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Slides (PDF)]({{< baseurl >}}/resources/mit3_091scf09_lec21)
+{{< resource_link 599cb191-5195-f9ee-f80d-c8b4e49cfa4b "Lecture Slides (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw21)
+{{< resource_link f33b7111-a1c2-edf5-3157-f70857f2a4b7 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw21_sol)
+{{< resource_link 22cd6cac-c77f-7466-f2e0-bd8e082452fb "Solutions (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -2232,9 +2232,9 @@ Chihuly, Dale. _Chihuly: Form From Fire_. Seattle, WA: University of Washington 
 
 {{< /div-with-class >}}{{< div-with-class "toggle102">}}
 
-[Archived Lecture Notes #7 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln07)
+{{< resource_link 89de42af-0f13-3329-6116-2dbddbeddddc "Archived Lecture Notes #7 (PDF)" >}}
 
-[Archived Lecture Notes #8 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln08)
+{{< resource_link 77aedff7-4af7-4be5-aa06-d4b580bed800 "Archived Lecture Notes #8 (PDF)" >}}
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-05-half-lives-and-radioactive-dec.html) 14.5, "Half-Lives and Radioactive Decay Kinetics."
 
@@ -2249,12 +2249,12 @@ Chihuly, Dale. _Chihuly: Form From Fire_. Seattle, WA: University of Washington 
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 22: Engineering Glass Properties, Introduction to Kinetics]({{< baseurl >}}/resources/copy15_of_introduction-to-solid-state-chemistry)
+{{< resource_link 8cbf6e3d-a932-2176-e0ff-bb59925bf1f1 "Lecture 22: Engineering Glass Properties, Introduction to Kinetics" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF)]({{< baseurl >}}/resources/mit3_091scf09_lec22)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 7e17c011-6607-aa5d-9d64-24936ceb41c7 "Lecture Slides (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -2265,9 +2265,9 @@ Chihuly, Dale. _Chihuly: Form From Fire_. Seattle, WA: University of Washington 
 
 {{< /div-with-class >}}{{< div-with-class "toggle103">}}
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw22)
+{{< resource_link 67e78b6c-5093-89af-e66e-047d6a92fe9a "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw22_sol)
+{{< resource_link 17a6e787-5b98-6404-8a27-71f98cea991f "Solutions (PDF)" >}}
 
 [MATDL VirtualDL Lessons 1-4](https://web.archive.org/web/20100115000922/http://matdl.org/virtuallabs/index.php/3.091_VirtualLab)
 
@@ -2356,31 +2356,31 @@ SUPPLEMENTAL PROBLEMS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Amorphous Materials]({{< baseurl >}}/pages/amorphous-materials/self-assessment-amorphous-materials)
+{{< resource_link cbb4c14e-67cf-57ab-0634-902e7e8953ff "Amorphous Materials" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Quiz Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa5_quiz)
+{{< resource_link 74bb397c-3d35-9318-6f09-d1fbfe203457 "Quiz Problems (PDF)" >}}
 
-[Quiz Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa5_quiz_sol)
+{{< resource_link a2401f83-26ef-4ca0-b873-f3cb0b4930ff "Quiz Solutions Key (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa5_exam)
+{{< resource_link a17690fb-542c-75f3-0f04-c837aae80e56 "Exam Problems (PDF)" >}}
 
-[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa5_exam_sol)
+{{< resource_link 0bbd2975-7ba6-a41c-c234-27a3ff69bb51 "Exam Solutions Key (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Clip 1: Exam 3, Problem 2A]({{< baseurl >}}/resources/clip-1-exam-3-problem-2a-1)
+{{< resource_link 1b41d7ad-a005-ed58-db62-33d5998a8544 "Clip 1: Exam 3, Problem 2A" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Supplemental Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa5_supp)
+{{< resource_link e3fe96cc-0466-995c-02b7-fe565dbfb2c2 "Supplemental Exam Problems (PDF)" >}}
 
-[Supplemental Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa5_supp_sol)
+{{< resource_link 794af633-fd95-52d7-4ba9-6f45caca94e1 "Supplemental Exam Solutions Key (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -2417,7 +2417,7 @@ FOR FURTHER STUDY
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Reaction Rates]({{< baseurl >}}/pages/reactions-and-kinetics/23-reaction-rates)
+{{< resource_link 568956d9-4b5b-b4e9-70b5-553efd337767 "Reaction Rates" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal109">}}
@@ -2426,9 +2426,9 @@ FOR FURTHER STUDY
 
 {{< /div-with-class >}}{{< div-with-class "toggle109">}}
 
-[Archived Lecture Notes #8 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln08), Sections 4-7
+{{< resource_link 77aedff7-4af7-4be5-aa06-d4b580bed800 "Archived Lecture Notes #8 (PDF)" >}}, Sections 4-7
 
-[Archived Lecture Notes #9 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln09), Section 1
+{{< resource_link e984fbef-9101-02c3-4ac5-ef86f1c939c8 "Archived Lecture Notes #9 (PDF)" >}}, Section 1
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s14-07-the-kinetic-molecular-theory-o.html) 10.7, "The Kinetic Molecular Theory of Gases."
 
@@ -2447,21 +2447,21 @@ FOR FURTHER STUDY
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 23: Reaction Rates]({{< baseurl >}}/resources/copy16_of_introduction-to-solid-state-chemistry)
+{{< resource_link aef69fb9-d1a4-5fe7-9968-3f07d33781da "Lecture 23: Reaction Rates" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.4MB)]({{< baseurl >}}/resources/mit3_091scf09_lec23)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 76b20538-5820-149e-6cd1-3b74c33fc2e0 "Lecture Slides (PDF - 1.4MB)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw23)
+{{< resource_link 25ba072c-4443-bd19-ed84-8bf9379f3ad5 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw23_sol)
+{{< resource_link 90e30430-59bc-8309-0c33-bbb6fc1fd077 "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal110">}}
 
@@ -2524,7 +2524,7 @@ Lennon, John, and Paul McCartney. "Baby You Can Drive My Car." _Rubber Soul_. Pe
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Diffusion]({{< baseurl >}}/pages/reactions-and-kinetics/24-diffusion)
+{{< resource_link 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7 "Diffusion" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal115">}}
@@ -2533,7 +2533,7 @@ Lennon, John, and Paul McCartney. "Baby You Can Drive My Car." _Rubber Soul_. Pe
 
 {{< /div-with-class >}}{{< div-with-class "toggle115">}}
 
-[Archived Lecture Notes #9 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln09)
+{{< resource_link e984fbef-9101-02c3-4ac5-ef86f1c939c8 "Archived Lecture Notes #9 (PDF)" >}}
 
 [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.2, "Thermal Production of Point Defects."
 
@@ -2546,21 +2546,21 @@ Lennon, John, and Paul McCartney. "Baby You Can Drive My Car." _Rubber Soul_. Pe
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 24: Diffusion]({{< baseurl >}}/resources/copy17_of_introduction-to-solid-state-chemistry)
+{{< resource_link 966a9ef4-8a1b-f5fc-e138-2efe29b47ff5 "Lecture 24: Diffusion" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec24)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 62a05864-c28d-130a-1b6a-d3316cb9aa6a "Lecture Slides (PDF - 3.0MB)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw24)
+{{< resource_link 83b93733-79fb-fc6d-6ca0-ce92fbd900a2 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw24_sol)
+{{< resource_link ce038d80-b7b3-1e2b-17a9-0e64acc5937d "Solutions (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -2639,21 +2639,21 @@ SUPPLEMENTAL PROBLEMS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Reactions and Kinetics]({{< baseurl >}}/pages/reactions-and-kinetics/self-assessment-reactions-and-kinetics)
+{{< resource_link 786b7514-86a8-3635-cf6a-b88c95dc0332 "Reactions and Kinetics" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Quiz Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa6_quiz)
+{{< resource_link ac195c6a-b2da-95ca-0a9a-2e2686c317fa "Quiz Problems (PDF)" >}}
 
-[Quiz Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa6_quiz_sol)
+{{< resource_link db3f9687-96ba-32e5-75da-a5cec26cf55d "Quiz Solutions Key (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa6_exam)
+{{< resource_link 1c9e156d-958a-8ef7-9cb5-af59bcee91ea "Exam Problems (PDF)" >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa6_exam_sol)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 31d982fb-6073-7e40-7940-d3351b0d6e8d "Exam Solutions Key (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal120">}}
@@ -2662,20 +2662,20 @@ SUPPLEMENTAL PROBLEMS
 
 {{< /div-with-class >}}{{< div-with-class "toggle120">}}
 
-[Clip 1: Exam 3, Problem 4]({{< baseurl >}}/resources/clip-1-exam-3-problem-4-1)
+{{< resource_link 24d860b3-8d2e-a6b5-e16d-4414b0f2516a "Clip 1: Exam 3, Problem 4" >}}
 
-[Clip 2: Exam 3, Problem 5]({{< baseurl >}}/resources/clip-2-exam-3-problem-5-1)
+{{< resource_link b7d8395e-4bb1-d0ae-e23c-b8fe773ff790 "Clip 2: Exam 3, Problem 5" >}}
 
-[Clip 3: Final Exam, Problem 11a]({{< baseurl >}}/resources/clip-3-final-exam-problem-11a-1)
+{{< resource_link 8a526561-d0f7-913a-a22b-887f29ffa45f "Clip 3: Final Exam, Problem 11a" >}}
 
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Supplemental Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa6_supp)
+{{< resource_link d021a3f1-118d-6504-0551-bc2cebce018e "Supplemental Exam Problems (PDF)" >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Supplemental Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa6_supp_sol)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 496e3792-fbf9-90c3-3b32-0cc474ad81dc "Supplemental Exam Solutions Key (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -2712,7 +2712,7 @@ FOR FURTHER STUDY
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction to Aqueous Solutions]({{< baseurl >}}/pages/aqueous-solutions/25-introduction-to-aqueous-solutions)
+{{< resource_link 2d99a337-8fc4-7f5c-57d3-d1e5a4dc19a3 "Introduction to Aqueous Solutions" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal121">}}
@@ -2734,21 +2734,21 @@ FOR FURTHER STUDY
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 25: Introduction to Aqueous Solutions]({{< baseurl >}}/resources/copy18_of_introduction-to-solid-state-chemistry)
+{{< resource_link 8a7de7f1-6002-06f8-d04c-996f2531b4f1 "Lecture 25: Introduction to Aqueous Solutions" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec25)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link f79062d7-ce66-928e-8a24-0f4df49da174 "Lecture Slides (PDF - 1.3MB)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw25)
+{{< resource_link e0791f0c-6247-373b-8104-4abf62745c6d "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw25_sol)
+{{< resource_link 44c82dce-d274-7270-0283-1886e454783b "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal122">}}
 
@@ -2783,7 +2783,7 @@ Chang, Kenneth. "[The Nature of Glass Remains Anything but Clear](http://www.nyt
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Acids & Bases]({{< baseurl >}}/pages/aqueous-solutions/26-acids-and-bases)
+{{< resource_link 98ba1bf2-d4f9-d827-e295-168909119297 "Acids & Bases" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal125">}}
@@ -2807,21 +2807,21 @@ Chang, Kenneth. "[The Nature of Glass Remains Anything but Clear](http://www.nyt
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 26: Acids & Bases]({{< baseurl >}}/resources/copy19_of_introduction-to-solid-state-chemistry)
+{{< resource_link 2d7ba8e9-116d-f309-e008-2366be88ed34 "Lecture 26: Acids & Bases" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 2.2MB)]({{< baseurl >}}/resources/mit3_091scf09_lec26)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 640eaa67-87f3-e093-a7a0-feb777896e17 "Lecture Slides (PDF - 2.2MB)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw26)
+{{< resource_link f079827b-6e00-6cfc-c4ff-9edb72618c14 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw26_sol)
+{{< resource_link 5d675415-0f2d-c894-a2eb-bfdce2a6fa35 "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal126">}}
 
@@ -2906,37 +2906,37 @@ SUPPLEMENTAL PROBLEMS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Aqueous Solutions]({{< baseurl >}}/pages/aqueous-solutions/self-assessment-aqueous-solutions)
+{{< resource_link 72916be9-a577-7e44-0a46-72d4318cea26 "Aqueous Solutions" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Quiz Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa7_quiz)
+{{< resource_link fc93c85d-4d6d-3c99-e527-2ae17ee0171e "Quiz Problems (PDF)" >}}
 
-[Quiz Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa7_quiz_sol)
+{{< resource_link 0c06a485-31e1-f6a5-e666-0dfa7018dfe8 "Quiz Solutions Key (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa7_exam)
+{{< resource_link 3bf786d9-c00d-0490-182e-a17e06f78d4e "Exam Problems (PDF)" >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa7_exam_sol)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 70d9ed00-9604-f495-c4bb-4b5520858e24 "Exam Solutions Key (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Clip 1: Exam 3, Problem 3]({{< baseurl >}}/resources/clip-1-exam-3-problem-3-1)
+{{< resource_link b22db5dc-8ad4-605e-b4dc-a15815abe5c7 "Clip 1: Exam 3, Problem 3" >}}
 
-[Clip 2: Final Exam, Problem 10]({{< baseurl >}}/resources/clip-2-final-exam-problem-10-1)
+{{< resource_link ff0eadf6-c07a-7472-9d3a-f23dcbaa123a "Clip 2: Final Exam, Problem 10" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Supplemental Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa7_supp)
+{{< resource_link 4c336404-49bf-46e6-30f8-056705f1e88e "Supplemental Exam Problems (PDF)" >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Supplemental Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa7_supp_sol)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 37eddf1e-db4a-ec6a-6622-23c5cf3fc7f0 "Supplemental Exam Solutions Key (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -2973,7 +2973,7 @@ FOR FURTHER STUDY
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction to Organic Chemistry]({{< baseurl >}}/pages/organic-materials/27-introduction-to-organic-chemistry)
+{{< resource_link d1c5400e-ad6e-5796-fde9-b0ebffa63afd "Introduction to Organic Chemistry" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal130">}}
@@ -2989,10 +2989,10 @@ FOR FURTHER STUDY
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 27: Introduction to Organic Chemistry]({{< baseurl >}}/resources/copy20_of_introduction-to-solid-state-chemistry)
+{{< resource_link bbdea82c-a260-9f1e-5697-1d1a31408bcd "Lecture 27: Introduction to Organic Chemistry" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Slides (PDF - 1.6MB)]({{< baseurl >}}/resources/mit3_091scf09_lec27)
+{{< resource_link bfe35734-6eb4-a831-f6e8-e0ca3157a0ef "Lecture Slides (PDF - 1.6MB)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 None
@@ -3020,7 +3020,7 @@ None
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Polymers: Structure & Composition]({{< baseurl >}}/pages/organic-materials/28-polymers-structure-composition)
+{{< resource_link f8c2db6d-2332-71ec-1747-b2c8369b532e "Polymers: Structure & Composition" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal166">}}
@@ -3030,17 +3030,17 @@ None
 {{< /div-with-class >}}{{< div-with-class "toggle166">}}[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-08-polymeric-solids.html) 12.8, "Polymeric Solids."{{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 28: Polymers: Structure & Composition]({{< baseurl >}}/resources/copy21_of_introduction-to-solid-state-chemistry)
+{{< resource_link a92f93ef-bab1-f100-5ab2-9bf2a9cd31c3 "Lecture 28: Polymers: Structure & Composition" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Slides (PDF)]({{< baseurl >}}/resources/mit3_091scf09_lec28)
+{{< resource_link 7c83f128-0797-ebde-4c7a-deaeb11d4cc9 "Lecture Slides (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw28)
+{{< resource_link 4f3f54ed-baa4-767d-d50f-720a2bfb0a01 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw28_sol)
+{{< resource_link 63768218-aa4a-7a99-eb1c-3e8375012a66 "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal133">}}
 
@@ -3077,7 +3077,7 @@ The Beatles. "Polythene Pam." _Abbey Road_. Apple Records, 1969.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Polymers: Synthesis, Properties & Applications]({{< baseurl >}}/pages/organic-materials/29-polymers-synthesis-properties-applications)
+{{< resource_link ab1dea66-95b4-5d1a-3cc8-9fa06d9ba941 "Polymers: Synthesis, Properties & Applications" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal136">}}
@@ -3095,7 +3095,7 @@ The Beatles. "Polythene Pam." _Abbey Road_. Apple Records, 1969.
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 29: Polymers: Synthesis, Properties & Applications]({{< baseurl >}}/resources/copy23_of_introduction-to-solid-state-chemistry)
+{{< resource_link bbbdb3df-0009-d643-e369-dcb945181bb9 "Lecture 29: Polymers: Synthesis, Properties & Applications" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -3107,9 +3107,9 @@ The Beatles. "Polythene Pam." _Abbey Road_. Apple Records, 1969.
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw29)
+{{< resource_link 4807b196-a1d9-578d-c209-490450ef4755 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw29_sol)
+{{< resource_link 59a848b8-e8e0-2729-08be-3ad3bb078fc0 "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal137">}}
 
@@ -3180,7 +3180,7 @@ _The Graduate_. Directed by M. Nichols. DVD. MGM, 1967.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Biochemistry: Amino Acids]({{< baseurl >}}/pages/organic-materials/30-amino-acids)
+{{< resource_link 1391526c-977f-6e58-b0c0-b163bcae3d50 "Biochemistry: Amino Acids" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal142">}}
@@ -3200,21 +3200,21 @@ _The Graduate_. Directed by M. Nichols. DVD. MGM, 1967.
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 30: Biochemistry: Amino Acids]({{< baseurl >}}/resources/copy22_of_introduction-to-solid-state-chemistry)
+{{< resource_link 9192442b-3b94-1190-e971-b92b5830ad67 "Lecture 30: Biochemistry: Amino Acids" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit3_091scf09_lec30)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 8bcb388c-7a1b-0b88-e396-aa431bffeafe "Lecture Slides (PDF - 1.2MB)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw30)
+{{< resource_link 9356a217-52c3-a02f-1d74-97bcadfbb7cb "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw30_sol)
+{{< resource_link dbdd5e33-1c47-59cb-23a8-df8b6c801d72 "Solutions (PDF)" >}}
 
 {{< div-with-class "reveal143">}}
 
@@ -3259,7 +3259,7 @@ Michael Jackson. "Man in the Mirror." _Bad_. Epic Records, 1987.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Biochemistry: Protein Structure]({{< baseurl >}}/pages/organic-materials/31-protein-structure)
+{{< resource_link 4e61d15e-9ac5-67d9-af48-23d7beaa16b7 "Biochemistry: Protein Structure" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal147">}}
@@ -3273,21 +3273,21 @@ Michael Jackson. "Man in the Mirror." _Bad_. Epic Records, 1987.
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 31: Biochemistry: Protein Structure]({{< baseurl >}}/resources/copy24_of_introduction-to-solid-state-chemistry)
+{{< resource_link 0e4099c8-161c-ec39-b282-28d924526c87 "Lecture 31: Biochemistry: Protein Structure" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.8MB)]({{< baseurl >}}/resources/mit3_091scf09_lec31)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 0c035893-e9f8-1c23-21cc-59605fe45349 "Lecture Slides (PDF - 1.8MB)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw31)
+{{< resource_link 3d7353e9-4f3d-c87a-f008-55a6bf2bb7da "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw31_sol)
+{{< resource_link 8a56038a-36c8-74fe-d18d-b01f081bdf2d "Solutions (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -3308,7 +3308,7 @@ Michael Jackson. "Man in the Mirror." _Bad_. Epic Records, 1987.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Biochemistry: Lipids, Nucleic Acids & DNA]({{< baseurl >}}/pages/organic-materials/32-lipids-nucleic-acids-dna)
+{{< resource_link 3db3383b-b411-d2fc-45f2-4495b3640825 "Biochemistry: Lipids, Nucleic Acids & DNA" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal149">}}
@@ -3326,21 +3326,21 @@ Michael Jackson. "Man in the Mirror." _Bad_. Epic Records, 1987.
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 32: Biochemistry: Lipids, Nucleic Acids & DNA]({{< baseurl >}}/resources/copy25_of_introduction-to-solid-state-chemistry)
+{{< resource_link 46533744-0e34-5ff4-3a3e-b702729f22d3 "Lecture 32: Biochemistry: Lipids, Nucleic Acids & DNA" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Lecture Slides (PDF - 4.1MB)]({{< baseurl >}}/resources/mit3_091scf09_lec32)
+{{< resource_link 3ee9190e-4569-1927-8563-13f966209d22 "Lecture Slides (PDF - 4.1MB)" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw32)
+{{< resource_link 17f537a2-7fff-1aea-c95c-3f476e16ee66 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw32_sol)
+{{< resource_link ef3de1ec-e826-cae6-60e3-011aec46bc58 "Solutions (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -3421,37 +3421,37 @@ SUPPLEMENTAL PROBLEMS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Organic Materials]({{< baseurl >}}/pages/organic-materials/self-assessment-organic-materials)
+{{< resource_link d4c48520-c374-4193-77d0-62d4fd87b4d0 "Organic Materials" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Quiz Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa8_quiz1)
+{{< resource_link d5bdeb5c-7e97-c033-05cb-e70dc3d17faf "Quiz Problems (PDF)" >}}
 
-[Quiz Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa8_quiz1sol)
+{{< resource_link 50b35b0f-1b37-81ff-161e-52d3f981bff4 "Quiz Solutions Key (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa8_exam)
+{{< resource_link 948b4c1d-a1d9-e405-4696-976755c4e054 "Exam Problems (PDF)" >}}
 
 [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa8_exam_sol)
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Clip 1: Final Exam, Problem 5]({{< baseurl >}}/resources/clip-1-final-exam-problem-5-1)
+{{< resource_link bf27fa9c-481d-2f5a-8764-28eb05ae9594 "Clip 1: Final Exam, Problem 5" >}}
 
-[Clip 2: Final Exam, Problem 13]({{< baseurl >}}/resources/clip-2-final-exam-problem-13-1)
+{{< resource_link 403189a5-a999-9944-8bfc-d8cd930d6257 "Clip 2: Final Exam, Problem 13" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Supplemental Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa8_supp)
+{{< resource_link a983257e-532f-bf45-aff5-30dec1ecb557 "Supplemental Exam Problems (PDF)" >}}
 
-[Supplemental Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa8_supp_sol)
+{{< resource_link 2a98cffc-9778-34fd-b5f5-a2be9b93bccf "Supplemental Exam Solutions Key (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -3490,7 +3490,7 @@ FOR FURTHER STUDY
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Unary Phase Diagrams]({{< baseurl >}}/pages/solid-solutions/33-unary-phase-diagrams)
+{{< resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Unary Phase Diagrams" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal154">}}
@@ -3499,7 +3499,7 @@ FOR FURTHER STUDY
 
 {{< /div-with-class >}}{{< div-with-class "toggle154">}}
 
-[Archived Lecture Notes #10 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln10), Part A
+{{< resource_link 85619733-50a2-e44d-7ee4-e8304272c56f "Archived Lecture Notes #10 (PDF)" >}}, Part A
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s15-06-critical-temperature-and-press.html) 11.6, "Critical Temperature and Pressure."
 
@@ -3508,17 +3508,17 @@ FOR FURTHER STUDY
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 33: Unary Phase Diagrams]({{< baseurl >}}/resources/copy26_of_introduction-to-solid-state-chemistry)
+{{< resource_link 1eba4304-c578-1f4d-1235-3c7c1a1fd349 "Lecture 33: Unary Phase Diagrams" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec33)
+{{< resource_link a16c3f8f-d198-d433-e240-6a5694d87d54 "Lecture Slides (PDF - 3.0MB)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw33)
+{{< resource_link e06e2cf0-cee0-3336-4f95-30d7e0573953 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw33_sol)
+{{< resource_link 69eb408f-6f54-b395-8b37-7efd56f7d409 "Solutions (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -3547,7 +3547,7 @@ Alexander Calder, [Mercury Fountain](http://www.fundaciomiro-bcn.org/coleccio_ob
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Binary Phase Diagrams: Complete Solubility]({{< baseurl >}}/pages/solid-solutions/34-binary-phase-diagrams-complete-solubility)
+{{< resource_link 31cd4459-a0c6-f229-2b86-eee893f5dd0b "Binary Phase Diagrams: Complete Solubility" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal157">}}
@@ -3556,7 +3556,7 @@ Alexander Calder, [Mercury Fountain](http://www.fundaciomiro-bcn.org/coleccio_ob
 
 {{< /div-with-class >}}{{< div-with-class "toggle157">}}
 
-[Archived Lecture Notes #10 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln10), Part B and [#10 Supplement (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln10s)
+{{< resource_link 85619733-50a2-e44d-7ee4-e8304272c56f "Archived Lecture Notes #10 (PDF)" >}}, Part B and {{< resource_link caf0d98c-0936-9889-3340-c24e30cb318e "#10 Supplement (PDF)" >}}
 
 [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 9.1, "The Phase Rule."
 
@@ -3565,17 +3565,17 @@ Alexander Calder, [Mercury Fountain](http://www.fundaciomiro-bcn.org/coleccio_ob
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 34: Binary Phase Diagrams: Complete Solubility]({{< baseurl >}}/resources/copy27_of_introduction-to-solid-state-chemistry)
+{{< resource_link 93d38b42-2db5-2413-56b3-84b1dd2910dd "Lecture 34: Binary Phase Diagrams: Complete Solubility" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Slides (PDF - 2.5MB)]({{< baseurl >}}/resources/mit3_091scf09_lec34)
+{{< resource_link 67bed876-f84d-bc36-b1cb-5b3a46011d0c "Lecture Slides (PDF - 2.5MB)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw34)
+{{< resource_link 623c8288-474d-14eb-0c59-6152b39115fa "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw34_sol)
+{{< resource_link c0dffdbb-db19-0764-fc44-d914b2bd5b61 "Solutions (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -3624,7 +3624,7 @@ Carter, Kelley. "[Absinthe flows again, more stylish than ever](http://www.usato
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Binary Phase Diagrams: Limited Solubility]({{< baseurl >}}/pages/solid-solutions/35-binary-phase-diagrams-limited-solubility)
+{{< resource_link 7a815988-3da3-035d-e473-14306ab4f684 "Binary Phase Diagrams: Limited Solubility" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal162">}}
@@ -3633,7 +3633,7 @@ Carter, Kelley. "[Absinthe flows again, more stylish than ever](http://www.usato
 
 {{< /div-with-class >}}{{< div-with-class "toggle162">}}
 
-[Archived Lecture Notes #10 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln10), Part B and [#10 Supplement (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln10s)
+{{< resource_link 85619733-50a2-e44d-7ee4-e8304272c56f "Archived Lecture Notes #10 (PDF)" >}}, Part B and {{< resource_link caf0d98c-0936-9889-3340-c24e30cb318e "#10 Supplement (PDF)" >}}
 
 [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 9.1, "The Phase Rule."
 
@@ -3642,7 +3642,7 @@ Carter, Kelley. "[Absinthe flows again, more stylish than ever](http://www.usato
 {{< /div-with-class >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 35: Binary Phase Diagrams: Limited Solubility]({{< baseurl >}}/resources/copy28_of_introduction-to-solid-state-chemistry)
+{{< resource_link d7df98d7-7f77-3be8-edb5-49b2b94cb5d6 "Lecture 35: Binary Phase Diagrams: Limited Solubility" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -3654,9 +3654,9 @@ Carter, Kelley. "[Absinthe flows again, more stylish than ever](http://www.usato
 {{< tdopen >}}
 
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw35)
+{{< resource_link 43564326-ce01-56ef-b245-0f0a5b3fba5e "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw35_sol)
+{{< resource_link c380d1c1-e09e-f8d5-6a54-9e19346d5e32 "Solutions (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -3713,35 +3713,35 @@ SUPPLEMENTAL PROBLEMS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Solid Solutions]({{< baseurl >}}/pages/solid-solutions/self-assessment-solid-solutions)
+{{< resource_link 72c01ef0-b872-bcb0-6ee3-bdfffcb4cd4a "Solid Solutions" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Quiz Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa9_quiz)
+{{< resource_link 42e740a0-11f0-b71d-ad50-57cd09fc1ced "Quiz Problems (PDF)" >}}
 
-[Quiz Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa9_quiz_sol)
+{{< resource_link 5eb70bf0-233a-3dcc-6ca2-eea945fd08f4 "Quiz Solutions Key (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa9_exam)
+{{< resource_link 317291b7-5151-0ee0-805a-5e44c33c542b "Exam Problems (PDF)" >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa9_exam_sol)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 2b834de7-d0c9-8eaf-2529-45bc4b93c0a8 "Exam Solutions Key (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Clip 1: Final Exam, Problem 7]({{< baseurl >}}/resources/clip-1-final-exam-problem-7-1)
+{{< resource_link 476d6bb5-141d-0b31-3a89-48e7c01a6aa4 "Clip 1: Final Exam, Problem 7" >}}
 
-[Clip 2: Final Exam, Problem 9]({{< baseurl >}}/resources/clip-2-final-exam-problem-9-1)
+{{< resource_link d7549f68-1eff-f780-327d-fd006e3472c7 "Clip 2: Final Exam, Problem 9" >}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Supplemental Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa9_supp)
+{{< resource_link f55e0ddc-cb6e-27c2-d749-2d23c5ef1f5e "Supplemental Exam Problems (PDF)" >}}
 
 [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Supplemental Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa9_supp_sol)
 
@@ -3773,17 +3773,17 @@ FINAL EXAM AND SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Final Exam]({{< baseurl >}}/pages/final-exam)
+{{< resource_link 1510a47e-e45c-9c55-4ebc-44d837db76c0 "Final Exam" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Summary Notes (PDF - 4.8MB)]({{< baseurl >}}/resources/mit3_091scf09_summary)
+{{< resource_link fcb2b28d-4fe7-732e-f300-4072a2527ab9 "Lecture Summary Notes (PDF - 4.8MB)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Final exam (PDF - 1.5MB)]({{< baseurl >}}/resources/mit3_091scf09_final)
+{{< resource_link b6b2d7a8-6497-67f3-20fd-1e78b9ec0cc7 "Final exam (PDF - 1.5MB)" >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Final exam solution key (PDF - 4.4MB)]({{< baseurl >}}/resources/mit3_091scf09_final_sol)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 1d3b0608-b335-7cae-e543-d49694703434 "Final exam solution key (PDF - 4.4MB)" >}}
 
 
 {{< tdclose >}}
@@ -3792,4 +3792,4 @@ FINAL EXAM AND SOLUTIONS
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/final-exam)
+« {{< resource_link 1510a47e-e45c-9c55-4ebc-44d837db76c0 "Previous" >}}

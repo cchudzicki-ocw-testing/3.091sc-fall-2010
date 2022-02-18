@@ -9,7 +9,7 @@ title: 23. Reaction Rates
 uid: 568956d9-4b5b-b4e9-70b5-553efd337767
 ---
 
-« [Previous]({{< baseurl >}}/pages/amorphous-materials/self-assessment-amorphous-materials) | [Next]({{< baseurl >}}/pages/reactions-and-kinetics/24-diffusion) »
+« {{< resource_link cbb4c14e-67cf-57ab-0634-902e7e8953ff "Previous" >}} | {{< resource_link 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7 "Next" >}} »
 
 Session Overview
 ----------------
@@ -69,7 +69,7 @@ Before starting this session, you should be familiar with:
 
 *   [Session 22: Introduction to Kinetics (second part)](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/amorphous-materials/22.-engineering-glass-properties-introduction-to-kinetics)
 *   Derivative and integral notation, logarithms, fitting a curve to data
-*   Doping of semiconductors and thermal excitation ([Session 14]({{< baseurl >}}/pages/electronic-materials/14-semiconductors))
+*   Doping of semiconductors and thermal excitation ({{< resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Session 14" >}})
 
 ### Learning Objectives
 
@@ -84,9 +84,9 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #8 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln08), Sections 4-7
+{{< resource_link 77aedff7-4af7-4be5-aa06-d4b580bed800 "Archived Lecture Notes #8 (PDF)" >}}, Sections 4-7
 
-[Archived Lecture Notes #9 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln09), Section 1
+{{< resource_link e984fbef-9101-02c3-4ac5-ef86f1c939c8 "Archived Lecture Notes #9 (PDF)" >}}, Section 1
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -174,7 +174,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.4MB)]({{< baseurl >}}/resources/mit3_091scf09_lec23)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 76b20538-5820-149e-6cd1-3b74c33fc2e0 "Lecture Slides (PDF - 1.4MB)" >}}
 
 ### Lecture Summary
 
@@ -183,9 +183,9 @@ Lecture Video
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw23)
+{{< resource_link 25ba072c-4443-bd19-ed84-8bf9379f3ad5 "Problems (PDF)" >}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw23_sol)
+{{< resource_link 90e30430-59bc-8309-0c33-bbb6fc1fd077 "Solutions (PDF)" >}}
 
 ### Homework Problems
 
@@ -359,4 +359,4 @@ Undergraduate
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/amorphous-materials/self-assessment-amorphous-materials) | [Next]({{< baseurl >}}/pages/reactions-and-kinetics/24-diffusion) »
+« {{< resource_link cbb4c14e-67cf-57ab-0634-902e7e8953ff "Previous" >}} | {{< resource_link 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7 "Next" >}} »

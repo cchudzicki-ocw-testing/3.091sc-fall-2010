@@ -9,7 +9,7 @@ title: 7. The Aufbau Principle; Photoelectron Spectroscopy
 uid: d0470d3e-350a-e01c-66ab-ad1825f65352
 ---
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/6-particle-wave-duality) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/self-assessment-structure-of-the-atom) »
+« {{< resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Previous" >}} | {{< resource_link e0f0b093-6ba1-323d-d748-bdec78bb7499 "Next" >}} »
 
 Session Overview
 ----------------
@@ -67,11 +67,11 @@ gas dynamics, crystals, electrometallurgy, applications of magnesium (Mg) – e.
 
 Before starting this session, you should be familiar with:
 
-*   [Session 6: Particle-Wave Duality]({{< baseurl >}}/pages/structure-of-the-atom/6-particle-wave-duality)
+*   {{< resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Session 6: Particle-Wave Duality" >}}
 
 ### Looking Ahead
 
-Prof. Sadoway discusses ionic crystals and the Born-Haber cycle ([Session 8]({{< baseurl >}}/pages/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle)).
+Prof. Sadoway discusses ionic crystals and the Born-Haber cycle ({{< resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Session 8" >}}).
 
 ### Learning Objectives
 
@@ -88,7 +88,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #1 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln01), Section 4
+{{< resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" >}}, Section 4
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -131,7 +131,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit3_091scf09_lec7)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 332bdd0c-0b87-d708-6a02-54a4cab648d4 "Lecture Slides (PDF - 1.1MB)" >}}
 
 ### Lecture Summary
 
@@ -223,4 +223,4 @@ For Further Study
 
 [Erwin Schrödinger](http://en.wikipedia.org/wiki/Schrodinger) - [1933 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/1933/)
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/6-particle-wave-duality) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/self-assessment-structure-of-the-atom) »
+« {{< resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Previous" >}} | {{< resource_link e0f0b093-6ba1-323d-d748-bdec78bb7499 "Next" >}} »
