@@ -34,7 +34,7 @@ This short quiz is given approximately once for every three lecture sessions. Yo
 Exam Problems and Solutions
 ---------------------------
 
-These exam problems are intended for you to demonstrate your personal mastery of the material, and should be done alone, closed-book, with just a calculator, the two permitted [reference tables]({{< baseurl >}}/pages/syllabus/suggested-textbooks#ref) (periodic table, physical constants), and one 8 1/2" x 11" aid sheet of your own creation.
+These exam problems are intended for you to demonstrate your personal mastery of the material, and should be done alone, closed-book, with just a calculator, the two permitted {{< resource_link 9abd92d7-66e1-b816-f50d-00770b2420e1 "reference tables" "#ref" >}} (periodic table, physical constants), and one 8 1/2" x 11" aid sheet of your own creation.
 
 *   {{< resource_link 95b867d0-9fb2-0285-67cd-47868085c0a8 "Exam problems (PDF)" >}}
 *   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 69c3dfa0-03ce-edbb-e603-aae5c825b4e6 "Exam solutions key (PDF - 1.9MB)" >}}

@@ -87,7 +87,7 @@ At MIT, this class meets five times per week for fourteen weeks, with three one-
 
 _Homework_: At MIT, homework for this course is not graded. You should consider working these problems to be an essential part of developing your knowledge. At MIT, working together in groups on is common and even encouraged.
 
-_Self-Assessment_: The self-assessment and final exam portions of 3.091SC are compiled from in-class examinations. They are intended for you to demonstrate your mastery of the material. You should work these problems on your own, closed-book, using only a calculator, a periodic table and list of fundamental constants (see [Reference Materials]({{< baseurl >}}/pages/syllabus/suggested-textbooks#ref)), and one 8.5" x 11" aid sheet containing your choice of formulas and other information.
+_Self-Assessment_: The self-assessment and final exam portions of 3.091SC are compiled from in-class examinations. They are intended for you to demonstrate your mastery of the material. You should work these problems on your own, closed-book, using only a calculator, a periodic table and list of fundamental constants (see {{< resource_link 9abd92d7-66e1-b816-f50d-00770b2420e1 "Reference Materials" "#ref" >}}), and one 8.5" x 11" aid sheet containing your choice of formulas and other information.
 
 Course Topics
 -------------

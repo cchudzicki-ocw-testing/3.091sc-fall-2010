@@ -124,7 +124,7 @@ Lecture Video
 
 {{< resource_link debd5701-469c-e24a-ac7a-e098cae6a8b5 "Lecture Slides (PDF - 3.2MB)" >}}
 
-[Periodic Table and Table of Constants]({{< baseurl >}}/pages/syllabus/suggested-textbooks#ref)
+{{< resource_link 9abd92d7-66e1-b816-f50d-00770b2420e1 "Periodic Table and Table of Constants" "#ref" >}}
 
 ### Lecture Summary
 
