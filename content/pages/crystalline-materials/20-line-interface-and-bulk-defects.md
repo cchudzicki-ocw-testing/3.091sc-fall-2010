@@ -9,7 +9,7 @@ title: 20. Line, Interface & Bulk Defects
 uid: 5c00821f-505a-eeee-270d-29caeda060dc
 ---
 
-« {{< resource_link 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4 "Previous" >}} | {{< resource_link b919ff60-1e15-2f9b-3ab0-e616c5196381 "Next" >}} »
+« {{% resource_link 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4 "Previous" %}} | {{% resource_link b919ff60-1e15-2f9b-3ab0-e616c5196381 "Next" %}} »
 
 Session Overview
 ----------------
@@ -67,13 +67,13 @@ aluminum can, steel production, aluminum-copper for airplanes, rivets on the Tit
 
 Before starting this session, you should be familiar with:
 
-*   Cubic crystal structures ({{< resource_link 94d7c45c-dd53-4c54-0679-000be37ea165 "Session 15" >}})
-*   Crystal directions, planes, and Miller indices ({{< resource_link e22836d9-83d9-ad9c-8310-e4357bb64a92 "Session 16" >}})
-*   Structure of edge dislocations ({{< resource_link 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4 "Session 19" >}})
+*   Cubic crystal structures ({{% resource_link 94d7c45c-dd53-4c54-0679-000be37ea165 "Session 15" %}})
+*   Crystal directions, planes, and Miller indices ({{% resource_link e22836d9-83d9-ad9c-8310-e4357bb64a92 "Session 16" %}})
+*   Structure of edge dislocations ({{% resource_link 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4 "Session 19" %}})
 
 ### Looking Ahead
 
-The amount and composition of precipitates in alloys can be predicted using binary phase diagrams, as described in {{< resource_link 31cd4459-a0c6-f229-2b86-eee893f5dd0b "Session 34" >}} and {{< resource_link 7a815988-3da3-035d-e473-14306ab4f684 "Session 35" >}}. Point defects and grain boundaries give atoms space to move through the lattice, a key factor in {{< resource_link 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7 "Session 24: Diffusion" >}}.
+The amount and composition of precipitates in alloys can be predicted using binary phase diagrams, as described in {{% resource_link 31cd4459-a0c6-f229-2b86-eee893f5dd0b "Session 34" %}} and {{% resource_link 7a815988-3da3-035d-e473-14306ab4f684 "Session 35" %}}. Point defects and grain boundaries give atoms space to move through the lattice, a key factor in {{% resource_link 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7 "Session 24: Diffusion" %}}.
 
 ### Learning Objectives
 
@@ -86,7 +86,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-{{< resource_link 128d0c6d-4b74-6a78-66e7-5600347e12cd "Archived Lecture Notes #6 (PDF)" >}}, Sections 3-4
+{{% resource_link 128d0c6d-4b74-6a78-66e7-5600347e12cd "Archived Lecture Notes #6 (PDF)" %}}, Sections 3-4
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -138,7 +138,7 @@ Lecture Video
 
 ### Resources
 
-{{< resource_link 4d4d58bf-a11b-d182-a12e-fc5bb7e8593d "Lecture Slides (PDF)" >}}
+{{% resource_link 4d4d58bf-a11b-d182-a12e-fc5bb7e8593d "Lecture Slides (PDF)" %}}
 
 ### Lecture Summary
 
@@ -147,9 +147,9 @@ Experimental values for the **yield strengths** of metals are roughly 1/10{{< su
 Homework
 --------
 
-{{< resource_link 2454c3a8-b5ee-c1ab-4933-ea9a5737dcc4 "Problems (PDF)" >}}
+{{% resource_link 2454c3a8-b5ee-c1ab-4933-ea9a5737dcc4 "Problems (PDF)" %}}
 
-{{< resource_link e2be2888-f753-e0b3-dbd0-d0a70a5e2485 "Solutions (PDF)" >}}
+{{% resource_link e2be2888-f753-e0b3-dbd0-d0a70a5e2485 "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -276,4 +276,4 @@ Undergraduate
 
 {{< tableclose >}}
 
-« {{< resource_link 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4 "Previous" >}} | {{< resource_link b919ff60-1e15-2f9b-3ab0-e616c5196381 "Next" >}} »
+« {{% resource_link 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4 "Previous" %}} | {{% resource_link b919ff60-1e15-2f9b-3ab0-e616c5196381 "Next" %}} »

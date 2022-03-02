@@ -9,7 +9,7 @@ title: 15. Introduction to Crystallography
 uid: 94d7c45c-dd53-4c54-0679-000be37ea165
 ---
 
-« {{< resource_link 3452e351-524d-2e8f-7020-05d4103e2aaf "Previous" >}} | {{< resource_link e22836d9-83d9-ad9c-8310-e4357bb64a92 "Next" >}} »
+« {{% resource_link 3452e351-524d-2e8f-7020-05d4103e2aaf "Previous" %}} | {{% resource_link e22836d9-83d9-ad9c-8310-e4357bb64a92 "Next" %}} »
 
 Session Overview
 ----------------
@@ -97,13 +97,13 @@ cannonball stacking, tiling of 2D surfaces, fiber optics coupling, optical beam-
 
 Before starting this session, you should be familiar with:
 
-*   Semiconductor properties and behavior ({{< resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Session 14" >}})
+*   Semiconductor properties and behavior ({{% resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Session 14" %}})
 *   Basic geometry in 2D and 3D
 *   Bond angles and lengths in molecules ([Session 11](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/11.-the-shapes-of-molecules))
 
 ### Looking Ahead
 
-This session introduces the cubic unit cells, a key framework for discussing atomic-level processes in solids throughout this module and in later topics, such as Diffusion ({{< resource_link 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7 "Session 24" >}}) and Solid Solutions ({{< resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Session 33" >}} onwards). The next module on Amorphous Solids ({{< resource_link 1d01a4a6-fa92-2854-cead-1f61b1189649 "Session 21" >}} onwards) discusses non-crystalline materials in more detail, contrasting their structure and properties with the ordered solids studied here.
+This session introduces the cubic unit cells, a key framework for discussing atomic-level processes in solids throughout this module and in later topics, such as Diffusion ({{% resource_link 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7 "Session 24" %}}) and Solid Solutions ({{% resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Session 33" %}} onwards). The next module on Amorphous Solids ({{% resource_link 1d01a4a6-fa92-2854-cead-1f61b1189649 "Session 21" %}} onwards) discusses non-crystalline materials in more detail, contrasting their structure and properties with the ordered solids studied here.
 
 ### Learning Objectives
 
@@ -117,7 +117,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-{{< resource_link 307d3b60-4911-0c84-5d05-0060daad44a0 "Archived Lecture Notes #4 (PDF)" >}}, Sections 1-3
+{{% resource_link 307d3b60-4911-0c84-5d05-0060daad44a0 "Archived Lecture Notes #4 (PDF)" %}}, Sections 1-3
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -178,7 +178,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link e678d3bc-ff4a-bdbf-a820-7235f1341476 "Lecture Slides (PDF - 3.2MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e678d3bc-ff4a-bdbf-a820-7235f1341476 "Lecture Slides (PDF - 3.2MB)" %}}
 
 ### Lecture Summary
 
@@ -197,9 +197,9 @@ Crystal structures are described using a **basis**, which may be an atom, a grou
 Homework
 --------
 
-{{< resource_link e4cca0e6-0c42-8bf0-bebd-ffdb13f3742f "Problems (PDF)" >}}
+{{% resource_link e4cca0e6-0c42-8bf0-bebd-ffdb13f3742f "Problems (PDF)" %}}
 
-{{< resource_link d10e2ab1-629f-8f1c-ebc0-c40d5fb0522d "Solutions (PDF)" >}}
+{{% resource_link d10e2ab1-629f-8f1c-ebc0-c40d5fb0522d "Solutions (PDF)" %}}
 
 ### _Textbook Problems_
 
@@ -352,4 +352,4 @@ A mathematical approach to crystal symmetry with connections to bulk material pr
 
 {{< tableclose >}}
 
-« {{< resource_link 3452e351-524d-2e8f-7020-05d4103e2aaf "Previous" >}} | {{< resource_link e22836d9-83d9-ad9c-8310-e4357bb64a92 "Next" >}} »
+« {{% resource_link 3452e351-524d-2e8f-7020-05d4103e2aaf "Previous" %}} | {{% resource_link e22836d9-83d9-ad9c-8310-e4357bb64a92 "Next" %}} »

@@ -9,7 +9,7 @@ title: 1. Introduction to Solid State Chemistry
 uid: 8a1709eb-16be-69bb-41cc-325703c25a95
 ---
 
-« {{< resource_link 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a "Previous" >}} | {{< resource_link a13b8975-9fdc-1778-eea3-68cb5be8fef0 "Next" >}} »
+« {{% resource_link 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a "Previous" %}} | {{% resource_link a13b8975-9fdc-1778-eea3-68cb5be8fef0 "Next" %}} »
 
 Session Overview
 ----------------
@@ -72,7 +72,7 @@ Before starting this session, you should be familiar with:
 
 ### Looking Ahead
 
-Prof. Sadoway discusses the periodic table in more detail ({{< resource_link a13b8975-9fdc-1778-eea3-68cb5be8fef0 "Session 2" >}}). He explores the relationship between electronic structure, chemical bonding, and crystal structure ({{< resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Session 4" >}}).
+Prof. Sadoway discusses the periodic table in more detail ({{% resource_link a13b8975-9fdc-1778-eea3-68cb5be8fef0 "Session 2" %}}). He explores the relationship between electronic structure, chemical bonding, and crystal structure ({{% resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Session 4" %}}).
 
 ### Learning Objectives
 
@@ -122,9 +122,9 @@ Lecture Video
 
 ### Resources
 
-{{< resource_link debd5701-469c-e24a-ac7a-e098cae6a8b5 "Lecture Slides (PDF - 3.2MB)" >}}
+{{% resource_link debd5701-469c-e24a-ac7a-e098cae6a8b5 "Lecture Slides (PDF - 3.2MB)" %}}
 
-{{< resource_link 9abd92d7-66e1-b816-f50d-00770b2420e1 "Periodic Table and Table of Constants" "#ref" >}}
+{{% resource_link 9abd92d7-66e1-b816-f50d-00770b2420e1 "Periodic Table and Table of Constants" "#ref" %}}
 
 ### Lecture Summary
 
@@ -142,9 +142,9 @@ The lecture continues with a survey of the historical foundations of chemistry:
 Homework
 --------
 
-{{< resource_link 2dffe41c-fdbf-12fc-94da-42ec6eb8586f "Problems (PDF)" >}}
+{{% resource_link 2dffe41c-fdbf-12fc-94da-42ec6eb8586f "Problems (PDF)" %}}
 
-{{< resource_link 3ff7c3d3-20c4-f287-00a6-1ea4adfbbe6f "Solutions (PDF)" >}}
+{{% resource_link 3ff7c3d3-20c4-f287-00a6-1ea4adfbbe6f "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -305,4 +305,4 @@ Undergraduate (first-year)
 
 {{< tableclose >}}
 
-« {{< resource_link 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a "Previous" >}} | {{< resource_link a13b8975-9fdc-1778-eea3-68cb5be8fef0 "Next" >}} »
+« {{% resource_link 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a "Previous" %}} | {{% resource_link a13b8975-9fdc-1778-eea3-68cb5be8fef0 "Next" %}} »

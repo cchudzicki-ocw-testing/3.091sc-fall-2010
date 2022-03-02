@@ -9,7 +9,7 @@ title: Meet the TAs
 uid: af4b0715-adb4-b3d3-3e69-af564b71c30e
 ---
 
-« {{< resource_link 116bf279-d466-43e7-0e0e-4cd163f567f1 "Previous" >}}
+« {{% resource_link 116bf279-d466-43e7-0e0e-4cd163f567f1 "Previous" %}}
 
 ![Sal Barriga.](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/syllabus/meet-the-tas/barriga.jpg)My name is Sal, I was a teaching assistant for 3.091 in Fall 2009, and again in Fall 2010. This class is a lot of fun because it covers a vast range of applied chemistry, from the electronic structure of atoms, to phase diagrams of binary solutions. Throughout the course you will see the connections between science and engineering, while appreciating the history of how scientific discoveries were made. This class is truly awesome, and I hope you enjoy the lectures as well as the problem solving videos!
 
@@ -23,4 +23,4 @@ _**Jocelyn Newhouse** is a graduate student in the Department of Materials Scien
 
 _**Brian Spatocco** grew up in a small town in southern New Jersey and is the first in his family to pursue a Ph.D. in science or engineering. His current interests include large-scale energy storage, U.S. power grid security, technology policy, and American innovative competitiveness. His prior degrees include a B.S. in Materials Science from Rutgers University and an M.Phil. in Micro- and Nano-Technology Enterprise from Cambridge University, where he studied as a Gates Scholar. He currently pursues his Ph.D. thanks in large part to fellowships from the National Science Foundation and Tau Beta Pi, and research grants from the Department of Energy. In his free time, when not doing research or teaching, he enjoys following international politics, traveling and learning to cook foreign foods, and networking with exciting people._
 
-« {{< resource_link 116bf279-d466-43e7-0e0e-4cd163f567f1 "Previous" >}}
+« {{% resource_link 116bf279-d466-43e7-0e0e-4cd163f567f1 "Previous" %}}

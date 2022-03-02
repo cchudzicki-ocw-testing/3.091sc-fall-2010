@@ -9,7 +9,7 @@ title: 9. Drawing Lewis Structures
 uid: 80b4e5be-5325-9c74-0eb6-068392cf19cb
 ---
 
-« {{< resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Previous" >}} | {{< resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Next" >}} »
+« {{% resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Previous" %}} | {{% resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Next" %}} »
 
 Session Overview
 ----------------
@@ -67,11 +67,11 @@ capacitors, refrigerant, compressor design
 
 Before starting this session, you should be familiar with:
 
-*   Hybridized bonding in molecules, VSEPR, properties of covalent bond, electron domain theory ({{< resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Session 8" >}})
+*   Hybridized bonding in molecules, VSEPR, properties of covalent bond, electron domain theory ({{% resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Session 8" %}})
 
 ### Looking Ahead
 
-Prof. Sadoway discusses hybridized and molecular orbitals along with paramagnetism ({{< resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Session 10" >}}).
+Prof. Sadoway discusses hybridized and molecular orbitals along with paramagnetism ({{% resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Session 10" %}}).
 
 ### Learning Objectives
 
@@ -87,7 +87,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-{{< resource_link 2aee13ce-9bb0-8867-b8d5-816eb0eefc33 "Archived Lecture Notes #2 (PDF)" >}}, Section 3
+{{% resource_link 2aee13ce-9bb0-8867-b8d5-816eb0eefc33 "Archived Lecture Notes #2 (PDF)" %}}, Section 3
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -166,7 +166,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link a4e0cd55-113c-d2bc-fe4c-9b4de3719739 "Lecture Slides (PDF - 2.9MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a4e0cd55-113c-d2bc-fe4c-9b4de3719739 "Lecture Slides (PDF - 2.9MB)" %}}
 
 ### Lecture Summary
 
@@ -188,9 +188,9 @@ Prof. Sadoway discusses the following concepts:
 Homework
 --------
 
-{{< resource_link 2e47dc30-4e3d-a3be-1679-17cca80bc1b9 "Problems (PDF)" >}}
+{{% resource_link 2e47dc30-4e3d-a3be-1679-17cca80bc1b9 "Problems (PDF)" %}}
 
-{{< resource_link d9e95730-85a3-b159-302c-3aa9ce421355 "Solutions (PDF)" >}}
+{{% resource_link d9e95730-85a3-b159-302c-3aa9ce421355 "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -341,4 +341,4 @@ Undergraduate (first-year)
 
 {{< tableclose >}}
 
-« {{< resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Previous" >}} | {{< resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Next" >}} »
+« {{% resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Previous" %}} | {{% resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Next" %}} »

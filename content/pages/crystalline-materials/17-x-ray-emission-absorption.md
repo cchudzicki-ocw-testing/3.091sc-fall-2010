@@ -9,7 +9,7 @@ title: 17. X-Ray Emission & Absorption
 uid: e504c6fa-63f4-b438-cb24-0e0ef9bc60eb
 ---
 
-« {{< resource_link e22836d9-83d9-ad9c-8310-e4357bb64a92 "Previous" >}} | {{< resource_link 2f4aa15c-0125-9d84-17ab-ecf218034e84 "Next" >}} »
+« {{% resource_link e22836d9-83d9-ad9c-8310-e4357bb64a92 "Previous" %}} | {{% resource_link 2f4aa15c-0125-9d84-17ab-ecf218034e84 "Next" %}} »
 
 Session Overview
 ----------------
@@ -65,7 +65,7 @@ organization of the modern periodic table, electron-beam welding, lead shielding
 
 ### Prerequisites
 
-Before starting this session, you should be familiar with topics from the first module, Structure of the Atom ({{< resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Session 1" >}} through [Session 7](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy)), especially:
+Before starting this session, you should be familiar with topics from the first module, Structure of the Atom ({{% resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Session 1" %}} through [Session 7](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy)), especially:
 
 *   Contents and organization of the periodic table
 *   The plum-pudding and nuclear models of the atom
@@ -84,7 +84,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-{{< resource_link b61fb9c4-9126-d987-3b26-44016348e605 "Archived Lecture Notes #5 (PDF)" >}}, Section 2
+{{% resource_link b61fb9c4-9126-d987-3b26-44016348e605 "Archived Lecture Notes #5 (PDF)" %}}, Section 2
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -127,7 +127,7 @@ Lecture Video
 
 ### Resources
 
-{{< resource_link dbfd3929-46c1-a198-155f-3ffc3111c325 "Lecture Slides (PDF - 3.5MB)" >}}
+{{% resource_link dbfd3929-46c1-a198-155f-3ffc3111c325 "Lecture Slides (PDF - 3.5MB)" %}}
 
 ### Lecture Summary
 
@@ -136,9 +136,9 @@ Shortly after the discovery of x-rays, **Henry Moseley** investigated the **char
 Homework
 --------
 
-{{< resource_link 00a60a75-c749-3d94-9c8d-9a5bea14bbfd "Problems (PDF)" >}}
+{{% resource_link 00a60a75-c749-3d94-9c8d-9a5bea14bbfd "Problems (PDF)" %}}
 
-{{< resource_link a895fc22-cf61-8412-f11c-cb662e862fe5 "Solutions (PDF)" >}}
+{{% resource_link a895fc22-cf61-8412-f11c-cb662e862fe5 "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -237,4 +237,4 @@ See "[Experimental Matters](http://www.doitpoms.ac.uk/tlplib/xray-diffraction/pr
 
 {{< tableclose >}}
 
-« {{< resource_link e22836d9-83d9-ad9c-8310-e4357bb64a92 "Previous" >}} | {{< resource_link 2f4aa15c-0125-9d84-17ab-ecf218034e84 "Next" >}} »
+« {{% resource_link e22836d9-83d9-ad9c-8310-e4357bb64a92 "Previous" %}} | {{% resource_link 2f4aa15c-0125-9d84-17ab-ecf218034e84 "Next" %}} »

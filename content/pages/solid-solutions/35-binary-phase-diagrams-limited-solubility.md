@@ -9,7 +9,7 @@ title: '35. Binary Phase Diagrams: Limited Solubility'
 uid: 7a815988-3da3-035d-e473-14306ab4f684
 ---
 
-« {{< resource_link 31cd4459-a0c6-f229-2b86-eee893f5dd0b "Previous" >}} | {{< resource_link 72c01ef0-b872-bcb0-6ee3-bdfffcb4cd4a "Next" >}} »
+« {{% resource_link 31cd4459-a0c6-f229-2b86-eee893f5dd0b "Previous" %}} | {{% resource_link 72c01ef0-b872-bcb0-6ee3-bdfffcb4cd4a "Next" %}} »
 
 Session Overview
 ----------------
@@ -67,7 +67,7 @@ automobile antifreeze/coolant, deicing, manufacturing aluminum beverage cans, me
 
 Before starting this session, you should be familiar with:
 
-*   {{< resource_link 31cd4459-a0c6-f229-2b86-eee893f5dd0b "Session 34: Binary Phase Diagrams: Complete Solubility" >}}
+*   {{% resource_link 31cd4459-a0c6-f229-2b86-eee893f5dd0b "Session 34: Binary Phase Diagrams: Complete Solubility" %}}
 
 ### Learning Objectives
 
@@ -79,7 +79,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-{{< resource_link 85619733-50a2-e44d-7ee4-e8304272c56f "Archived Lecture Notes #10 (PDF)" >}}, Part B and {{< resource_link caf0d98c-0936-9889-3340-c24e30cb318e "#10 Supplement (PDF)" >}}
+{{% resource_link 85619733-50a2-e44d-7ee4-e8304272c56f "Archived Lecture Notes #10 (PDF)" %}}, Part B and {{% resource_link caf0d98c-0936-9889-3340-c24e30cb318e "#10 Supplement (PDF)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -122,7 +122,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link bc9d018a-506b-d7e9-0b7e-e74067ce857a "Lecture Slides (PDF - 1.9MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link bc9d018a-506b-d7e9-0b7e-e74067ce857a "Lecture Slides (PDF - 1.9MB)" %}}
 
 ### About this Video
 
@@ -140,7 +140,7 @@ Prof. Sadoway presents some examples of Type 3 phase diagrams:
 *   aluminum-copper for strength, e.g. airplane wings, constrasting with easily manufactured beverage cans;
 *   brief discussions of aluminum-magnesium and iron-sulfur solutions.
 
-While considering these phase diagrams, he also describes the origins of the **Fahrenheit temperature scale**; and returns to how a material's **metallurgical microstructure** is used for **failure analysis** (a topic introduced in {{< resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Session 33" >}}).
+While considering these phase diagrams, he also describes the origins of the **Fahrenheit temperature scale**; and returns to how a material's **metallurgical microstructure** is used for **failure analysis** (a topic introduced in {{% resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Session 33" %}}).
 
 **Champagne manufacturing** illustrates an ingenious use of solution chemistry as shown in binary phase diagrams.
 
@@ -151,9 +151,9 @@ The last few minutes of lecture are a preview of the final exam expectations and
 Homework
 --------
 
-{{< resource_link 43564326-ce01-56ef-b245-0f0a5b3fba5e "Problems (PDF)" >}}
+{{% resource_link 43564326-ce01-56ef-b245-0f0a5b3fba5e "Problems (PDF)" %}}
 
-{{< resource_link c380d1c1-e09e-f8d5-6a54-9e19346d5e32 "Solutions (PDF)" >}}
+{{% resource_link c380d1c1-e09e-f8d5-6a54-9e19346d5e32 "Solutions (PDF)" %}}
 
 For Further Study
 -----------------
@@ -218,4 +218,4 @@ Undergraduate
 
 {{< tableclose >}}
 
-« {{< resource_link 31cd4459-a0c6-f229-2b86-eee893f5dd0b "Previous" >}} | {{< resource_link 72c01ef0-b872-bcb0-6ee3-bdfffcb4cd4a "Next" >}} »
+« {{% resource_link 31cd4459-a0c6-f229-2b86-eee893f5dd0b "Previous" %}} | {{% resource_link 72c01ef0-b872-bcb0-6ee3-bdfffcb4cd4a "Next" %}} »

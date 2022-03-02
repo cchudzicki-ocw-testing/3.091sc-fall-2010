@@ -9,7 +9,7 @@ title: 5. Electron Shell Model & Quantum Numbers
 uid: e7d31b34-62de-b7aa-1e87-6b9a5a99c71f
 ---
 
-« {{< resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Previous" >}} | {{< resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Next" >}} »
+« {{% resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Previous" %}} | {{% resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Next" %}} »
 
 Session Overview
 ----------------
@@ -67,11 +67,11 @@ photodetectors
 
 Before starting this session, you should be familiar with:
 
-*   {{< resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Session 4: Matter/Energy Interactions: Atomic Spectra" >}}
+*   {{% resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Session 4: Matter/Energy Interactions: Atomic Spectra" %}}
 
 ### Looking Ahead
 
-Prof. Sadoway discusses particle-wave duality ({{< resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Session 6" >}}).
+Prof. Sadoway discusses particle-wave duality ({{% resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Session 6" %}}).
 
 ### Learning Objectives
 
@@ -85,7 +85,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-{{< resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" >}}, Section 3
+{{% resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" %}}, Section 3
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -128,7 +128,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link cd1c7bad-1195-8205-26f2-daa467a8bb67 "Lecture Slides (PDF - 2.0MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link cd1c7bad-1195-8205-26f2-daa467a8bb67 "Lecture Slides (PDF - 2.0MB)" %}}
 
 ### Lecture Summary
 
@@ -147,9 +147,9 @@ In this lecture, Prof. Sadoway discusses the following topics:
 Homework
 --------
 
-{{< resource_link c9193599-c9e6-4798-7f89-ff8ef20460ad "Problems (PDF)" >}}
+{{% resource_link c9193599-c9e6-4798-7f89-ff8ef20460ad "Problems (PDF)" %}}
 
-{{< resource_link 4fae718b-e2ed-6d72-09a9-addf7e2d50be "Solutions (PDF)" >}}
+{{% resource_link 4fae718b-e2ed-6d72-09a9-addf7e2d50be "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -283,4 +283,4 @@ High school
 
 {{< tableclose >}}
 
-« {{< resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Previous" >}} | {{< resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Next" >}} »
+« {{% resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Previous" %}} | {{% resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Next" %}} »

@@ -9,7 +9,7 @@ title: 13. Band Theory of Solids
 uid: c567f1c9-3666-523f-ed70-cea0765d0080
 ---
 
-« {{< resource_link 391990ee-f653-5d34-974e-42391c0cb5b5 "Previous" >}} | {{< resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Next" >}} »
+« {{% resource_link 391990ee-f653-5d34-974e-42391c0cb5b5 "Previous" %}} | {{% resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Next" %}} »
 
 Session Overview
 ----------------
@@ -65,7 +65,7 @@ photovoltaics, photosensors, light-emitting diodes (LEDs), temperature sensors
 
 ### Prerequisites
 
-Before starting this session, you should be familiar with prior topics from Structure of the Atom ({{< resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Session 1" >}} through [Session 7](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy)) and Bonding & Molecules ([Session 8](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle) through [Session 12](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/12.-intermolecular-forces)), specifically:
+Before starting this session, you should be familiar with prior topics from Structure of the Atom ({{% resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Session 1" %}} through [Session 7](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy)) and Bonding & Molecules ([Session 8](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle) through [Session 12](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/12.-intermolecular-forces)), specifically:
 
 *   Electron orbital filling order, energy levels, and the Schrödinger equation
 *   Linear combination and hybridization of orbitals
@@ -85,7 +85,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-{{< resource_link 44adf21b-920f-69e8-c809-b1ab75b62d0a "Archived Lecture Notes #3 (PDF)" >}}
+{{% resource_link 44adf21b-920f-69e8-c809-b1ab75b62d0a "Archived Lecture Notes #3 (PDF)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -155,7 +155,7 @@ Lecture Video
 
 ### Resources
 
-{{< resource_link 2c2dd2aa-d9b8-8123-da8d-72f5cdc9d701 "Lecture Slides (PDF)" >}}
+{{% resource_link 2c2dd2aa-d9b8-8123-da8d-72f5cdc9d701 "Lecture Slides (PDF)" %}}
 
 ### Lecture Summary
 
@@ -164,9 +164,9 @@ Prof. Ron Ballinger ([homepage](http://web.mit.edu/nse/people/faculty/ballinger.
 Homework
 --------
 
-{{< resource_link 3d5d0ed0-a13d-0c6e-df92-6d76284e3651 "Problems (PDF)" >}}
+{{% resource_link 3d5d0ed0-a13d-0c6e-df92-6d76284e3651 "Problems (PDF)" %}}
 
-{{< resource_link fa6d1081-f73e-cc9f-d628-dadbcbd5c2df "Solutions (PDF)" >}}
+{{% resource_link fa6d1081-f73e-cc9f-d628-dadbcbd5c2df "Solutions (PDF)" %}}
 
 For Further Study
 -----------------
@@ -241,4 +241,4 @@ Start - 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](/courses/5-11
 
 {{< tableclose >}}
 
-« {{< resource_link 391990ee-f653-5d34-974e-42391c0cb5b5 "Previous" >}} | {{< resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Next" >}} »
+« {{% resource_link 391990ee-f653-5d34-974e-42391c0cb5b5 "Previous" %}} | {{% resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Next" %}} »

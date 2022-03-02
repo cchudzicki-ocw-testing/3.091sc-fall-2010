@@ -9,7 +9,7 @@ title: 14. Semiconductors
 uid: f218eec6-2b6b-13b4-b233-61a7fc3abb81
 ---
 
-« {{< resource_link c567f1c9-3666-523f-ed70-cea0765d0080 "Previous" >}} | {{< resource_link 3452e351-524d-2e8f-7020-05d4103e2aaf "Next" >}} »
+« {{% resource_link c567f1c9-3666-523f-ed70-cea0765d0080 "Previous" %}} | {{% resource_link 3452e351-524d-2e8f-7020-05d4103e2aaf "Next" %}} »
 
 Session Overview
 ----------------
@@ -65,7 +65,7 @@ light-emitting diodes (LEDs) in traffic lights and electronics, CD/DVD optical d
 
 ### Prerequisites
 
-Before starting this session, you should be familiar with topics from Structure of the Atom ({{< resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Session 1" >}} through {{< resource_link d0470d3e-350a-e01c-66ab-ad1825f65352 "Session 7" >}}), including:
+Before starting this session, you should be familiar with topics from Structure of the Atom ({{% resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Session 1" %}} through {{% resource_link d0470d3e-350a-e01c-66ab-ad1825f65352 "Session 7" %}}), including:
 
 *   Photon frequency, wavelength, and energy
 *   Atomic absorption and emission of photons
@@ -73,9 +73,9 @@ Before starting this session, you should be familiar with topics from Structure 
 
 ### Looking Ahead
 
-Some material from this session spills over into the next ({{< resource_link 94d7c45c-dd53-4c54-0679-000be37ea165 "Session 15" >}}); **make sure** you've covered it before moving on to the Electronic Materials {{< resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Self-Assessment" >}} page.
+Some material from this session spills over into the next ({{% resource_link 94d7c45c-dd53-4c54-0679-000be37ea165 "Session 15" %}}); **make sure** you've covered it before moving on to the Electronic Materials {{% resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Self-Assessment" %}} page.
 
-{{< resource_link 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4 "Session 19" >}} discusses the behavior and location of dopants in crystal lattices, and {{< resource_link 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7 "Session 24" >}} explains how to control the depth and concentration of dopants via diffusion. The Maxwell-Boltzmann curve describes other processes governed by thermal activity, such as crystal vacancies and defects ({{< resource_link 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4 "Session 19" >}}) and chemical reaction kinetics ({{< resource_link 568956d9-4b5b-b4e9-70b5-553efd337767 "Session 23" >}}).
+{{% resource_link 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4 "Session 19" %}} discusses the behavior and location of dopants in crystal lattices, and {{% resource_link 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7 "Session 24" %}} explains how to control the depth and concentration of dopants via diffusion. The Maxwell-Boltzmann curve describes other processes governed by thermal activity, such as crystal vacancies and defects ({{% resource_link 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4 "Session 19" %}}) and chemical reaction kinetics ({{% resource_link 568956d9-4b5b-b4e9-70b5-553efd337767 "Session 23" %}}).
 
 ### Learning Objectives
 
@@ -89,7 +89,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-{{< resource_link 44adf21b-920f-69e8-c809-b1ab75b62d0a "Archived Lecture Notes #3 (PDF)" >}}
+{{% resource_link 44adf21b-920f-69e8-c809-b1ab75b62d0a "Archived Lecture Notes #3 (PDF)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -123,7 +123,7 @@ Lecture Video
 
 ### Resources
 
-{{< resource_link be21c013-63b2-ff05-878c-c644c9454bdd "Lecture Slides (PDF - 2.5MB)" >}}
+{{% resource_link be21c013-63b2-ff05-878c-c644c9454bdd "Lecture Slides (PDF - 2.5MB)" %}}
 
 ### Lecture Summary
 
@@ -132,9 +132,9 @@ In **intrinsic semiconductors**, electron-hole **charge carrier pairs** are prom
 Homework
 --------
 
-{{< resource_link 4ca00f4d-1d6c-ecc3-1145-b87e525cacc7 "Problems (PDF)" >}}
+{{% resource_link 4ca00f4d-1d6c-ecc3-1145-b87e525cacc7 "Problems (PDF)" %}}
 
-{{< resource_link 54baade8-1b98-48d5-da26-f24b2e8caf5e "Solutions (PDF)" >}}
+{{% resource_link 54baade8-1b98-48d5-da26-f24b2e8caf5e "Solutions (PDF)" %}}
 
 For Further Study
 -----------------
@@ -288,4 +288,4 @@ Undergraduate (elective)
 
 {{< tableclose >}}
 
-« {{< resource_link c567f1c9-3666-523f-ed70-cea0765d0080 "Previous" >}} | {{< resource_link 3452e351-524d-2e8f-7020-05d4103e2aaf "Next" >}} »
+« {{% resource_link c567f1c9-3666-523f-ed70-cea0765d0080 "Previous" %}} | {{% resource_link 3452e351-524d-2e8f-7020-05d4103e2aaf "Next" %}} »

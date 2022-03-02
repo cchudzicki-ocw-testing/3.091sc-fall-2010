@@ -9,7 +9,7 @@ title: 25. Introduction to Aqueous Solutions
 uid: 2d99a337-8fc4-7f5c-57d3-d1e5a4dc19a3
 ---
 
-« {{< resource_link 786b7514-86a8-3635-cf6a-b88c95dc0332 "Previous" >}} | {{< resource_link 98ba1bf2-d4f9-d827-e295-168909119297 "Next" >}} »
+« {{% resource_link 786b7514-86a8-3635-cf6a-b88c95dc0332 "Previous" %}} | {{% resource_link 98ba1bf2-d4f9-d827-e295-168909119297 "Next" %}} »
 
 Session Overview
 ----------------
@@ -67,8 +67,8 @@ water desalinization, glass manufacturing, bulk metallic glass
 
 Before starting this session, you should be familiar with:
 
-*   The Bonding and Molecules module ({{< resource_link d0470d3e-350a-e01c-66ab-ad1825f65352 "Session 7" >}} through {{< resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Session 12" >}})
-*   Chemistry of glasses (Amorphous Materials module), in {{< resource_link 1d01a4a6-fa92-2854-cead-1f61b1189649 "Session 21" >}} and {{< resource_link 593608f5-1309-0383-9a58-fb9a2fb6843a "Session 22" >}}
+*   The Bonding and Molecules module ({{% resource_link d0470d3e-350a-e01c-66ab-ad1825f65352 "Session 7" %}} through {{% resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Session 12" %}})
+*   Chemistry of glasses (Amorphous Materials module), in {{% resource_link 1d01a4a6-fa92-2854-cead-1f61b1189649 "Session 21" %}} and {{% resource_link 593608f5-1309-0383-9a58-fb9a2fb6843a "Session 22" %}}
 
 ### Learning Objectives
 
@@ -151,7 +151,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link f79062d7-ce66-928e-8a24-0f4df49da174 "Lecture Slides (PDF - 1.3MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f79062d7-ce66-928e-8a24-0f4df49da174 "Lecture Slides (PDF - 1.3MB)" %}}
 
 ### Lecture Summary
 
@@ -162,9 +162,9 @@ The class ends with a discussion of the properties of **amorphous glasses**, inc
 Homework
 --------
 
-{{< resource_link e0791f0c-6247-373b-8104-4abf62745c6d "Problems (PDF)" >}}
+{{% resource_link e0791f0c-6247-373b-8104-4abf62745c6d "Problems (PDF)" %}}
 
-{{< resource_link 44c82dce-d274-7270-0283-1886e454783b "Solutions (PDF)" >}}
+{{% resource_link 44c82dce-d274-7270-0283-1886e454783b "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -210,4 +210,4 @@ Chang, Kenneth. "[The Nature of Glass Remains Anything but Clear](http://www.nyt
 
 [Svante Arrhenius](http://en.wikipedia.org/wiki/Svante_Arrhenius) — [1903 Nobel Prize in Chemistry](http://nobelprize.org/nobel_prizes/chemistry/laureates/1903/)
 
-« {{< resource_link 786b7514-86a8-3635-cf6a-b88c95dc0332 "Previous" >}} | {{< resource_link 98ba1bf2-d4f9-d827-e295-168909119297 "Next" >}} »
+« {{% resource_link 786b7514-86a8-3635-cf6a-b88c95dc0332 "Previous" %}} | {{% resource_link 98ba1bf2-d4f9-d827-e295-168909119297 "Next" %}} »

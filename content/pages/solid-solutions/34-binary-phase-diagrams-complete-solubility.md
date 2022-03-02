@@ -9,7 +9,7 @@ title: '34. Binary Phase Diagrams: Complete Solubility'
 uid: 31cd4459-a0c6-f229-2b86-eee893f5dd0b
 ---
 
-« {{< resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Previous" >}} | {{< resource_link 7a815988-3da3-035d-e473-14306ab4f684 "Next" >}} »
+« {{% resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Previous" %}} | {{% resource_link 7a815988-3da3-035d-e473-14306ab4f684 "Next" %}} »
 
 Session Overview
 ----------------
@@ -67,11 +67,11 @@ metal refining, metal recycling, ouzo, absinthe, cognac
 
 Before starting this session, you should be familiar with:
 
-*   {{< resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Session 33: Unary Phase Diagrams" >}}
+*   {{% resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Session 33: Unary Phase Diagrams" %}}
 
 ### Looking Ahead
 
-Binary phase diagrams are introduced in this session, and completed in {{< resource_link 7a815988-3da3-035d-e473-14306ab4f684 "Session 35" >}}.
+Binary phase diagrams are introduced in this session, and completed in {{% resource_link 7a815988-3da3-035d-e473-14306ab4f684 "Session 35" %}}.
 
 ### Learning Objectives
 
@@ -85,7 +85,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-{{< resource_link 85619733-50a2-e44d-7ee4-e8304272c56f "Archived Lecture Notes #10 (PDF)" >}}, Part B and {{< resource_link caf0d98c-0936-9889-3340-c24e30cb318e "#10 Supplement (PDF)" >}}
+{{% resource_link 85619733-50a2-e44d-7ee4-e8304272c56f "Archived Lecture Notes #10 (PDF)" %}}, Part B and {{% resource_link caf0d98c-0936-9889-3340-c24e30cb318e "#10 Supplement (PDF)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -128,7 +128,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 67bed876-f84d-bc36-b1cb-5b3a46011d0c "Lecture Slides (PDF - 2.5MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 67bed876-f84d-bc36-b1cb-5b3a46011d0c "Lecture Slides (PDF - 2.5MB)" %}}
 
 ### Lecture Summary
 
@@ -149,9 +149,9 @@ The lecture ends with a discussion of the history and chemistry of **absinthe**.
 Homework
 --------
 
-{{< resource_link 623c8288-474d-14eb-0c59-6152b39115fa "Problems (PDF)" >}}
+{{% resource_link 623c8288-474d-14eb-0c59-6152b39115fa "Problems (PDF)" %}}
 
-{{< resource_link c0dffdbb-db19-0764-fc44-d914b2bd5b61 "Solutions (PDF)" >}}
+{{% resource_link c0dffdbb-db19-0764-fc44-d914b2bd5b61 "Solutions (PDF)" %}}
 
 For Further Study
 -----------------
@@ -226,4 +226,4 @@ Undergraduate
 
 {{< tableclose >}}
 
-« {{< resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Previous" >}} | {{< resource_link 7a815988-3da3-035d-e473-14306ab4f684 "Next" >}} »
+« {{% resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Previous" %}} | {{% resource_link 7a815988-3da3-035d-e473-14306ab4f684 "Next" %}} »

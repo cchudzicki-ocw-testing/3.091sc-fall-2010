@@ -9,7 +9,7 @@ title: 2. The Periodic Table
 uid: a13b8975-9fdc-1778-eea3-68cb5be8fef0
 ---
 
-« {{< resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Previous" >}} | {{< resource_link 313524b4-840e-e388-74ee-c0ea90001bd5 "Next" >}} »
+« {{% resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Previous" %}} | {{% resource_link 313524b4-840e-e388-74ee-c0ea90001bd5 "Next" %}} »
 
 Session Overview
 ----------------
@@ -67,11 +67,11 @@ Kroll process for producing titanium metal
 
 Before starting this session, you should be familiar with:
 
-*   {{< resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Session 1: Introduction to Solid State Chemistry" >}}
+*   {{% resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Session 1: Introduction to Solid State Chemistry" %}}
 
 ### Looking Ahead
 
-Prof. Sadoway describes Rutherford's model of the atom and Bohr's model of hydrogen ({{< resource_link 313524b4-840e-e388-74ee-c0ea90001bd5 "Session 3" >}}).
+Prof. Sadoway describes Rutherford's model of the atom and Bohr's model of hydrogen ({{% resource_link 313524b4-840e-e388-74ee-c0ea90001bd5 "Session 3" %}}).
 
 ### Learning Objectives
 
@@ -176,9 +176,9 @@ Lecture Video
 
 ### Resources
 
-{{< resource_link a6827fe5-e4d5-79c6-1048-6c10a4d3efd1 "Lecture Slides (PDF - 6.0MB)" >}}
+{{% resource_link a6827fe5-e4d5-79c6-1048-6c10a4d3efd1 "Lecture Slides (PDF - 6.0MB)" %}}
 
-{{< resource_link 9abd92d7-66e1-b816-f50d-00770b2420e1 "Periodic Table and Table of Constants" "#ref" >}}
+{{% resource_link 9abd92d7-66e1-b816-f50d-00770b2420e1 "Periodic Table and Table of Constants" "#ref" %}}
 
 ### Lecture Summary
 
@@ -199,9 +199,9 @@ The lecture ends with a brief biographical sketch of composer and chemistry prof
 Homework
 --------
 
-{{< resource_link 8adb6ae0-68b9-2a12-4d57-c7ef9a4c06a4 "Problems (PDF)" >}}
+{{% resource_link 8adb6ae0-68b9-2a12-4d57-c7ef9a4c06a4 "Problems (PDF)" %}}
 
-{{< resource_link aa16834c-c012-bde9-9956-fdff37e794b8 "Solutions (PDF)" >}}
+{{% resource_link aa16834c-c012-bde9-9956-fdff37e794b8 "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -396,4 +396,4 @@ High school
 
 {{< tableclose >}}
 
-« {{< resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Previous" >}} | {{< resource_link 313524b4-840e-e388-74ee-c0ea90001bd5 "Next" >}} »
+« {{% resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Previous" %}} | {{% resource_link 313524b4-840e-e388-74ee-c0ea90001bd5 "Next" %}} »

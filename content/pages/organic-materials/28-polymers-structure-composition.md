@@ -9,7 +9,7 @@ title: '28. Polymers: Structure & Composition'
 uid: f8c2db6d-2332-71ec-1747-b2c8369b532e
 ---
 
-« {{< resource_link d1c5400e-ad6e-5796-fde9-b0ebffa63afd "Previous" >}} | {{< resource_link ab1dea66-95b4-5d1a-3cc8-9fa06d9ba941 "Next" >}} »
+« {{% resource_link d1c5400e-ad6e-5796-fde9-b0ebffa63afd "Previous" %}} | {{% resource_link ab1dea66-95b4-5d1a-3cc8-9fa06d9ba941 "Next" %}} »
 
 Session Overview
 ----------------
@@ -67,7 +67,7 @@ Manufactured products of the past 80-100 years, vulcanized rubber
 
 Before starting this session, you should be familiar with:
 
-*   {{< resource_link d1c5400e-ad6e-5796-fde9-b0ebffa63afd "Session 27: Organic Chemistry" >}}
+*   {{% resource_link d1c5400e-ad6e-5796-fde9-b0ebffa63afd "Session 27: Organic Chemistry" %}}
 
 ### Looking Ahead
 
@@ -118,7 +118,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 7c83f128-0797-ebde-4c7a-deaeb11d4cc9 "Lecture Slides (PDF)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 7c83f128-0797-ebde-4c7a-deaeb11d4cc9 "Lecture Slides (PDF)" %}}
 
 ### Lecture Summary
 
@@ -139,9 +139,9 @@ The class ends with a quick recounting of the discovery and impact of **rubber v
 Homework
 --------
 
-{{< resource_link 4f3f54ed-baa4-767d-d50f-720a2bfb0a01 "Problems (PDF)" >}}
+{{% resource_link 4f3f54ed-baa4-767d-d50f-720a2bfb0a01 "Problems (PDF)" %}}
 
-{{< resource_link 63768218-aa4a-7a99-eb1c-3e8375012a66 "Solutions (PDF)" >}}
+{{% resource_link 63768218-aa4a-7a99-eb1c-3e8375012a66 "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -228,4 +228,4 @@ Undergraduate
 
 {{< tableclose >}}
 
-« {{< resource_link d1c5400e-ad6e-5796-fde9-b0ebffa63afd "Previous" >}} | {{< resource_link ab1dea66-95b4-5d1a-3cc8-9fa06d9ba941 "Next" >}} »
+« {{% resource_link d1c5400e-ad6e-5796-fde9-b0ebffa63afd "Previous" %}} | {{% resource_link ab1dea66-95b4-5d1a-3cc8-9fa06d9ba941 "Next" %}} »
