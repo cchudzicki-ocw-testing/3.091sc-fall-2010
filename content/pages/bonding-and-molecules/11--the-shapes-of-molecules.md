@@ -8,7 +8,7 @@ parent_uid: 6ea956c8-cef5-f99e-6904-09f06d8d5317
 title: 11. The Shapes of Molecules
 uid: 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5
 ---
-« {{< resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Previous" >}} | {{< resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Next" >}} »
+« {{% resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Previous" %}} | {{% resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Next" %}} »
 
 ## Session Overview
 
@@ -18,11 +18,11 @@ uid: 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5
 
 Before starting this session, you should be familiar with:
 
-- {{< resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Session 10: Hybridized & Molecular Orbitals; Paramagnetism" >}}
+- {{% resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Session 10: Hybridized & Molecular Orbitals; Paramagnetism" %}}
 
 ### Looking Ahead
 
-Prof. Sadoway completes the Bonding and Molecules module with a session on secondary bonding, permanent and induced dipoles, hydrogen bonding, and polarizability of molecules ({{< resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Session 12" >}}).
+Prof. Sadoway completes the Bonding and Molecules module with a session on secondary bonding, permanent and induced dipoles, hydrogen bonding, and polarizability of molecules ({{% resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Session 12" %}}).
 
 ### Learning Objectives
 
@@ -43,7 +43,7 @@ After completing this session, you should be able to:
 
 ### Resources
 
-{{< resource_link c53de2cd-0de3-1f49-06c4-fd352a4dfc57 "Lecture Slides (PDF - 1.2MB)" >}}
+{{% resource_link c53de2cd-0de3-1f49-06c4-fd352a4dfc57 "Lecture Slides (PDF - 1.2MB)" %}}
 
 ### Lecture Summary
 
@@ -56,9 +56,9 @@ He re-emphasizes the underlying point of this unit: equal bond energies imply eq
 
 ## Homework
 
-{{< resource_link 1f11d8e7-0715-f431-af29-5713bca92f19 "Problems (PDF)" >}}
+{{% resource_link 1f11d8e7-0715-f431-af29-5713bca92f19 "Problems (PDF)" %}}
 
-{{< resource_link 2ba6c9e0-17be-9ce1-12d6-4d93789fc7e9 "Solutions (PDF)" >}}
+{{% resource_link 2ba6c9e0-17be-9ce1-12d6-4d93789fc7e9 "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -71,4 +71,4 @@ He re-emphasizes the underlying point of this unit: equal bond energies imply eq
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}Content{{< thclose >}}{{< thopen >}}Provider{{< thclose >}}{{< thopen >}}Level{{< thclose >}}{{< thopen >}}Notes{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008){{< tdclose >}}{{< tdopen >}}MIT OpenCourseWare{{< tdclose >}}{{< tdopen >}}Undergraduate (first-year){{< tdclose >}}{{< tdopen >}}[Lecture 15: Valence Bond Theory and Hybridization](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-15)    
 [Lecture 16: Thermochemistry](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-16){{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-« {{< resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Previous" >}} | {{< resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Next" >}} »
+« {{% resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Previous" %}} | {{% resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Next" %}} »

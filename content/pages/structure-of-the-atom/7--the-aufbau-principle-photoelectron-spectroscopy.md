@@ -8,7 +8,7 @@ parent_uid: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
 title: 7. The Aufbau Principle; Photoelectron Spectroscopy
 uid: d0470d3e-350a-e01c-66ab-ad1825f65352
 ---
-« {{< resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Previous" >}} | {{< resource_link e0f0b093-6ba1-323d-d748-bdec78bb7499 "Next" >}} »
+« {{% resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Previous" %}} | {{% resource_link e0f0b093-6ba1-323d-d748-bdec78bb7499 "Next" %}} »
 
 ## Session Overview
 
@@ -18,11 +18,11 @@ uid: d0470d3e-350a-e01c-66ab-ad1825f65352
 
 Before starting this session, you should be familiar with:
 
-- {{< resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Session 6: Particle-Wave Duality" >}}
+- {{% resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Session 6: Particle-Wave Duality" %}}
 
 ### Looking Ahead
 
-Prof. Sadoway discusses ionic crystals and the Born-Haber cycle ({{< resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Session 8" >}}).
+Prof. Sadoway discusses ionic crystals and the Born-Haber cycle ({{% resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Session 8" %}}).
 
 ### Learning Objectives
 
@@ -37,7 +37,7 @@ After completing this session, you should be able to:
 
 ## Reading
 
-{{< resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" >}}, Section 4
+{{% resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" %}}, Section 4
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}Book Chapters{{< thclose >}}{{< thopen >}}Topics{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-06-building-up-the-periodic-table.html) 6.6, "Building Up the Periodic Table."{{< tdclose >}}{{< tdopen >}}Electron spin: the fourth quantum number; the Pauli principle; electron configurations of the elements{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-03-energetics-of-ion-formation.html) 7.3, "Energetics of Ion Formation."{{< tdclose >}}{{< tdopen >}}Ionization energies; electron affinities; electronegativity{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -47,7 +47,7 @@ After completing this session, you should be able to:
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 332bdd0c-0b87-d708-6a02-54a4cab648d4 "Lecture Slides (PDF - 1.1MB)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 332bdd0c-0b87-d708-6a02-54a4cab648d4 "Lecture Slides (PDF - 1.1MB)" %}}
 
 ### Lecture Summary
 
@@ -72,4 +72,4 @@ In this lecture, Prof. Sadoway discusses the following topics:
 
 [Erwin Schrödinger](http://en.wikipedia.org/wiki/Schrodinger) - [1933 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/1933/)
 
-« {{< resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Previous" >}} | {{< resource_link e0f0b093-6ba1-323d-d748-bdec78bb7499 "Next" >}} »
+« {{% resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Previous" %}} | {{% resource_link e0f0b093-6ba1-323d-d748-bdec78bb7499 "Next" %}} »
