@@ -67,13 +67,13 @@ aluminum alloys for soda cans, n-and p-type semiconductors, steel, hydrogen embr
 
 Before starting this session, you should be familiar with:
 
-*   Ionic crystal lattices ([Session 8](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle))
+*   Ionic crystal lattices ({{% resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Session 8" %}})
 *   Cubic crystal structures ({{% resource_link 94d7c45c-dd53-4c54-0679-000be37ea165 "Session 15" %}})
 *   Distribution of energies as described by Maxwell-Boltzmann statistics ({{% resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Session 14" %}})
 
 ### Looking Ahead
 
-Compare the expression for the energy required to produce a vacancy, derived in this lecture, with the expression for the rate of a chemical reaction (the Arrhenius equation), presented in [Session 22: Introduction to Kinetics](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/amorphous-materials/22.-engineering-glass-properties-introduction-to-kinetics).
+Compare the expression for the energy required to produce a vacancy, derived in this lecture, with the expression for the rate of a chemical reaction (the Arrhenius equation), presented in {{% resource_link 593608f5-1309-0383-9a58-fb9a2fb6843a "Session 22: Introduction to Kinetics" %}}.
 
 ### Learning Objectives
 

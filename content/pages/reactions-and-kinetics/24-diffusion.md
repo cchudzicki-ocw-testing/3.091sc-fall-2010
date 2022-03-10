@@ -246,7 +246,7 @@ MIT OpenCourseWare
 Undergraduate (elective) / Graduate
 {{< tdclose >}}
 {{< tdopen >}}
-Explore [lecture notes, animations, and worked examples](/courses/1-061-transport-processes-in-the-environment-fall-2008/pages/lecture-notes) focusing on environmental systems.
+Explore [lecture notes, animations, and worked examples](/courses/1-061-transport-processes-in-the-environment-fall-2008/pages/lecture-notes/_index) focusing on environmental systems.
 {{< tdclose >}}
 
 {{< trclose >}}

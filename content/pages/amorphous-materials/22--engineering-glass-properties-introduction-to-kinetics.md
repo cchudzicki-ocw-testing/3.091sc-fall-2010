@@ -108,7 +108,7 @@ automobile airbags, phosgene gas, radiocarbon dating
 Before starting this session, you should be familiar with:
 
 *   Properties, composition, and manufacturing of glass ({{% resource_link 1d01a4a6-fa92-2854-cead-1f61b1189649 "Session 21" %}})
-*   The shapes of molecules and factors affecting their mobility ([Session 8](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle) through [Session 12](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/12.-intermolecular-forces))
+*   The shapes of molecules and factors affecting their mobility ({{% resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Session 8" %}} through {{% resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Session 12" %}})
 *   How to write chemical equations ({{% resource_link a13b8975-9fdc-1778-eea3-68cb5be8fef0 "Session 2" %}})
 *   The distribution of energies per the Maxwell-Boltzmann curve ({{% resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Session 14" %}})
 
@@ -368,7 +368,7 @@ MIT OpenCourseWare
 Undergraduate (elective)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 30: Introduction to Reaction Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/pages/video-lectures/lecture-30-introduction-to-reaction-kinetics)
+[Lecture 30: Introduction to Reaction Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/resources/lecture-30-introduction-to-reaction-kinetics)
 {{< tdclose >}}
 
 {{< trclose >}}

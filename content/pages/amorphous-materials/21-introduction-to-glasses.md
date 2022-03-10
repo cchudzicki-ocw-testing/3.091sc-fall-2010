@@ -9,7 +9,7 @@ title: 21. Introduction to Glasses
 uid: 1d01a4a6-fa92-2854-cead-1f61b1189649
 ---
 
-« {{% resource_link 79828d9f-9980-e3bc-b791-bd1403164706 "Previous" %}} | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/amorphous-materials/22.-engineering-glass-properties-introduction-to-kinetics) »
+« {{% resource_link 79828d9f-9980-e3bc-b791-bd1403164706 "Previous" %}} | {{% resource_link 593608f5-1309-0383-9a58-fb9a2fb6843a "Next" %}} »
 
 Session Overview
 ----------------
@@ -67,7 +67,7 @@ bottles, jars, food and beverage containers, windows, glass cookware, plastic wr
 
 Before starting this session, you should be familiar with:
 
-*   Shapes of molecules and factors affecting their mobility ([Session 8](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle) through [Session 12](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/12.-intermolecular-forces))
+*   Shapes of molecules and factors affecting their mobility ({{% resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Session 8" %}} through {{% resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Session 12" %}})
 *   Structure, properties, and methods of characterizing crystals ({{% resource_link 94d7c45c-dd53-4c54-0679-000be37ea165 "Session 15" %}} through {{% resource_link 5c00821f-505a-eeee-270d-29caeda060dc "Session 20" %}})
 
 ### Learning Objectives
@@ -194,4 +194,4 @@ Undergraduate
 
 {{< tableclose >}}
 
-« {{% resource_link 79828d9f-9980-e3bc-b791-bd1403164706 "Previous" %}} | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/amorphous-materials/22.-engineering-glass-properties-introduction-to-kinetics) »
+« {{% resource_link 79828d9f-9980-e3bc-b791-bd1403164706 "Previous" %}} | {{% resource_link 593608f5-1309-0383-9a58-fb9a2fb6843a "Next" %}} »
