@@ -68,7 +68,7 @@ He re-emphasizes the underlying point of this unit: equal bond energies imply eq
 
 ### Other OCW and OER Content
 
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}Content{{< thclose >}}{{< thopen >}}Provider{{< thclose >}}{{< thopen >}}Level{{< thclose >}}{{< thopen >}}Notes{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008){{< tdclose >}}{{< tdopen >}}MIT OpenCourseWare{{< tdclose >}}{{< tdopen >}}Undergraduate (first-year){{< tdclose >}}{{< tdopen >}}[Lecture 15: Valence Bond Theory and Hybridization](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-15)    
-[Lecture 16: Thermochemistry](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-16){{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}Content{{< thclose >}}{{< thopen >}}Provider{{< thclose >}}{{< thopen >}}Level{{< thclose >}}{{< thopen >}}Notes{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008){{< tdclose >}}{{< tdopen >}}MIT OpenCourseWare{{< tdclose >}}{{< tdopen >}}Undergraduate (first-year){{< tdclose >}}{{< tdopen >}}[Lecture 15: Valence Bond Theory and Hybridization](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-15)    
+[Lecture 16: Thermochemistry](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-16){{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 « {{% resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Previous" %}} | {{% resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Next" %}} »

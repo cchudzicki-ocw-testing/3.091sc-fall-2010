@@ -22,7 +22,7 @@ Before starting this session, you should be familiar with:
 
 ### Looking Ahead
 
-Prof. Sadoway discusses the Aufbau principle and photoelectron spectroscopy ([Session 7](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy)).
+Prof. Sadoway discusses the Aufbau principle and photoelectron spectroscopy ({{% resource_link d0470d3e-350a-e01c-66ab-ad1825f65352 "Session 7" %}}).
 
 ### Learning Objectives
 
@@ -111,8 +111,8 @@ Powers, Thomas. _Heisenberg's War: The Secret History of the German Bomb_. New Y
 ### Other OCW and OER Content
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}Content{{< thclose >}}{{< thopen >}}Provider{{< thclose >}}{{< thopen >}}Level{{< thclose >}}{{< thopen >}}Notes{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008){{< tdclose >}}{{< tdopen >}}MIT OpenCourseWare{{< tdclose >}}{{< tdopen >}}Undergraduate (first-year){{< tdclose >}}{{< tdopen >}}
-[Lecture 3: Wave-Particle Duality of Light](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-3)
-[Lecture 4: Wave-Particle Duality of Matter](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-4)
+[Lecture 3: Wave-Particle Duality of Light](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-3)
+[Lecture 4: Wave-Particle Duality of Matter](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-4)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}[Atomic Structure](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/atomstructcon.html), [The Schrödinger Equation](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/schrcn.html){{< tdclose >}}{{< tdopen >}}HyperPhysics{{< tdclose >}}{{< tdopen >}}High school{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-« {{% resource_link e7d31b34-62de-b7aa-1e87-6b9a5a99c71f "Previous" %}} | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy) »
+« {{% resource_link e7d31b34-62de-b7aa-1e87-6b9a5a99c71f "Previous" %}} | {{% resource_link d0470d3e-350a-e01c-66ab-ad1825f65352 "Next" %}} »
