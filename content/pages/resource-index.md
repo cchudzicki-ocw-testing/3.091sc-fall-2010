@@ -55,7 +55,7 @@ FOR FURTHER STUDY
 {{< div-with-class "reveal1">}}
 
 › _Textbook Problems_
-
+ 
 {{< /div-with-class >}}{{< div-with-class "toggle1">}}
 
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-03-a-description-of-matter.html) 1.3, "A Description of Matter."
@@ -822,7 +822,7 @@ Molina, Mario J. and Rowland, F. S. "[Stratospheric sink for chlorofluoromethane
 
 [Gilbert Lewis](http://en.wikipedia.org/wiki/G._N._Lewis); [Linus Pauling](http://en.wikipedia.org/wiki/Linus_Pauling) - [1954 Nobel Prize in Chemistry](http://nobelprize.org/nobel_prizes/chemistry/laureates/1954/), [1962 Nobel Prize in Peace](http://nobelprize.org/nobel_prizes/peace/laureates/1962/); [Arnold Sommerfeld](http://en.wikipedia.org/wiki/Arnold_Sommerfeld); [Fritz Haber](http://en.wikipedia.org/wiki/Fritz_Haber) - [1918 Nobel Prize in Chemistry](http://nobelprize.org/nobel_prizes/chemistry/laureates/1918/); [Erwin Madelung](http://en.wikipedia.org/wiki/Erwin_Madelung); [Thomas Midgley](http://en.wikipedia.org/wiki/Thomas_Midgley,_Jr.)
 
-{{< /div-with-class >}}{{< div-with-class >}}{{< div-with-class "reveal44">}}
+{{< /div-with-class >}}{{< /div-with-class >}}{{< div-with-class "reveal44">}}
 
 › _Other OCW and OER Content_
 
