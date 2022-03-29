@@ -47,7 +47,7 @@ After completing this session, you should be able to:
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 332bdd0c-0b87-d708-6a02-54a4cab648d4 "Lecture Slides (PDF - 1.1MB)" %}}
+{{% resource_link 332bdd0c-0b87-d708-6a02-54a4cab648d4 "Lecture Slides (PDF - 1.1MB)" %}}
 
 ### Lecture Summary
 

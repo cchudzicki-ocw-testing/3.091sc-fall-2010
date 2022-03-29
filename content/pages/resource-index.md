@@ -241,7 +241,7 @@ Lehrer, T. _The Remains of Tom Lehrer_. Los Angeles, CA: Warner Archives/Rhino, 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link e9b57614-a1ea-a949-7337-849daed8efb6 "Lecture 3: Atomic Models: Rutherford & Bohr" %}}
 {{< tdclose >}}{{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link d675a426-16a8-d9aa-0071-a682b434e233 "Lecture Slides (PDF - 9.3MB)" %}}
+{{% resource_link d675a426-16a8-d9aa-0071-a682b434e233 "Lecture Slides (PDF - 9.3MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link 6ca5fbac-28a4-7fdd-788c-bc6941a9afa9 "Problems (PDF)" %}}
@@ -333,7 +333,7 @@ Miller, D. P. _Discovering Water: James Watt, Henry Cavendish and the Nineteenth
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 128dc481-0986-5678-b22f-b7e8b27da009 "Lecture 4: Matter/Energy Interactions: Atomic Spectra" %}}
 {{< tdclose >}}{{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 95c65f29-f14b-0fd9-a6ee-88e34161175b "Lecture Slides (PDF - 1.3MB)" %}}
+{{% resource_link 95c65f29-f14b-0fd9-a6ee-88e34161175b "Lecture Slides (PDF - 1.3MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link d321f747-b6a6-2505-ee02-6061b028f727 "Problems (PDF)" %}}
@@ -407,7 +407,7 @@ Payne-Gaposchkin, Cecilia H. _Stars and Clusters_. Cambridge, MA: Harvard Univer
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 54bb9612-5d89-8741-2bc7-bfa211846fc4 "Lecture 5: Electron Shell Model & Quantum Numbers" %}}
 {{< tdclose >}}{{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link cd1c7bad-1195-8205-26f2-daa467a8bb67 "Lecture Slides (PDF - 2.0MB)" %}}
+{{% resource_link cd1c7bad-1195-8205-26f2-daa467a8bb67 "Lecture Slides (PDF - 2.0MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link c9193599-c9e6-4798-7f89-ff8ef20460ad "Problems (PDF)" %}}
@@ -563,7 +563,7 @@ Powers, Thomas. _Heisenberg's War: The Secret History of the German Bomb_. New Y
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 9cba9df3-ef38-c8a0-69c3-6642e0072dcf "Lecture 7: The Aufbau Principle; Photoelectron Spectroscopy" %}}
 {{< tdclose >}}{{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 332bdd0c-0b87-d708-6a02-54a4cab648d4 "Lecture Slides (PDF - 1.1MB)" %}}
+{{% resource_link 332bdd0c-0b87-d708-6a02-54a4cab648d4 "Lecture Slides (PDF - 1.1MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 {{< div-with-class "reveal33">}}
@@ -779,7 +779,7 @@ Charles, Daniel. _Master Mind: The Rise and Fall of Fritz Haber, the Nobel Laure
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 00f0e829-982e-c411-09c4-5275598b3d2f "Lecture 9: Drawing Lewis Structures" %}}
 {{< tdclose >}}{{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a4e0cd55-113c-d2bc-fe4c-9b4de3719739 "Lecture Slides (PDF - 2.9MB)" %}}
+{{% resource_link a4e0cd55-113c-d2bc-fe4c-9b4de3719739 "Lecture Slides (PDF - 2.9MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link 2e47dc30-4e3d-a3be-1679-17cca80bc1b9 "Problems (PDF)" %}}
@@ -1036,7 +1036,7 @@ SUPPLEMENTAL PROBLEMS
 
 {{% resource_link 3932c171-009c-5ed8-e6ff-717130d866b9 "Exam Problems (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 02932060-0640-2a16-2fcf-ff143547751f "Exam Solutions Key (PDF)" %}}
+{{% resource_link 02932060-0640-2a16-2fcf-ff143547751f "Exam Solutions Key (PDF)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -1062,7 +1062,7 @@ SUPPLEMENTAL PROBLEMS
 
 {{% resource_link 6a797a22-b087-98eb-258c-7713a42423a9 "Supplemental Exam Problems (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 736e0dcd-cfaa-e833-4109-794ae0d655da "Supplemental Exam Solutions Key (PDF - 1.4MB)" %}}
+{{% resource_link 736e0dcd-cfaa-e833-4109-794ae0d655da "Supplemental Exam Solutions Key (PDF - 1.4MB)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -1240,7 +1240,7 @@ SUPPLEMENTAL PROBLEMS
 
 {{% resource_link f051d2af-b769-1776-f327-b3a084e6aeee "Exam Problems (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3bd38f24-1443-911a-f59a-114b0df26216 "Exam Solutions Key (PDF)" %}}
+{{% resource_link 3bd38f24-1443-911a-f59a-114b0df26216 "Exam Solutions Key (PDF)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 63b75109-5edc-3b33-88ed-5785e0102f91 "Clip 1: Exam 2, Problem 3" %}}
@@ -1248,7 +1248,7 @@ SUPPLEMENTAL PROBLEMS
 
 {{% resource_link 51ae2a0a-c5c5-e529-3888-29d4d5a91ee0 "Supplemental Exam Problems (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9eb0eea0-04fb-f7e4-259b-a48790322f4d "Supplemental Exam Solutions Key (PDF)" %}}
+{{% resource_link 9eb0eea0-04fb-f7e4-259b-a48790322f4d "Supplemental Exam Solutions Key (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -1539,7 +1539,7 @@ Lubar, Robert S. _Dali: The Salvador Dali Museum Collection_. Boston, MA: Bullfi
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 9104537d-01d6-a0fe-e9b5-53e74b518fb1 "Lecture 18: X-Ray Diffraction Techniques" %}}
 {{< tdclose >}}{{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e20fd8f3-e73b-3408-320e-a1dae9dc12ec "Lecture Slides (PDF - 5.3MB)" %}}
+{{% resource_link e20fd8f3-e73b-3408-320e-a1dae9dc12ec "Lecture Slides (PDF - 5.3MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link 5329c171-e045-015d-eafc-83f199741631 "Problems (PDF)" %}}
@@ -1611,7 +1611,7 @@ Mozart, Wolfgang. "Rondo Alla Turca." _Piano Sonata no. 11 in A major_, K. 331.
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 2c52e699-868c-f83c-a4a9-d48d1a26862a "Lecture 19: Point & Line Defects" %}}
 {{< tdclose >}}{{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e9d87068-09d2-3de0-3d37-a624db0b8967 "Lecture Slides (PDF - 3.0MB)" %}}
+{{% resource_link e9d87068-09d2-3de0-3d37-a624db0b8967 "Lecture Slides (PDF - 3.0MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link 531957be-9bc8-97d8-f76e-8ddeec0db6ef "Problems (PDF)" %}}
@@ -1772,13 +1772,13 @@ SUPPLEMENTAL PROBLEMS
 
 {{% resource_link 73949f66-24e4-9c91-cb72-a28840128f2b "Quiz Problems (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 235c3cd1-5ce6-0caf-eb4c-dc581b6d3c6f "Quiz Solutions Key (PDF)" %}}
+{{% resource_link 235c3cd1-5ce6-0caf-eb4c-dc581b6d3c6f "Quiz Solutions Key (PDF)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link 72f92a63-63c7-a034-3ecc-b2871cf06776 "Exam Problems (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c5667e14-5c26-b51f-6034-09d402e8ae62 "Exam Solutions Key (PDF - 1.5MB)" %}}
+{{% resource_link c5667e14-5c26-b51f-6034-09d402e8ae62 "Exam Solutions Key (PDF - 1.5MB)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -1802,7 +1802,7 @@ SUPPLEMENTAL PROBLEMS
 
 {{% resource_link 4d7f5103-d7b1-2ba2-2c94-8b64c3e207d9 "Supplemental Exam Problems (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 85d44e5b-d704-f614-3527-fbfc764f8088 "Supplemental Exam Solutions Key (PDF - 1.1MB)" %}}
+{{% resource_link 85d44e5b-d704-f614-3527-fbfc764f8088 "Supplemental Exam Solutions Key (PDF - 1.1MB)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -1911,7 +1911,7 @@ Chihuly, Dale. _Chihuly: Form From Fire_. Seattle, WA: University of Washington 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 8cbf6e3d-a932-2176-e0ff-bb59925bf1f1 "Lecture 22: Engineering Glass Properties, Introduction to Kinetics" %}}
 {{< tdclose >}}{{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 7e17c011-6607-aa5d-9d64-24936ceb41c7 "Lecture Slides (PDF)" %}}
+{{% resource_link 7e17c011-6607-aa5d-9d64-24936ceb41c7 "Lecture Slides (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 {{< div-with-class "reveal103">}}
@@ -2065,7 +2065,7 @@ FOR FURTHER STUDY
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link aef69fb9-d1a4-5fe7-9968-3f07d33781da "Lecture 23: Reaction Rates" %}}
 {{< tdclose >}}{{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 76b20538-5820-149e-6cd1-3b74c33fc2e0 "Lecture Slides (PDF - 1.4MB)" %}}
+{{% resource_link 76b20538-5820-149e-6cd1-3b74c33fc2e0 "Lecture Slides (PDF - 1.4MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link 25ba072c-4443-bd19-ed84-8bf9379f3ad5 "Problems (PDF)" %}}
@@ -2155,7 +2155,7 @@ Lennon, John, and Paul McCartney. "Baby You Can Drive My Car." _Rubber Soul_. Pe
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 966a9ef4-8a1b-f5fc-e138-2efe29b47ff5 "Lecture 24: Diffusion" %}}
 {{< tdclose >}}{{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 62a05864-c28d-130a-1b6a-d3316cb9aa6a "Lecture Slides (PDF - 3.0MB)" %}}
+{{% resource_link 62a05864-c28d-130a-1b6a-d3316cb9aa6a "Lecture Slides (PDF - 3.0MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link 83b93733-79fb-fc6d-6ca0-ce92fbd900a2 "Problems (PDF)" %}}
@@ -2232,7 +2232,7 @@ SUPPLEMENTAL PROBLEMS
 
 {{% resource_link 1c9e156d-958a-8ef7-9cb5-af59bcee91ea "Exam Problems (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 31d982fb-6073-7e40-7940-d3351b0d6e8d "Exam Solutions Key (PDF)" %}}
+{{% resource_link 31d982fb-6073-7e40-7940-d3351b0d6e8d "Exam Solutions Key (PDF)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -2254,7 +2254,7 @@ SUPPLEMENTAL PROBLEMS
 
 {{% resource_link d021a3f1-118d-6504-0551-bc2cebce018e "Supplemental Exam Problems (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 496e3792-fbf9-90c3-3b32-0cc474ad81dc "Supplemental Exam Solutions Key (PDF)" %}}
+{{% resource_link 496e3792-fbf9-90c3-3b32-0cc474ad81dc "Supplemental Exam Solutions Key (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -2297,7 +2297,7 @@ FOR FURTHER STUDY
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 8a7de7f1-6002-06f8-d04c-996f2531b4f1 "Lecture 25: Introduction to Aqueous Solutions" %}}
 {{< tdclose >}}{{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f79062d7-ce66-928e-8a24-0f4df49da174 "Lecture Slides (PDF - 1.3MB)" %}}
+{{% resource_link f79062d7-ce66-928e-8a24-0f4df49da174 "Lecture Slides (PDF - 1.3MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link e0791f0c-6247-373b-8104-4abf62745c6d "Problems (PDF)" %}}
@@ -2361,7 +2361,7 @@ Chang, Kenneth. "[The Nature of Glass Remains Anything but Clear](http://www.nyt
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 2d7ba8e9-116d-f309-e008-2366be88ed34 "Lecture 26: Acids & Bases" %}}
 {{< tdclose >}}{{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 640eaa67-87f3-e093-a7a0-feb777896e17 "Lecture Slides (PDF - 2.2MB)" %}}
+{{% resource_link 640eaa67-87f3-e093-a7a0-feb777896e17 "Lecture Slides (PDF - 2.2MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link f079827b-6e00-6cfc-c4ff-9edb72618c14 "Problems (PDF)" %}}
@@ -2446,7 +2446,7 @@ SUPPLEMENTAL PROBLEMS
 
 {{% resource_link 3bf786d9-c00d-0490-182e-a17e06f78d4e "Exam Problems (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 70d9ed00-9604-f495-c4bb-4b5520858e24 "Exam Solutions Key (PDF)" %}}
+{{% resource_link 70d9ed00-9604-f495-c4bb-4b5520858e24 "Exam Solutions Key (PDF)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -2458,7 +2458,7 @@ SUPPLEMENTAL PROBLEMS
 
 {{% resource_link 4c336404-49bf-46e6-30f8-056705f1e88e "Supplemental Exam Problems (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 37eddf1e-db4a-ec6a-6622-23c5cf3fc7f0 "Supplemental Exam Solutions Key (PDF)" %}}
+{{% resource_link 37eddf1e-db4a-ec6a-6622-23c5cf3fc7f0 "Supplemental Exam Solutions Key (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -2591,7 +2591,7 @@ The Beatles. "Polythene Pam." _Abbey Road_. Apple Records, 1969.
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link bbbdb3df-0009-d643-e369-dcb945181bb9 "Lecture 29: Polymers: Synthesis, Properties & Applications" %}}
 {{< tdclose >}}{{< tdopen >}}
-\[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Lecture Slides (PDF - 3.0MB)\]({{< baseurl >}}/resources/mit3\_091scf09\_lec29)
+\[Lecture Slides (PDF - 3.0MB)\]({{< baseurl >}}/resources/mit3\_091scf09\_lec29)
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link 4807b196-a1d9-578d-c209-490450ef4755 "Problems (PDF)" %}}
@@ -2687,7 +2687,7 @@ _The Graduate_. Directed by M. Nichols. DVD. MGM, 1967.
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 9192442b-3b94-1190-e971-b92b5830ad67 "Lecture 30: Biochemistry: Amino Acids" %}}
 {{< tdclose >}}{{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 8bcb388c-7a1b-0b88-e396-aa431bffeafe "Lecture Slides (PDF - 1.2MB)" %}}
+{{% resource_link 8bcb388c-7a1b-0b88-e396-aa431bffeafe "Lecture Slides (PDF - 1.2MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link 9356a217-52c3-a02f-1d74-97bcadfbb7cb "Problems (PDF)" %}}
@@ -2751,7 +2751,7 @@ Michael Jackson. "Man in the Mirror." _Bad_. Epic Records, 1987.
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 0e4099c8-161c-ec39-b282-28d924526c87 "Lecture 31: Biochemistry: Protein Structure" %}}
 {{< tdclose >}}{{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 0c035893-e9f8-1c23-21cc-59605fe45349 "Lecture Slides (PDF - 1.8MB)" %}}
+{{% resource_link 0c035893-e9f8-1c23-21cc-59605fe45349 "Lecture Slides (PDF - 1.8MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link 3d7353e9-4f3d-c87a-f008-55a6bf2bb7da "Problems (PDF)" %}}
@@ -2808,9 +2808,9 @@ Michael Jackson. "Man in the Mirror." _Bad_. Epic Records, 1987.
 
 {{< /div-with-class >}}{{< div-with-class "toggle150">}}
 
-Watson, J. D., and F. H. C. Crick. "[Molecular Structure of Nucleic Acids.](http://dx.doi.org/10.1038/171737a0)" _Nature_ 171 (1953): 737-738. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
+Watson, J. D., and F. H. C. Crick. "[Molecular Structure of Nucleic Acids.](http://dx.doi.org/10.1038/171737a0)" _Nature_ 171 (1953): 737-738. ([PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
 
-Franklin, R., and R. G. Gosling. "[Molecular Configuration in Sodium Thymonucleate.](http://dx.doi.org/10.1038/171740a0)" _Nature_ 171 (1953): 740-741. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nature.com/nature/dna50/franklingosling.pdf))
+Franklin, R., and R. G. Gosling. "[Molecular Configuration in Sodium Thymonucleate.](http://dx.doi.org/10.1038/171740a0)" _Nature_ 171 (1953): 740-741. ([PDF](http://www.nature.com/nature/dna50/franklingosling.pdf))
 
 Judson, Horace Freeland. _The Eighth Day of Creation: Makers of the Revolution in Biology._ 25th anniversary edition. Woodbury, NY: Cold Spring Harbor Laboratory Press, 1996. ISBN: 9780879694784.
 
@@ -2872,7 +2872,7 @@ SUPPLEMENTAL PROBLEMS
 
 {{% resource_link 948b4c1d-a1d9-e405-4696-976755c4e054 "Exam Problems (PDF)" %}}
 
-\[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Exam Solutions Key (PDF)\]({{< baseurl >}}/resources/mit3\_091scf09\_sa8\_exam\_sol)
+\[Exam Solutions Key (PDF)\]({{< baseurl >}}/resources/mit3\_091scf09\_sa8\_exam\_sol)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -3043,7 +3043,7 @@ Carter, Kelley. "[Absinthe flows again, more stylish than ever](http://www.usato
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link d7df98d7-7f77-3be8-edb5-49b2b94cb5d6 "Lecture 35: Binary Phase Diagrams: Limited Solubility" %}}
 {{< tdclose >}}{{< tdopen >}}
-\[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Lecture Slides (PDF - 1.9MB)\]({{< baseurl >}}/resources/mit3\_091scf09\_lec35)
+\[Lecture Slides (PDF - 1.9MB)\]({{< baseurl >}}/resources/mit3\_091scf09\_lec35)
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link 43564326-ce01-56ef-b245-0f0a5b3fba5e "Problems (PDF)" %}}
@@ -3098,7 +3098,7 @@ SUPPLEMENTAL PROBLEMS
 
 {{% resource_link 317291b7-5151-0ee0-805a-5e44c33c542b "Exam Problems (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2b834de7-d0c9-8eaf-2529-45bc4b93c0a8 "Exam Solutions Key (PDF)" %}}
+{{% resource_link 2b834de7-d0c9-8eaf-2529-45bc4b93c0a8 "Exam Solutions Key (PDF)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -3110,7 +3110,7 @@ SUPPLEMENTAL PROBLEMS
 
 {{% resource_link f55e0ddc-cb6e-27c2-d749-2d23c5ef1f5e "Supplemental Exam Problems (PDF)" %}}
 
-\[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Supplemental Exam Solutions Key (PDF)\]({{< baseurl >}}/resources/mit3\_091scf09\_sa9\_supp\_sol)
+\[Supplemental Exam Solutions Key (PDF)\]({{< baseurl >}}/resources/mit3\_091scf09\_sa9\_supp\_sol)
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -3130,7 +3130,7 @@ FINAL EXAM AND SOLUTIONS
 
 {{% resource_link b6b2d7a8-6497-67f3-20fd-1e78b9ec0cc7 "Final exam (PDF - 1.5MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1d3b0608-b335-7cae-e543-d49694703434 "Final exam solution key (PDF - 4.4MB)" %}}
+{{% resource_link 1d3b0608-b335-7cae-e543-d49694703434 "Final exam solution key (PDF - 4.4MB)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
