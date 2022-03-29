@@ -136,7 +136,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3ee9190e-4569-1927-8563-13f966209d22 "Lecture Slides (PDF - 4.1MB)" %}}
+{{% resource_link 3ee9190e-4569-1927-8563-13f966209d22 "Lecture Slides (PDF - 4.1MB)" %}}
 
 ### Lecture Summary
 
@@ -174,9 +174,9 @@ For Further Study
 
 ### Supplemental Readings
 
-Watson, J. D., and F. H. C. Crick. "[Molecular Structure of Nucleic Acids.](http://dx.doi.org/10.1038/171737a0)" _Nature_ 171 (1953): 737-738. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
+Watson, J. D., and F. H. C. Crick. "[Molecular Structure of Nucleic Acids.](http://dx.doi.org/10.1038/171737a0)" _Nature_ 171 (1953): 737-738. ([PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
 
-Franklin, R., and R. G. Gosling. "[Molecular Configuration in Sodium Thymonucleate.](http://dx.doi.org/10.1038/171740a0)" _Nature_ 171 (1953): 740-741. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nature.com/nature/dna50/franklingosling.pdf))
+Franklin, R., and R. G. Gosling. "[Molecular Configuration in Sodium Thymonucleate.](http://dx.doi.org/10.1038/171740a0)" _Nature_ 171 (1953): 740-741. ([PDF](http://www.nature.com/nature/dna50/franklingosling.pdf))
 
 Judson, Horace Freeland. _The Eighth Day of Creation: Makers of the Revolution in Biology._ 25th anniversary edition. Woodbury, NY: Cold Spring Harbor Laboratory Press, 1996. ISBN: 9780879694784.
 

@@ -141,7 +141,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link d675a426-16a8-d9aa-0071-a682b434e233 "Lecture Slides (PDF - 9.3MB)" %}}
+{{% resource_link d675a426-16a8-d9aa-0071-a682b434e233 "Lecture Slides (PDF - 9.3MB)" %}}
 
 {{% resource_link 9abd92d7-66e1-b816-f50d-00770b2420e1 "Periodic Table and Table of Constants" "#ref" %}}
 

@@ -28,7 +28,7 @@ Weekly Quiz and Solutions
 This short quiz is given approximately once for every three lecture sessions. You should work through the quiz problems in preparation for the exam problems.
 
 *   {{% resource_link 73949f66-24e4-9c91-cb72-a28840128f2b "Quiz problems (PDF)" %}}
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 235c3cd1-5ce6-0caf-eb4c-dc581b6d3c6f "Quiz solutions key (PDF)" %}}
+*   {{% resource_link 235c3cd1-5ce6-0caf-eb4c-dc581b6d3c6f "Quiz solutions key (PDF)" %}}
 
 Exam Problems and Solutions
 ---------------------------
@@ -36,7 +36,7 @@ Exam Problems and Solutions
 These exam problems are intended for you to demonstrate your personal mastery of the material, and should be done alone, closed-book, with just a calculator, the two permitted {{% resource_link 9abd92d7-66e1-b816-f50d-00770b2420e1 "reference tables" "#ref" %}} (periodic table, physical constants), and one 8 1/2" x 11" aid sheet of your own creation.
 
 *   {{% resource_link 72f92a63-63c7-a034-3ecc-b2871cf06776 "Exam problems (PDF)" %}}
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c5667e14-5c26-b51f-6034-09d402e8ae62 "Exam solutions key (PDF - 1.5MB)" %}}
+*   {{% resource_link c5667e14-5c26-b51f-6034-09d402e8ae62 "Exam solutions key (PDF - 1.5MB)" %}}
 
 After you've taken the exam, watch the help session videos below for insights into how to approach some of the exam problems.
 
@@ -59,6 +59,6 @@ Supplemental Exam Problems and Solutions
 These additional exam problems from prior years' classes are offered for further study.
 
 *   {{% resource_link 4d7f5103-d7b1-2ba2-2c94-8b64c3e207d9 "Supplemental exam problems (PDF)" %}}
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 85d44e5b-d704-f614-3527-fbfc764f8088 "Supplemental exam solutions key (PDF - 1.1MB)" %}}
+*   {{% resource_link 85d44e5b-d704-f614-3527-fbfc764f8088 "Supplemental exam solutions key (PDF - 1.1MB)" %}}
 
 « {{% resource_link 5c00821f-505a-eeee-270d-29caeda060dc "Previous" %}} | {{% resource_link 79828d9f-9980-e3bc-b791-bd1403164706 "Next" %}} »

@@ -43,7 +43,7 @@ Exam Problems and Solutions
 These exam problems are intended for you to demonstrate your personal mastery of the material, and should be done alone, closed-book, with just a calculator, the two permitted {{% resource_link 9abd92d7-66e1-b816-f50d-00770b2420e1 "reference tables" "#ref" %}} (periodic table, physical constants), and one 8 1/2" x 11" aid sheet of your own creation.
 
 *   {{% resource_link 948b4c1d-a1d9-e405-4696-976755c4e054 "Exam problems (PDF)" %}}
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 5e502996-5ea0-c1cc-68fa-e7148a1b5c37 "Exam solutions key (PDF)" %}}
+*   {{% resource_link 5e502996-5ea0-c1cc-68fa-e7148a1b5c37 "Exam solutions key (PDF)" %}}
 
 After you've taken the exam, watch the help session videos below for insights into how to approach some of the exam problems.
 
@@ -62,6 +62,6 @@ Supplemental Exam Problems and Solutions
 These additional exam problems from prior years' classes are offered for further study.
 
 *   {{% resource_link a983257e-532f-bf45-aff5-30dec1ecb557 "Supplemental exam problems (PDF)" %}}
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2a98cffc-9778-34fd-b5f5-a2be9b93bccf "Supplemental exam solutions key (PDF)" %}}
+*   {{% resource_link 2a98cffc-9778-34fd-b5f5-a2be9b93bccf "Supplemental exam solutions key (PDF)" %}}
 
 « {{% resource_link 3db3383b-b411-d2fc-45f2-4495b3640825 "Previous" %}} | {{% resource_link f6e01e0c-3963-e495-1396-598462ae7d02 "Next" %}} »

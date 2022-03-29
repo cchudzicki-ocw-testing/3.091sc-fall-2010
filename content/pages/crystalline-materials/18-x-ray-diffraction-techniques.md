@@ -131,7 +131,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e20fd8f3-e73b-3408-320e-a1dae9dc12ec "Lecture Slides (PDF - 5.3MB)" %}}
+{{% resource_link e20fd8f3-e73b-3408-320e-a1dae9dc12ec "Lecture Slides (PDF - 5.3MB)" %}}
 
 ### Lecture Summary
 

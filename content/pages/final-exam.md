@@ -20,7 +20,7 @@ Final Exam
 
 {{% resource_link b6b2d7a8-6497-67f3-20fd-1e78b9ec0cc7 "Final exam (PDF - 1.5MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1d3b0608-b335-7cae-e543-d49694703434 "Final exam solution key (PDF - 4.4MB)" %}}
+{{% resource_link 1d3b0608-b335-7cae-e543-d49694703434 "Final exam solution key (PDF - 4.4MB)" %}}
 
 **Congratulations!** You've completed 3.091SC Introduction to Solid State Chemistry.
 
