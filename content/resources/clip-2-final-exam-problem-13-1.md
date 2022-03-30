@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '879'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Clip 2: Final Exam, Problem 13'
 uid: 403189a5-a999-9944-8bfc-d8cd930d6257
 video_files:

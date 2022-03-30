@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '529'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '250'
 title: 'Clip 4: Exam 3, Problem 2B'
 uid: 1d67b4fb-5361-9c2b-6442-e15a50409738
 video_files:

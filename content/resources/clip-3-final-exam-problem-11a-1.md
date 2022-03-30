@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1224'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: o
 title: 'Clip 3: Final Exam, Problem 11a'
 uid: 8a526561-d0f7-913a-a22b-887f29ffa45f
 video_files:
