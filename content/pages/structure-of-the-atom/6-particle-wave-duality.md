@@ -1,5 +1,6 @@
 ---
 content_type: page
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Structure of the Atom
@@ -8,11 +9,31 @@ parent_uid: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
 title: 6. Particle-Wave Duality
 uid: acd5af93-6551-c69a-d7d6-8b73d9226daa
 ---
-« {{% resource_link e7d31b34-62de-b7aa-1e87-6b9a5a99c71f "Previous" %}} | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7-the-aufbau-principle-photoelectron-spectroscopy) »
+« {{% resource_link e7d31b34-62de-b7aa-1e87-6b9a5a99c71f "Previous" %}} | [Next](https://ocwnext.odl.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/pages/structure-of-the-atom/7-the-aufbau-principle-photoelectron-spectroscopy/) »
 
 ## Session Overview
 
-{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}**Modules**{{< tdclose >}}{{< tdopen >}}Structure of the Atom{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}**Concepts**{{< tdclose >}}{{< tdopen >}}electron orbital filling: Aufbau principle, Pauli exclusion principle, and Hund's rule, photoelectron spectroscopy, average valence electron energy, quantum mechanics: wave/particle duality, Heisenberg uncertainty principle, Schrödinger equation{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}**Keywords**{{< tdclose >}}{{< tdopen >}}Louis de Broglie, Werner Heisenberg, Heisenberg uncertainty principle, Aufbau principle, Wolfgang Pauli, Pauli exclusion principle, Friedrich Hund, Hund's rule, Erwin Schrödinger, Schrödinger equation, quantum number, principal quantum number, angular momentum, magnetic quantum number, electron filling order, electron occupancy, orbital degeneracy, electron configuration, photon, standing wave, destructive interference, constructive interference, metal crystals, x-ray analysis, electron diffraction, matter waves, simple harmonic oscillator, wave equation, eigenfunction, radial probability density, nodes, nodal plane, spectral line splitting, electron spin{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}**Chemical Substances**{{< tdclose >}}{{< tdopen >}}carbon (C), hydrogen (H){{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}**Applications**{{< tdclose >}}{{< tdopen >}}ray optics, wave mechanics{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+**Modules**
+{{< tdclose >}}{{< tdopen >}}
+Structure of the Atom
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}{{< tdopen >}}
+electron orbital filling: Aufbau principle, Pauli exclusion principle, and Hund's rule, photoelectron spectroscopy, average valence electron energy, quantum mechanics: wave/particle duality, Heisenberg uncertainty principle, Schrödinger equation
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}{{< tdopen >}}
+Louis de Broglie, Werner Heisenberg, Heisenberg uncertainty principle, Aufbau principle, Wolfgang Pauli, Pauli exclusion principle, Friedrich Hund, Hund's rule, Erwin Schrödinger, Schrödinger equation, quantum number, principal quantum number, angular momentum, magnetic quantum number, electron filling order, electron occupancy, orbital degeneracy, electron configuration, photon, standing wave, destructive interference, constructive interference, metal crystals, x-ray analysis, electron diffraction, matter waves, simple harmonic oscillator, wave equation, eigenfunction, radial probability density, nodes, nodal plane, spectral line splitting, electron spin
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}{{< tdopen >}}
+carbon (C), hydrogen (H)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+**Applications**
+{{< tdclose >}}{{< tdopen >}}
+ray optics, wave mechanics
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ### Prerequisites
 
@@ -40,7 +61,19 @@ After completing this session, you should be able to:
 
 {{% resource_link 2aee13ce-9bb0-8867-b8d5-816eb0eefc33 "Archived Lecture Notes #2 (PDF)" %}}, Section 3
 
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}Book Chapters{{< thclose >}}{{< thopen >}}Topics{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-04-the-relationship-between-energ.html) 6.4, "The Relationship between Energy and Mass."{{< tdclose >}}{{< tdopen >}}The wave character of matter; standing waves; the Heisenberg uncertainty principle{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-06-building-up-the-periodic-table.html) 6.6, "Building Up the Periodic Table."{{< tdclose >}}{{< tdopen >}}Electron spin: the fourth quantum number; the Pauli principle; electron configuration of the elements{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
+Book Chapters
+{{< thclose >}}{{< thopen >}}
+Topics
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-04-the-relationship-between-energ.html) 6.4, "The Relationship between Energy and Mass."
+{{< tdclose >}}{{< tdopen >}}
+The wave character of matter; standing waves; the Heisenberg uncertainty principle
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-06-building-up-the-periodic-table.html) 6.6, "Building Up the Periodic Table."
+{{< tdclose >}}{{< tdopen >}}
+Electron spin: the fourth quantum number; the Pauli principle; electron configuration of the elements
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ## Lecture Video
 
@@ -72,23 +105,35 @@ In this lecture, Prof. Sadoway discusses the following topics:
 
 ### Textbook Problems
 
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}\[Saylor\] Sections{{< thclose >}}{{< thopen >}}Conceptual{{< thclose >}}{{< thopen >}}Numerical{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-04-the-relationship-between-energ.html) 6.4, "The Relationship between Energy and Mass."{{< tdclose >}}{{< tdopen >}}none{{< tdclose >}}{{< tdopen >}}2, 3, 4, 5, 6{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
+\[Saylor\] Sections
+{{< thclose >}}{{< thopen >}}
+Conceptual
+{{< thclose >}}{{< thopen >}}
+Numerical
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-04-the-relationship-between-energ.html) 6.4, "The Relationship between Energy and Mass."
+{{< tdclose >}}{{< tdopen >}}
+none
+{{< tdclose >}}{{< tdopen >}}
+2, 3, 4, 5, 6
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ## For Further Study
 
 ### Supplemental Readings
 
-Schrödinger, Erwin. _My View of the World_. Cambridge, MA: University Press, 1964.
+Schrödinger, Erwin. *My View of the World*. Cambridge, MA: University Press, 1964.
 
-Schrödinger, Erwin. _Collected Papers on Wave Mechanics: Together With His Four Lectures on Wave Mechanics_. New York, NY: Chelsea Publications, 1982. ISBN: 9780821829769.
+Schrödinger, Erwin. *Collected Papers on Wave Mechanics: Together With His Four Lectures on Wave Mechanics*. New York, NY: Chelsea Publications, 1982. ISBN: 9780821829769.
 
-Peat, F. David. _From Certainty to Uncertainty: The Story of Science and Ideas in the Twentieth Century_. Washington, DC: Joseph Henry Press, 2002. ISBN: 9780309076418.
+Peat, F. David. *From Certainty to Uncertainty: The Story of Science and Ideas in the Twentieth Century*. Washington, DC: Joseph Henry Press, 2002. ISBN: 9780309076418.
 
-Rigden, John S. _Hydrogen: The Essential Element_. Cambridge, MA: Harvard University Press, 2002. ISBN: 9780674012523.
+Rigden, John S. *Hydrogen: The Essential Element*. Cambridge, MA: Harvard University Press, 2002. ISBN: 9780674012523.
 
-Frayn, M. _Copenhagen: A Play in Two Acts_. New York, NY: S. French, 2000.
+Frayn, M. *Copenhagen: A Play in Two Acts*. New York, NY: S. French, 2000.
 
-Powers, Thomas. _Heisenberg's War: The Secret History of the German Bomb_. New York, NY: Knopf, 1993. ISBN: 9780306810114.
+Powers, Thomas. *Heisenberg's War: The Secret History of the German Bomb*. New York, NY: Knopf, 1993. ISBN: 9780306810114.
 
 [How Atoms Work](http://science.howstuffworks.com/atom.htm)
 
@@ -110,9 +155,31 @@ Powers, Thomas. _Heisenberg's War: The Secret History of the German Bomb_. New Y
 
 ### Other OCW and OER Content
 
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}Content{{< thclose >}}{{< thopen >}}Provider{{< thclose >}}{{< thopen >}}Level{{< thclose >}}{{< thopen >}}Notes{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008){{< tdclose >}}{{< tdopen >}}MIT OpenCourseWare{{< tdclose >}}{{< tdopen >}}Undergraduate (first-year){{< tdclose >}}{{< tdopen >}}
-[Lecture 3: Wave-Particle Duality of Light](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-3)
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
+Content
+{{< thclose >}}{{< thopen >}}
+Provider
+{{< thclose >}}{{< thopen >}}
+Level
+{{< thclose >}}{{< thopen >}}
+Notes
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
+{{< tdclose >}}{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}{{< tdopen >}}
+Undergraduate (first-year)
+{{< tdclose >}}{{< tdopen >}}
+[Lecture 3: Wave-Particle Duality of Light](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-3)  
 [Lecture 4: Wave-Particle Duality of Matter](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-4)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}[Atomic Structure](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/atomstructcon.html), [The Schrödinger Equation](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/schrcn.html){{< tdclose >}}{{< tdopen >}}HyperPhysics{{< tdclose >}}{{< tdopen >}}High school{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+[Atomic Structure](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/atomstructcon.html), [The Schrödinger Equation](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/schrcn.html)
+{{< tdclose >}}{{< tdopen >}}
+HyperPhysics
+{{< tdclose >}}{{< tdopen >}}
+High school
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 « {{% resource_link e7d31b34-62de-b7aa-1e87-6b9a5a99c71f "Previous" %}} | {{% resource_link d0470d3e-350a-e01c-66ab-ad1825f65352 "Next" %}} »
