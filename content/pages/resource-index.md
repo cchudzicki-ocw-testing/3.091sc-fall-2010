@@ -624,7 +624,7 @@ SUPPLEMENTAL PROBLEMS
 
 {{< /div-with-class >}}{{< div-with-class "toggle34">}}
 
-\[Clip 1: Exam 1, Problem 1\]({{< baseurl >}}/resources/clip-1-exam-1-problem-1-1)
+[Clip 1: Exam 1, Problem 1]({{< baseurl >}}/resources/clip-1-exam-1-problem-1-1)
 
 {{% resource_link 1b9ed3fa-aae8-9162-adce-6a9f70de988a "Clip 2: Exam 1, Problem 2" %}}
 
@@ -2591,7 +2591,7 @@ The Beatles. "Polythene Pam." _Abbey Road_. Apple Records, 1969.
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link bbbdb3df-0009-d643-e369-dcb945181bb9 "Lecture 29: Polymers: Synthesis, Properties & Applications" %}}
 {{< tdclose >}}{{< tdopen >}}
-\[Lecture Slides (PDF - 3.0MB)\]({{< baseurl >}}/resources/mit3\_091scf09\_lec29)
+[Lecture Slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3\_091scf09\_lec29)
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link 4807b196-a1d9-578d-c209-490450ef4755 "Problems (PDF)" %}}
@@ -2872,7 +2872,7 @@ SUPPLEMENTAL PROBLEMS
 
 {{% resource_link 948b4c1d-a1d9-e405-4696-976755c4e054 "Exam Problems (PDF)" %}}
 
-\[Exam Solutions Key (PDF)\]({{< baseurl >}}/resources/mit3\_091scf09\_sa8\_exam\_sol)
+[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3\_091scf09\_sa8\_exam\_sol)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -3043,7 +3043,7 @@ Carter, Kelley. "[Absinthe flows again, more stylish than ever](http://www.usato
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link d7df98d7-7f77-3be8-edb5-49b2b94cb5d6 "Lecture 35: Binary Phase Diagrams: Limited Solubility" %}}
 {{< tdclose >}}{{< tdopen >}}
-\[Lecture Slides (PDF - 1.9MB)\]({{< baseurl >}}/resources/mit3\_091scf09\_lec35)
+[Lecture Slides (PDF - 1.9MB)]({{< baseurl >}}/resources/mit3\_091scf09\_lec35)
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link 43564326-ce01-56ef-b245-0f0a5b3fba5e "Problems (PDF)" %}}
@@ -3110,7 +3110,7 @@ SUPPLEMENTAL PROBLEMS
 
 {{% resource_link f55e0ddc-cb6e-27c2-d749-2d23c5ef1f5e "Supplemental Exam Problems (PDF)" %}}
 
-\[Supplemental Exam Solutions Key (PDF)\]({{< baseurl >}}/resources/mit3\_091scf09\_sa9\_supp\_sol)
+[Supplemental Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3\_091scf09\_sa9\_supp\_sol)
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
