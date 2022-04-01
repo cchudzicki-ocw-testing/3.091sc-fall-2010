@@ -2202,7 +2202,7 @@ Hornsby, Bruce, and John Hornsby. "The Way It Is." _The Way It Is_. Performed by
 
 [Diffusion](http://cnx.org/content/m1010/latest/)
 
-[1.061/1.61 Transport Processes in the Environment](/courses/1-061-transport-processes-in-the-environment-fall-2008): [Lecture notes, animations, and worked examples](/courses/1-061-transport-processes-in-the-environment-fall-2008/pages/lecture-notes/_index)
+[1.061/1.61 Transport Processes in the Environment](/courses/1-061-transport-processes-in-the-environment-fall-2008): [Lecture notes, animations, and worked examples](/courses/1-061-transport-processes-in-the-environment-fall-2008/pages/lecture-notes)
 
 {{< /div-with-class >}}
 
@@ -2730,7 +2730,7 @@ Michael Jackson. "Man in the Mirror." _Bad_. Epic Records, 1987.
 
 {{< /div-with-class >}}{{< div-with-class "toggle146">}}
 
-[7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011): [Unit 1: Biochemistry](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/biochemistry/_index)
+[7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011): [Unit 1: Biochemistry](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/biochemistry)
 
 {{< /div-with-class >}}
 
@@ -2766,7 +2766,7 @@ Michael Jackson. "Man in the Mirror." _Bad_. Epic Records, 1987.
 
 {{< /div-with-class >}}{{< div-with-class "toggle148">}}
 
-[7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011): [Unit 1: Biochemistry](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/biochemistry/_index)
+[7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011): [Unit 1: Biochemistry](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/biochemistry)
 
 [7.343 Protein Folding, Misfolding and Human Disease](/courses/7-343-when-development-goes-awry-how-cancer-co-opts-mechanisms-of-embryogensis-fall-2009)
 
@@ -2842,7 +2842,7 @@ Hank Ballard and the Midnighters. "The Twist." (B-side with "Teardrops on Your L
 
 {{< /div-with-class >}}{{< div-with-class "toggle153">}}
 
-[7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011): [Unit 1: Biochemistry](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/biochemistry/_index)
+[7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011): [Unit 1: Biochemistry](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/biochemistry)
 
 {{< /div-with-class >}}
 
