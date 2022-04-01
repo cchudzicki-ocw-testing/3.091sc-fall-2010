@@ -173,7 +173,7 @@ MIT OpenCourseWare
 Undergraduate (first-year)
 {{< tdclose >}}
 {{< tdopen >}}
-See [Unit 1: Biochemistry](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/biochemistry/_index)
+See [Unit 1: Biochemistry](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/biochemistry)
 {{< tdclose >}}
 
 {{< trclose >}}
