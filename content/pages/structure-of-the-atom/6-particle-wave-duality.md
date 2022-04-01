@@ -9,7 +9,7 @@ parent_uid: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
 title: 6. Particle-Wave Duality
 uid: acd5af93-6551-c69a-d7d6-8b73d9226daa
 ---
-« {{% resource_link e7d31b34-62de-b7aa-1e87-6b9a5a99c71f "Previous" %}} | [Next](https://ocwnext.odl.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/pages/structure-of-the-atom/7-the-aufbau-principle-photoelectron-spectroscopy/) »
+« {{% resource_link e7d31b34-62de-b7aa-1e87-6b9a5a99c71f "Previous" %}} | [Next](/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/pages/structure-of-the-atom/7-the-aufbau-principle-photoelectron-spectroscopy/) »
 
 ## Session Overview
 
