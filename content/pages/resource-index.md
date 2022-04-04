@@ -624,7 +624,7 @@ SUPPLEMENTAL PROBLEMS
 
 {{< /div-with-class >}}{{< div-with-class "toggle34">}}
 
-[Clip 1: Exam 1, Problem 1]({{< baseurl >}}/resources/clip-1-exam-1-problem-1-1)
+{{% resource_link "13c4f6f3-459b-a254-7ed8-0083e2ebbd5d" "Clip 1: Exam 1, Problem 1" %}}
 
 {{% resource_link 1b9ed3fa-aae8-9162-adce-6a9f70de988a "Clip 2: Exam 1, Problem 2" %}}
 
