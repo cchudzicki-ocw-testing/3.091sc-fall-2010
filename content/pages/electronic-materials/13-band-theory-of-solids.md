@@ -120,7 +120,7 @@ Band theory; requirements for metallic behavior; insulators; semiconductors
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 2.4, "The Metallic Bond."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 2.4, "The Metallic Bond."
 {{< tdclose >}}
 {{< tdopen >}}
 Metallic bonding; delocalized electrons; electronegativity
@@ -129,7 +129,7 @@ Metallic bonding; delocalized electrons; electronegativity
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 15.1, "Charge Carriers and Conduction."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 15.1, "Charge Carriers and Conduction."
 {{< tdclose >}}
 {{< tdopen >}}
 Holes and electrons; Ohm's Law; resistivity/conductivity; carrier mobility and drift velocity
@@ -138,7 +138,7 @@ Holes and electrons; Ohm's Law; resistivity/conductivity; carrier mobility and d
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 15.2, "Energy Levels and Energy Bands."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 15.2, "Energy Levels and Energy Bands."
 {{< tdclose >}}
 {{< tdopen >}}
 Pauli exclusion, Hund's rule, and orbital filling; energy bands and gaps; the Fermi function; thermal promotion; metals, insulators, and semiconductors

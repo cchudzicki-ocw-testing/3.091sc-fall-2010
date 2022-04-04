@@ -67,8 +67,7 @@ chemical analysis, analyzing composition of stars, television
 
 Before starting this session, you should be familiar with:
 
-*   [Session 3: Atomic Models: Rutherford & Bohr  
-    ]({{< baseurl >}}/pages/structure-of-the-atom/3-atomic-models)
+*   {{% resource_link "313524b4-840e-e388-74ee-c0ea90001bd5" "Session 3: Atomic Models: Rutherford & Bohr       " %}}
 
 ### Looking Ahead
 

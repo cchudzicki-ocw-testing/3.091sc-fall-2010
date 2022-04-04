@@ -152,7 +152,7 @@ The unit cell; packing of spheres
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 3.1, "Seven Systems and Fourteen Lattices."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 3.1, "Seven Systems and Fourteen Lattices."
 {{< tdclose >}}
 {{< tdopen >}}
 The unit cell and its parameters; crystal systems and crystal (Bravais) lattices
@@ -161,7 +161,7 @@ The unit cell and its parameters; crystal systems and crystal (Bravais) lattices
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 3.2, "Metal Structures."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 3.2, "Metal Structures."
 {{< tdclose >}}
 {{< tdopen >}}
 Body-centered cubic, face-centered cubic/cubic close-packed, and hexagonal close-packed structures; atomic packing factor; plane stacking

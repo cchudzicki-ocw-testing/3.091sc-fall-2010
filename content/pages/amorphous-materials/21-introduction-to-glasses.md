@@ -99,7 +99,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.5, "Noncrystalline Solids – Three-Dimensional Imperfections."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 4.5, "Noncrystalline Solids – Three-Dimensional Imperfections."
 {{< tdclose >}}
 {{< tdopen >}}
 Random network theory of solids; long-, medium-, and short-range order; oxide, semiconductor, and metallic glasses; network formers and modifiers
@@ -108,7 +108,7 @@ Random network theory of solids; long-, medium-, and short-range order; oxide, s
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 12.2, "Glasses – Noncrystalline Materials."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 12.2, "Glasses – Noncrystalline Materials."
 {{< tdclose >}}
 {{< tdopen >}}
 Network formers, modifiers, and intermediates; commercial silicate glasses; nonsilicate glasses; applications of amorphous solids

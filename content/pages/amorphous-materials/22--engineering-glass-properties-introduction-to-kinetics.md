@@ -177,7 +177,7 @@ Activation energy, graphing the energy changes during a reaction, the Arrhenius 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 12.2, "Glasses – Noncrystalline Materials."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 12.2, "Glasses – Noncrystalline Materials."
 {{< tdclose >}}
 {{< tdopen >}}
 Network formers, modifiers, and intermediates; commercial silicate glasses; nonsilicate glasses; applications of amorphous solids
@@ -186,7 +186,7 @@ Network formers, modifiers, and intermediates; commercial silicate glasses; nons
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 12.3, "Glass-Ceramics."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 12.3, "Glass-Ceramics."
 {{< tdclose >}}
 {{< tdopen >}}
 Heat treatment and crystallization, mechanical and thermal shock resistance, nucleating agents, glass processing techniques

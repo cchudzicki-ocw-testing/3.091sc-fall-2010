@@ -96,7 +96,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 9.1, "The Phase Rule."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 9.1, "The Phase Rule."
 {{< tdclose >}}
 {{< tdopen >}}
 Discussion of phase, component, and state; Gibbs phase rule; unary (one-component) phase diagram
@@ -105,7 +105,7 @@ Discussion of phase, component, and state; Gibbs phase rule; unary (one-componen
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 9.2, "The Phase Diagram."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 9.2, "The Phase Diagram."
 {{< tdclose >}}
 {{< tdopen >}}
 Binary phase diagrams; complete solid solutions; eutectic diagrams with no solid and limited solid solutions

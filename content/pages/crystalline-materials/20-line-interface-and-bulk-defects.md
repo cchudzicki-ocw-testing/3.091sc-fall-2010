@@ -112,7 +112,7 @@ Defects in metals, memory metal, defects in ionic and molecular crystals, non-st
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.3, "Linear Defects, or Dislocations – One-Dimensional Imperfections."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 4.3, "Linear Defects, or Dislocations – One-Dimensional Imperfections."
 {{< tdclose >}}
 {{< tdopen >}}
 Burgers vector; edge, screw, mixed, and partial dislocations
@@ -121,7 +121,7 @@ Burgers vector; edge, screw, mixed, and partial dislocations
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.4, "Planar Defects – Two-Dimensional Imperfections."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 4.4, "Planar Defects – Two-Dimensional Imperfections."
 {{< tdclose >}}
 {{< tdopen >}}
 Twin boundaries, crystal surfaces, and grain boundaries; tilt boundaries, coincident site lattices, and dislocations; grain-size number

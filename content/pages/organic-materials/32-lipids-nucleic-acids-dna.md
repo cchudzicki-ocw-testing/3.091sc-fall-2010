@@ -110,7 +110,7 @@ Overview of lipids and nucleic acids
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[PB-EOC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-eoc) 20-1 through 20-5 in Chapter 20, "Lipids."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[PB-EOC\]" "#pb-eoc" %}} 20-1 through 20-5 in Chapter 20, "Lipids."
 {{< tdclose >}}
 {{< tdopen >}}
 Fatty acids; waxes; fats and oils; soaps, detergents, and micelles; phospholipids
@@ -119,7 +119,7 @@ Fatty acids; waxes; fats and oils; soaps, detergents, and micelles; phospholipid
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[PB-EOC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-eoc) 21-2, 21-5, and 21-8 in Chapter 21, "Nucleosides, Nucleotides, and Nucleic Acids."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[PB-EOC\]" "#pb-eoc" %}} 21-2, 21-5, and 21-8 in Chapter 21, "Nucleosides, Nucleotides, and Nucleic Acids."
 {{< tdclose >}}
 {{< tdopen >}}
 Overview of nucleic acids; DNA and heredity; biosynthesis of proteins via translation

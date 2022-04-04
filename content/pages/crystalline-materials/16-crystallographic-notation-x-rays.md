@@ -118,7 +118,7 @@ The unit cell; packing of spheres
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 3.2, "Metal Structures."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 3.2, "Metal Structures."
 {{< tdclose >}}
 {{< tdopen >}}
 Body-centered cubic, face-centered cubic/cubic close-packed, and hexagonal close-packed structures; atomic packing factor; plane stacking
@@ -127,7 +127,7 @@ Body-centered cubic, face-centered cubic/cubic close-packed, and hexagonal close
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 3.6, "Lattice Positions, Directions, and Planes."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 3.6, "Lattice Positions, Directions, and Planes."
 {{< tdclose >}}
 {{< tdopen >}}
 Lattice points and translations; lattice directions and planes; Miller indices; families of directions and planes; planar and linear atomic density
@@ -161,7 +161,7 @@ Homework
 
 ### Textbook Problems
 
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) Chapter 3, Sample Problems 8-10, 13-19; Practice Problems 11-14, 16-21
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} Chapter 3, Sample Problems 8-10, 13-19; Practice Problems 11-14, 16-21
 
 For Further Study
 -----------------

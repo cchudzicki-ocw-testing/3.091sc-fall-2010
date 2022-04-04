@@ -119,7 +119,7 @@ Survey of proteins, carbohydrates, lipids, and nucleic acids
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[PB-EOC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-eoc) 17-1 through 17-4 in Chapter 17, "Amino Acids, Peptides, and Proteins."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[PB-EOC\]" "#pb-eoc" %}} 17-1 through 17-4 in Chapter 17, "Amino Acids, Peptides, and Proteins."
 {{< tdclose >}}
 {{< tdopen >}}
 Overview and configurations of the 20 common amino acids; acid-base properties; isoelectric point pI
@@ -128,7 +128,7 @@ Overview and configurations of the 20 common amino acids; acid-base properties; 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[RH\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#rh) 3, "Amino Acids and the Primary Structures of Proteins."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[RH\]" "#rh" %}} 3, "Amino Acids and the Primary Structures of Proteins."
 {{< tdclose >}}
 {{< tdopen >}}
 General structure of amino acids; details on each of the 20 common amino acids; other amino acids and derivatives; ionization of amino acids; creating proteins with peptide bond links

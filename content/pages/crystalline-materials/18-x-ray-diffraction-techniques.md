@@ -114,7 +114,7 @@ Common structures of binary compounds, x-ray diffraction
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 3.7, "X-Ray Diffraction."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 3.7, "X-Ray Diffraction."
 {{< tdclose >}}
 {{< tdopen >}}
 Diffraction, Braggs' law and reflection rules; single-crystal, polycrystal, and powder diffraction techniques
@@ -146,7 +146,7 @@ Homework
 
 ### Textbook Problems
 
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) Chapter 3, Sample Problems 20, 21
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} Chapter 3, Sample Problems 20, 21
 
 {{< tableopen >}}
 {{< theadopen >}}

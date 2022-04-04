@@ -100,7 +100,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[PB-OC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-oc) 28, "Synthetic Polymers."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[PB-OC\]" "#pb-oc" %}} 28, "Synthetic Polymers."
 {{< tdclose >}}
 {{< tdopen >}}
 Addition and condensation synthesis; addition (chain growth) and condensation (step growth) polymers; stereochemistry; dienes and rubber; copolymers; structure-property relationships
@@ -109,7 +109,7 @@ Addition and condensation synthesis; addition (chain growth) and condensation (s
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 13.1, "Polymerization."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 13.1, "Polymerization."
 {{< tdclose >}}
 {{< tdopen >}}
 Polymer form as it relates to synthesis; example of collagen
@@ -118,7 +118,7 @@ Polymer form as it relates to synthesis; example of collagen
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 13.2, "Structural Features of Polymers."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 13.2, "Structural Features of Polymers."
 {{< tdclose >}}
 {{< tdopen >}}
 Polymer structure as it relates to synthesis; example of rubber vulcanization
@@ -163,7 +163,7 @@ Homework
 
 ### Textbook Problems
 
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) Chapter 13, Sample Problems 13.1 and 13.4
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} Chapter 13, Sample Problems 13.1 and 13.4
 
 For Further Study
 -----------------

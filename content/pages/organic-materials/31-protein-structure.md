@@ -102,7 +102,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[PB-EOC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-eoc) 17-6 through 17-12 in Chapter 17, "Amino Acids, Peptides, and Proteins."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[PB-EOC\]" "#pb-eoc" %}} 17-6 through 17-12 in Chapter 17, "Amino Acids, Peptides, and Proteins."
 {{< tdclose >}}
 {{< tdopen >}}
 Peptide and disulfide bonds; overview of protein structure; primary, secondary, tertiary, and quaternary structures; protein denaturation

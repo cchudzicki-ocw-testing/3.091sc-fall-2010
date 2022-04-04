@@ -46,7 +46,7 @@ Exam Help Session Videos
 
 In these videos, 3.091 teaching assistants review some of the exam problems, demonstrating their approach to solutions, and noting some common mistakes made by students.
 
-[Clip 1: Exam 1, Problem 1]({{< baseurl >}}/resources/clip-1-exam-1-problem-1)
+{{% resource_link "045aa8eb-a1be-2ad3-ad25-7019dff791f1" "Clip 1: Exam 1, Problem 1" %}}
 
 {{% resource_link c5b0a0b0-2571-76a6-caf9-db81402de91d "Clip 2: Exam 1, Problem 2" %}}
 

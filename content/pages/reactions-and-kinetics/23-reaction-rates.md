@@ -148,7 +148,7 @@ Graphing reaction concentration data to show reaction orders and rate constants;
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.1, "Thermally Activated Processes."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 5.1, "Thermally Activated Processes."
 {{< tdclose >}}
 {{< tdopen >}}
 Arrhenius equation; activation energy; Maxwell-Boltzmann distribution; process mechanisms and rate-limiting steps
@@ -157,7 +157,7 @@ Arrhenius equation; activation energy; Maxwell-Boltzmann distribution; process m
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.2, "Thermal Production of Point Defects."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 5.2, "Thermal Production of Point Defects."
 {{< tdclose >}}
 {{< tdopen >}}
 Activation energy of vacancies vs. interstitials; Arrhenius plot; thermal expansion

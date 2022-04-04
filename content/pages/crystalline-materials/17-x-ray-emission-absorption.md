@@ -110,7 +110,7 @@ Moseley's discovery of atomic number and its role in the periodic table
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[C&S\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#c_s) 1, "Properties of X-Rays."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[C&S\]" "#c_s" %}} 1, "Properties of X-Rays."
 {{< tdclose >}}
 {{< tdopen >}}
 Electromagnetic radiation; the continuous and characteristic spectrums; production and detection of x-rays; safety precautions
