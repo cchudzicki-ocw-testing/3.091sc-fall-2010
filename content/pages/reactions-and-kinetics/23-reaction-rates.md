@@ -47,7 +47,7 @@ steric hindrance, cisplatin, first-order, second-order, zero-order, half-life, r
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-dinitrogen pentoxide (N{{< sub "2" >}}O{{< sub "5" >}}), nitrogen dioxide (NO{{< sub "2" >}}), oxygen gas (O{{< sub "2" >}}), nitric oxide (NO), cisplatin (PtCl{{< sub "2" >}}(NH{{< sub "3" >}}){{< sub "2" >}}), water (H{{< sub "2" >}}O), chloride (Cl{{< sup "\\-" >}}), uranium-238 ({{< sup "238" >}}U), thorium-234 ({{< sup "234" >}}Th), helium ({{< sup "4" >}}He), carbon monoxide (CO), carbon dioxide (CO{{< sub "2" >}}), carbon (C), silicon (Si), boron (B), diborane (B{{< sub "2" >}}H{{< sub "6" >}}), hydrogen gas (H{{< sub "2" >}}), octane (C{{< sub "8" >}}H{{< sub "18" >}}), platinum (Pt), palladium (Pd), rhodium (Rh)
+dinitrogen pentoxide (N{{< sub "2" >}}O{{< sub "5" >}}), nitrogen dioxide (NO{{< sub "2" >}}), oxygen gas (O{{< sub "2" >}}), nitric oxide (NO), cisplatin (PtCl{{< sub "2" >}}(NH{{< sub "3" >}}){{< sub "2" >}}), water (H{{< sub "2" >}}O), chloride (Cl{{< sup "\-" >}}), uranium-238 ({{< sup "238" >}}U), thorium-234 ({{< sup "234" >}}Th), helium ({{< sup "4" >}}He), carbon monoxide (CO), carbon dioxide (CO{{< sub "2" >}}), carbon (C), silicon (Si), boron (B), diborane (B{{< sub "2" >}}H{{< sub "6" >}}), hydrogen gas (H{{< sub "2" >}}), octane (C{{< sub "8" >}}H{{< sub "18" >}}), platinum (Pt), palladium (Pd), rhodium (Rh)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +148,7 @@ Graphing reaction concentration data to show reaction orders and rate constants;
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.1, "Thermally Activated Processes."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 5.1, "Thermally Activated Processes."
 {{< tdclose >}}
 {{< tdopen >}}
 Arrhenius equation; activation energy; Maxwell-Boltzmann distribution; process mechanisms and rate-limiting steps
@@ -157,7 +157,7 @@ Arrhenius equation; activation energy; Maxwell-Boltzmann distribution; process m
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.2, "Thermal Production of Point Defects."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 5.2, "Thermal Production of Point Defects."
 {{< tdclose >}}
 {{< tdopen >}}
 Activation energy of vacancies vs. interstitials; Arrhenius plot; thermal expansion
@@ -174,7 +174,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 76b20538-5820-149e-6cd1-3b74c33fc2e0 "Lecture Slides (PDF - 1.4MB)" %}}
+{{% resource_link 76b20538-5820-149e-6cd1-3b74c33fc2e0 "Lecture Slides (PDF - 1.4MB)" %}}
 
 ### Lecture Summary
 

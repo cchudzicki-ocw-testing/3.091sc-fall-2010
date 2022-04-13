@@ -114,7 +114,7 @@ Defects in metals, memory metal, defects in ionic and molecular crystals, nonsto
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.1, "The Solid Solution – Chemical Imperfection."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 4.1, "The Solid Solution – Chemical Imperfection."
 {{< tdclose >}}
 {{< tdopen >}}
 Random and ordered solid solutions, Hume-Rothery rules, interstitial and substitutional solutes, charge neutrality
@@ -123,7 +123,7 @@ Random and ordered solid solutions, Hume-Rothery rules, interstitial and substit
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.2, "Point Defects – Zero-Dimensional Imperfections."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 4.2, "Point Defects – Zero-Dimensional Imperfections."
 {{< tdclose >}}
 {{< tdopen >}}
 Vacancies and interstitial defects, Schottky and Frenkel defects
@@ -132,7 +132,7 @@ Vacancies and interstitial defects, Schottky and Frenkel defects
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.3, "Linear Defects, or Dislocations – One-Dimensional Imperfections."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 4.3, "Linear Defects, or Dislocations – One-Dimensional Imperfections."
 {{< tdclose >}}
 {{< tdopen >}}
 Burgers vector; edge, screw, mixed, and partial dislocations
@@ -141,7 +141,7 @@ Burgers vector; edge, screw, mixed, and partial dislocations
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.1, "Thermally-Activated Processes."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 5.1, "Thermally-Activated Processes."
 {{< tdclose >}}
 {{< tdopen >}}
 Arrhenius equation, activation energy, Maxwell-Boltzmann distribution, process mechanisms and rate-limiting steps
@@ -150,7 +150,7 @@ Arrhenius equation, activation energy, Maxwell-Boltzmann distribution, process m
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.2, "Thermal Production of Point Defects."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 5.2, "Thermal Production of Point Defects."
 {{< tdclose >}}
 {{< tdopen >}}
 Activation energy of vacancies vs. interstitials, Arrhenius plot, thermal expansion
@@ -167,11 +167,11 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e9d87068-09d2-3de0-3d37-a624db0b8967 "Lecture Slides (PDF - 3.0MB)" %}}
+{{% resource_link e9d87068-09d2-3de0-3d37-a624db0b8967 "Lecture Slides (PDF - 3.0MB)" %}}
 
 ### Lecture Summary
 
-Prof. Michael Demkowicz ([homepage](https://engineering.tamu.edu/materials/people/demkowicz-michael-j.html)) lectures today, introducing the next topic: imperfections in crystal lattices. In the real world, materials rarely consist of single, perfect crystals; **defects** in crystals occur naturally, or are introduced during processing. While unwanted defects can **weaken** or **contaminate** materials (e.g. Li{{< sup "+" >}} in saline solution (NaCl{{< sub "(aq)" >}}), others can create enhanced properties (e.g. **alloys**, **dopants**). Creating an empty crystal lattice site (**vacancy**) requires overcoming bonds with nearest-neighbor atoms, typically with **thermal energy**. Vacancies in a regular lattice of A atoms may be filled by an atom of B (**substitutional**, e.g. P in Si, B in C), while **interstitial** sites can host atoms of A (self interstitial) or B (interstitial impurity, e.g. C in Fe, H in LaNi{{< sub "5" >}}, H in Fe). In ionic crystals, overall **charge neutrality** must be preserved, so a whole stoichiometric unit may be removed to create two or more vacancies (**Schottky**); one ion may move to an interstitial site (**Frenkel**); or one or more electrons may fill an anionic vacancy (**F-center**). Line defects occur when a **lattice mismatch** runs through the crystal.
+Prof. Michael Demkowicz ([homepage](https://engineering.tamu.edu/materials/people/demkowicz-michael-j.html)) lectures today, introducing the next topic: imperfections in crystal lattices. In the real world, materials rarely consist of single, perfect crystals; **defects** in crystals occur naturally, or are introduced during processing. While unwanted defects can **weaken** or **contaminate** materials (e.g. Li{{< sup "\+" >}} in saline solution (NaCl{{< sub "(aq)" >}}), others can create enhanced properties (e.g. **alloys**, **dopants**). Creating an empty crystal lattice site (**vacancy**) requires overcoming bonds with nearest-neighbor atoms, typically with **thermal energy**. Vacancies in a regular lattice of A atoms may be filled by an atom of B (**substitutional**, e.g. P in Si, B in C), while **interstitial** sites can host atoms of A (self interstitial) or B (interstitial impurity, e.g. C in Fe, H in LaNi{{< sub "5" >}}, H in Fe). In ionic crystals, overall **charge neutrality** must be preserved, so a whole stoichiometric unit may be removed to create two or more vacancies (**Schottky**); one ion may move to an interstitial site (**Frenkel**); or one or more electrons may fill an anionic vacancy (**F-center**). Line defects occur when a **lattice mismatch** runs through the crystal.
 
 Homework
 --------
@@ -182,7 +182,7 @@ Homework
 
 ### Textbook Problems
 
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) Chapter 5, Sample Problem 2, Practice Problem 2
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} Chapter 5, Sample Problem 2, Practice Problem 2
 
 {{< tableopen >}}
 {{< theadopen >}}
