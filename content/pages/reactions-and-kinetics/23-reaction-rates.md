@@ -47,7 +47,7 @@ steric hindrance, cisplatin, first-order, second-order, zero-order, half-life, r
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-dinitrogen pentoxide (N{{< sub "2" >}}O{{< sub "5" >}}), nitrogen dioxide (NO{{< sub "2" >}}), oxygen gas (O{{< sub "2" >}}), nitric oxide (NO), cisplatin (PtCl{{< sub "2" >}}(NH{{< sub "3" >}}){{< sub "2" >}}), water (H{{< sub "2" >}}O), chloride (Cl{{< sup "\\-" >}}), uranium-238 ({{< sup "238" >}}U), thorium-234 ({{< sup "234" >}}Th), helium ({{< sup "4" >}}He), carbon monoxide (CO), carbon dioxide (CO{{< sub "2" >}}), carbon (C), silicon (Si), boron (B), diborane (B{{< sub "2" >}}H{{< sub "6" >}}), hydrogen gas (H{{< sub "2" >}}), octane (C{{< sub "8" >}}H{{< sub "18" >}}), platinum (Pt), palladium (Pd), rhodium (Rh)
+dinitrogen pentoxide (N{{< sub "2" >}}O{{< sub "5" >}}), nitrogen dioxide (NO{{< sub "2" >}}), oxygen gas (O{{< sub "2" >}}), nitric oxide (NO), cisplatin (PtCl{{< sub "2" >}}(NH{{< sub "3" >}}){{< sub "2" >}}), water (H{{< sub "2" >}}O), chloride (Cl{{< sup "\-" >}}), uranium-238 ({{< sup "238" >}}U), thorium-234 ({{< sup "234" >}}Th), helium ({{< sup "4" >}}He), carbon monoxide (CO), carbon dioxide (CO{{< sub "2" >}}), carbon (C), silicon (Si), boron (B), diborane (B{{< sub "2" >}}H{{< sub "6" >}}), hydrogen gas (H{{< sub "2" >}}), octane (C{{< sub "8" >}}H{{< sub "18" >}}), platinum (Pt), palladium (Pd), rhodium (Rh)
 {{< tdclose >}}
 
 {{< trclose >}}

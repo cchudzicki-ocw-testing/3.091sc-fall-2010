@@ -47,7 +47,7 @@ Wolfgang Pauli, primary bond, ionic bond, covalent bond, metallic bond, electron
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-ethylene (C{{< sub "2" >}}H{{< sub "4" >}}), methane (CH{{< sub "4" >}}), carbon (C), acetylene (C{{< sub "2" >}}H{{< sub "2" >}}), titanium tetrachloride (TiCl{{< sub "4" >}}), sulfur hexafluoride (SF{{< sub "6" >}}), bromine pentafluoride (BrF{{< sub "5" >}}), iodine tetrafluoride (IF{{< sub "4" >}}{{< sup "\\-" >}}), helium (He), dilithium (Li{{< sub "2" >}}), disodium (Na{{< sub "2" >}}), nitrogen (N{{< sub "2" >}}), oxygen (O{{< sub "2" >}}), fluorine (F{{< sub "2" >}})
+ethylene (C{{< sub "2" >}}H{{< sub "4" >}}), methane (CH{{< sub "4" >}}), carbon (C), acetylene (C{{< sub "2" >}}H{{< sub "2" >}}), titanium tetrachloride (TiCl{{< sub "4" >}}), sulfur hexafluoride (SF{{< sub "6" >}}), bromine pentafluoride (BrF{{< sub "5" >}}), iodine tetrafluoride (IF{{< sub "4" >}}{{< sup "\-" >}}), helium (He), dilithium (Li{{< sub "2" >}}), disodium (Na{{< sub "2" >}}), nitrogen (N{{< sub "2" >}}), oxygen (O{{< sub "2" >}}), fluorine (F{{< sub "2" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

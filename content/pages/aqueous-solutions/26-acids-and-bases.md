@@ -47,7 +47,7 @@ acid, base, alkali, acid-base reaction, proton, electron, donor, acceptor, neutr
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-ammonia (NH{{< sub "3" >}}), ammonium (NH{{< sub "4" >}}), hydronium (H{{< sub "3" >}}O{{< sup "+" >}}), hydroxyl (OH{{< sup "\\-" >}}), acetic acid (CH{{< sub "3" >}}COOH), sulfur dioxide (SO{{< sub "2" >}})
+ammonia (NH{{< sub "3" >}}), ammonium (NH{{< sub "4" >}}), hydronium (H{{< sub "3" >}}O{{< sup "\+" >}}), hydroxyl (OH{{< sup "\-" >}}), acetic acid (CH{{< sub "3" >}}COOH), sulfur dioxide (SO{{< sub "2" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
