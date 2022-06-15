@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains materials for the session on particle-wave duality.
+  It features a 1-hour lecture video, and also presents the prerequisites, learning
+  objectives, reading assignment, lecture slides, homework with solutions, and resources
+  for further study.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
