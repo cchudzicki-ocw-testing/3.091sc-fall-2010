@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a course module on bonding and molecules.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Bonding and Molecules

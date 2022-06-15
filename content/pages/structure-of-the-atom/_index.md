@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a course module on the structure of the atom.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Structure of the Atom

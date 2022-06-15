@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This page contains materials for the session on the periodic table.
+  It features a 1-hour lecture video, and also presents the prerequisites, learning
+  objectives, reading assignment, lecture slides, homework with solutions, and resources
+  for further study.  '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Structure of the Atom

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a course module on solid solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Solid Solutions

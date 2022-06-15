@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page contains materials for the solid solutions class session introducing
+  binary phase diagrams with a focus on the complete solubility case. It features
+  a 1-hour lecture video, and also presents the prerequisites, learning objectives,
+  reading assignment, lecture slides, homework with solutions, and resources for further
+  study.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Solid Solutions

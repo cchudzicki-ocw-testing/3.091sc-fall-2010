@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains photos, short personal statements, and biographies
+  of the three 3.091 teaching assistants featured in the help session videos.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus

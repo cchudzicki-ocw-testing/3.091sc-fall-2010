@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains materials for the class session introducing organic
+  chemistry. It features a 1-hour lecture video, and also presents the prerequisites,
+  learning objectives, reading assignment, lecture slides, and resources for further
+  study. No homework is assigned for this session.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Organic Materials

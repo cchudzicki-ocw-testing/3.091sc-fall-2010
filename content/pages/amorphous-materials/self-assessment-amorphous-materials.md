@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains materials for self-assessment on the Amorphous Materials
+  module. It presents problems and solution keys from the weekly quizzes and exam
+  problems, plus supplemental exam problems with solutions for study, and features
+  help session videos by some teaching assistants.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Amorphous Materials

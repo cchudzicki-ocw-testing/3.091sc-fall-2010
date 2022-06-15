@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the final exam for the course, a solution key,
+  and lecture summary notes presented as a study aid in reviewing for the final exam.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Final Exam

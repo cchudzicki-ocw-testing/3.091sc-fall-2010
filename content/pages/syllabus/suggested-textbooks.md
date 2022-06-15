@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides reference materials on elements and fundamental
+  physical constants, and a list of suggested textbooks for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview with video introduction
+  by Prof. Sadoway; background information on prerequisites, learning objectives,
+  and expectations; a summary of the course topics and structure; information about
+  reference materials and suggested textbooks, and technical requirements.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

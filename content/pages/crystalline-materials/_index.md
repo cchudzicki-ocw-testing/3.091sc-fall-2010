@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a course module on crystalline materials.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Crystalline Materials
