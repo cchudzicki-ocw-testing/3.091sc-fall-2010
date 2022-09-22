@@ -5,6 +5,7 @@ description: This resource contains information about Introduction to solid stat
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/debd5701469ce24aac7ae098cae6a8b5_MIT3_091SCF09_lec1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 1. Introduction to Solid State Chemistry
 parent_type: CourseSection

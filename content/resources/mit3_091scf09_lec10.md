@@ -5,6 +5,7 @@ description: This resource contains the information about the hybridized & molec
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/8fab69bd9a8f6e8da2e490e8816cfdb5_MIT3_091SCF09_lec10.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 10. Hybridized & Molecular Orbitals; Paramagnetism
 parent_type: CourseSection

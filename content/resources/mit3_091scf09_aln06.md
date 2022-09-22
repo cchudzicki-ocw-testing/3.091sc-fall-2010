@@ -5,6 +5,7 @@ description: This resource contains the information about the the imperfect soli
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/128d0c6d4b746a7866e75600347e12cd_MIT3_091SCF09_aln06.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection

@@ -4,6 +4,7 @@ description: 'This resource contains weekly homework quiz: solution outline.'
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/db3f968796ba32e575daa5cec26cf55d_MIT3_091SCF09_sa6_quiz_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Self-Assessment: Reactions and Kinetics'
 parent_type: CourseSection

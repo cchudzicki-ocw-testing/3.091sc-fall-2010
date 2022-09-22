@@ -4,6 +4,7 @@ description: This resource contains the information about the particle-wave dual
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/12e29e8cf9ea13530062a0f9f9923718_MIT3_091SCF09_lec6.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 6. Particle-Wave Duality
 parent_type: CourseSection
