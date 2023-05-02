@@ -16,7 +16,7 @@ parent_title: 'Self-Assessment: Bonding and Molecules'
 parent_type: CourseSection
 parent_uid: e546abb4-cde9-4dcd-5383-555e591eed18
 resourcetype: Document
-title: Transcript - Exam 2 Problem 4
+title: MIT3_091SCF10Exam_2_Prob_4_300k.pdf
 uid: 9d71ee74-8b8f-174b-8e64-fdfd090bdb65
 video_files:
   video_captions_file: ''
