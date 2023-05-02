@@ -16,7 +16,7 @@ parent_title: 'Self-Assessment: Structure of the Atom'
 parent_type: CourseSection
 parent_uid: e0f0b093-6ba1-323d-d748-bdec78bb7499
 resourcetype: Document
-title: MIT3_091SCF10Exam_1_Prob_6_300k
+title: Transcript Exam 1 Problem 6
 uid: b1054823-0f4c-b936-3d55-541de705c40d
 video_files:
   video_captions_file: ''
