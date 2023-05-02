@@ -9,7 +9,6 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exam Materials
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
